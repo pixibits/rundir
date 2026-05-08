@@ -5,12 +5,12 @@ forward void Q4N7();
 trigger creation {
 	int Q62A = getObjType(this);
 	switch(Q62A) {
-	case 0x0D94
-	case 0x0D98
-	case 0x0D9C
-	case 0x0DA0
-	case 0x0DA4
-	case 0x0DA8
+	case 0x0D96
+	case 0x0D9A
+	case 0x0D9E
+	case 0x0DA2
+	case 0x0DA6
+	case 0x0DAA
 	case 0x0CA8
 	case 0x0CAA
 	case 0x0CAB
@@ -31,16 +31,16 @@ trigger callback(0x40) {
 		int Q62A = getObjType(this);
 		int fruit;
 		switch(Q62A) {
-		case 0x0D94
-		case 0x0D98
+		case 0x0D96
+		case 0x0D9A
 			fruit = 0x09D0;
 			break;
-		case 0x0D9C
-		case 0x0DA0
+		case 0x0D9E
+		case 0x0DA2
 			fruit = 0x09D2;
 			break;
-		case 0x0DA4
-		case 0x0DA8
+		case 0x0DA6
+		case 0x0DAA
 			fruit = 0x172D;
 			break;
 		case 0x0CA8
@@ -78,44 +78,44 @@ trigger use {
 	int Q52L = 0x00;
 	int fruit;
 	switch(Q62A) {
-	case 0x0D94
-	case 0x0D98
+	case 0x0D96
+	case 0x0D9A
 		Q52L = 0x00;
 		fruit = 0x09D0;
 		break;
+	case 0x0D94
 	case 0x0D95
-	case 0x0D96
 	case 0x0D97
+	case 0x0D98
 	case 0x0D99
-	case 0x0D9A
 	case 0x0D9B
 		Q52L = 0x01;
 		fruit = 0x09D0;
 		break;
-	case 0x0D9C
-	case 0x0DA0
+	case 0x0D9E
+	case 0x0DA2
 		Q52L = 0x00;
 		fruit = 0x09D2;
 		break;
+	case 0x0D9C
 	case 0x0D9D
-	case 0x0D9E
 	case 0x0D9F
+	case 0x0DA0
 	case 0x0DA1
-	case 0x0DA2
 	case 0x0DA3
 		Q52L = 0x01;
 		fruit = 0x09D2;
 		break;
-	case 0x0DA4
-	case 0x0DA8
+	case 0x0DA6
+	case 0x0DAA
 		Q52L = 0x00;
 		fruit = 0x172D;
 		break;
+	case 0x0DA4
 	case 0x0DA5
-	case 0x0DA6
 	case 0x0DA7
+	case 0x0DA8
 	case 0x0DA9
-	case 0x0DAA
 	case 0x0DAB
 		Q52L = 0x01;
 		fruit = 0x172D;
@@ -140,27 +140,21 @@ trigger use {
 	if (Q52L == 0x01) {
 		switch(fruit) {
 		case 0x09D0
-		case 0x0D94
-		case 0x0D98
-			Q551 = getFirstObjectOfType(Q61V, 0x0D94);
+			Q551 = getFirstObjectOfType(Q61V, 0x0D96);
 			if (Q551 == NULL()) {
-				Q551 = getFirstObjectOfType(Q61V, 0x0D98);
+				Q551 = getFirstObjectOfType(Q61V, 0x0D9A);
 			}
 			break;
 		case 0x09D2
-		case 0x0D9C
-		case 0x0DA0
-			Q551 = getFirstObjectOfType(Q61V, 0x0D9C);
+			Q551 = getFirstObjectOfType(Q61V, 0x0D9E);
 			if (Q551 == NULL()) {
-				Q551 = getFirstObjectOfType(Q61V, 0x0DA0);
+				Q551 = getFirstObjectOfType(Q61V, 0x0DA2);
 			}
 			break;
 		case 0x172D
-		case 0x0DA4
-		case 0x0DA8
-			Q551 = getFirstObjectOfType(Q61V, 0x0DA4);
+			Q551 = getFirstObjectOfType(Q61V, 0x0DA6);
 			if (Q551 == NULL()) {
-				Q551 = getFirstObjectOfType(Q61V, 0x0DA8);
+				Q551 = getFirstObjectOfType(Q61V, 0x0DAA);
 			}
 			break;
 		}
