@@ -767,6 +767,7 @@ tinker skill
 Torches:
 2598 unlit candle
 2600 unlit candle
+2842 lit candle
 2584 unlit lantern
 2589 unlit lantern
 2597 unlit lantern
