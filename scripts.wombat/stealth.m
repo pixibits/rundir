@@ -15,7 +15,7 @@ trigger message("useSkill") {
 		barkToHued(this, this, 0x22, "You must hide first");
 		return(0x00);
 	}
-	if (getSkillLevel(this, 0x15) < 80) {
+	if (getSkillLevel(this, 0x15) < 0x50) {
 		barkToHued(this, this, 0x22, "You are not hidden well enough.  Become better at hiding.");
 		return(0x00);
 	}
@@ -24,7 +24,7 @@ trigger message("useSkill") {
 		barkToHued(this, this, 0x22, "You fail in your attempt to move unnoticed.");
 		return(0x00);
 	}
-	int maxSteps = getSkillLevel(this, 0x2F) / 10;
+	int maxSteps = getSkillLevel(this, 0x2F) / 0x0A;
 	if (maxSteps < 0x01) {
 		maxSteps = 0x01;
 	}

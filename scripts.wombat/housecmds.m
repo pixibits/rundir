@@ -76,19 +76,15 @@ trigger targetobj {
 	if (!hasObjVar(this, "cmdAction")) {
 		return(0x01);
 	}
-
 	obj speaker = getObjVar(this, "cmdSpeaker");
 	int action = getObjVar(this, "cmdAction");
 	removeObjVar(this, "cmdAction");
 	removeObjVar(this, "cmdSpeaker");
-
 	obj multi = getMultiSlaveId(this);
-
 	if (!Q4X6(multi, speaker)) {
 		systemMessage(speaker, "You must be in your house to do this.");
 		return(0x01);
 	}
-
 	if (action == 0x01) {
 		if (hasScript(usedon, "lockdown")) {
 			systemMessage(speaker, "This is already locked down!");
@@ -102,7 +98,6 @@ trigger targetobj {
 		systemMessage(speaker, "Locked down!");
 		return(0x01);
 	}
-
 	if (action == 0x02) {
 		if (hasScript(usedon, "lockdown")) {
 			detachScript(usedon, "lockdown");
@@ -118,7 +113,6 @@ trigger targetobj {
 		}
 		return(0x01);
 	}
-
 	if (action == 0x03) {
 		if (hasObjVar(usedon, "securedBy")) {
 			systemMessage(speaker, "This is already secure!");
@@ -129,7 +123,6 @@ trigger targetobj {
 		systemMessage(speaker, "Secure!");
 		return(0x01);
 	}
-
 	if (action == 0x04) {
 		if (hasObjVar(usedon, "securedBy")) {
 			detachScript(usedon, "lockdown");
@@ -140,7 +133,6 @@ trigger targetobj {
 		}
 		return(0x01);
 	}
-
 	if (action == 0x07) {
 		if (!isPlayer(usedon)) {
 			systemMessage(speaker, "You cannot eject that from the house!");
@@ -168,7 +160,6 @@ trigger targetobj {
 		teleport(usedon, banLoc);
 		return(0x01);
 	}
-
 	if (action == 0x08) {
 		if (!isPlayer(usedon)) {
 			systemMessage(speaker, "You cannot eject that from the house!");
@@ -186,6 +177,5 @@ trigger targetobj {
 		systemMessage(usedon, "You have been ejected from this house. If you persist in entering, you may be banned from the house.");
 		return(0x01);
 	}
-
 	return(0x01);
 }
