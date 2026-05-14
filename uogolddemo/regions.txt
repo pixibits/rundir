@@ -337,10 +337,7 @@ version 64207
  2548  1743  1495   171    92  -127   127            0 NEWBIE_BRITAIN_1 0 0 0 0 0 Forest near Britain
  2550  1337  1444    52    66    10    30            0 CEMETERY_BRITAIN 0 0 0 0 0 Britain Cemetery
  2560  2137  1280    90   146  -127   127            0 ORC_COVE 0 0 0 0 0 near Cove orc fort
- 2570  2151  1343    41    31  -127   127            0 ORCCAMP_COVE 0 0 0 0 0 Cove orc fort
- 2571  2192  1360    16    23  -127   127            0 ORCCAMP_COVE 0 0 0 0 0 Cove orc fort
- 2572  2160  1374    32     9  -127   127            0 ORCCAMP_COVE 0 0 0 0 0 Cove orc fort
- 2573  2175  1383    25    17  -127   127            0 ORCCAMP_COVE 0 0 0 0 0 Cove orc fort
+ 2570  2143  1336    65    64  -127   127            0 ORCCAMP_COVE 0 0 0 0 0 Cove orc fort
  2575  1641  1929   132   103  -127   127            0 FORESTNEARTOWN_EIFFEL 27 0 0 0 0 Eiffel Island
  2585  1997  1917   150   115  -127   127            0 FORESTNEARTOWN_OCARINA 27 0 0 0 0 Ocarina Isle
  2595  2170  1969    37    36  -127   127            0 FORESTNEARTOWN_BLANCHE 27 0 0 0 0 Blanche Island
