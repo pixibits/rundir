@@ -80,6 +80,8 @@ forward int Q4ZX(obj , obj );
 
 member int Q54C;
 
+member int petAllCmd;
+
 function void Q4XQ() {
 	if (getObjType(this) < 0xC8) {
 		animateMobile(this, 0x11, 0x05, 0x01, 0x00, 0x00);
@@ -324,6 +326,9 @@ trigger speech("*") {
 		Q4XQ();
 	}
 	if (Q5HB(this, speaker, arg)) {
+		if (petAllCmd) {
+			return(0x01);
+		}
 		return(0x00);
 	}
 	return(0x01);
@@ -334,6 +339,11 @@ function int Q4PB(list text, obj this) {
 	for (int i = 0x00; i < numInList(text); i++) {
 		Q698 = text[i];
 		if (Q698 == getName(this)) {
+			petAllCmd = 0x00;
+			return(i + 0x01);
+		}
+		if (Q698 == "all") {
+			petAllCmd = 0x01;
 			return(i + 0x01);
 		}
 	}

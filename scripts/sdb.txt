@@ -9006,3 +9006,5 @@ any
 "You harvest some wool"
 "You harvest some fish"
 "There is nothing useful here to harvest."
+petAllCmd
+"all"
