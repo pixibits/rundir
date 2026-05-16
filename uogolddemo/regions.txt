@@ -232,9 +232,8 @@ version 64207
  1826  1432  1682    10    11     0    10            0 BANK_BRITAIN_1 0 0 0 0 0 The First Bank of Britain
  1840  1505  1564    13    13    20    40            0 VET_BRITAIN 0 0 0 0 0 Britannia Animal Care
  1850  1440  1660    16    10    10    30            0 ARTISAN_BRITAIN 0 0 0 0 0 Artists' Guild in Britain
- 1860  1492  1602     8    19    21    60            0 INN_BRITAIN_1 0 0 0 0 0 Sweet Dreams in Britain
- 1861  1499  1608     8    18    21    60            0 INN_BRITAIN_1 0 0 0 0 0 Sweet Dreams in Britain
- 1862  1492  1619     7     6    40    60            0 INN_BRITAIN_1 0 0 0 0 0 Sweet Dreams in Britain
+ 1860  1491  1601    10    20    21    40            0 INN_BRITAIN_1 0 0 0 0 0 Sweet Dreams in Britain
+ 1861  1501  1609     7    17    21    40            0 INN_BRITAIN_1 0 0 0 0 0 Sweet Dreams in Britain
  1880  1468  1576    11     8    20    40            0 BOWYER_BRITAIN 0 0 0 0 0 Quality Fletching in Britain
  1890  1468  1592    17     8    20    40            0 MERCHANTGUILD_BRITAIN 0 0 0 0 0 Merchants' Guild in Britain
  1900  1436  1646    16     8    10    30            0 ARMORER_BRITAIN_2 0 0 0 0 0 Heavy Metal Armorer in Britain
