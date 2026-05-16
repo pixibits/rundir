@@ -45,7 +45,7 @@
 // - MMT
 // 02/26/97 1:19 PM
 
-#Fragment Britannia, Local, Britannia_Skara_Brae {
+#Fragment Britannia, Local, Britannia_Skara {
   #Sophistication High {
 #KEY "*skara brae*" {
       "Our fair city of Skara Brae is the central hub for all the westward sea expeditions.",
