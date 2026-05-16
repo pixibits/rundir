@@ -35,8 +35,7 @@ trigger acquiredesire {
 		} else {
 			int Q5IQ = getMoney(target);
 			int Q4PL = Q5IQ / 0x14;
-			thief = takeMoney(target, Q4PL);
-			string Q5WP = Q4PL;
+			thief = transferGenericToContainer(this, target, 0x0EED, Q4PL);
 			barkTo(this, target, "pilfered");
 			stopFollowing(this);
 			runAway(this, target);
