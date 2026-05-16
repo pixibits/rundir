@@ -9008,3 +9008,8 @@ any
 "There is nothing useful here to harvest."
 petAllCmd
 "all"
+"Britannia_Actor"
+"Britannia_Beggar"
+"Britannia_Gypsy"
+"Britannia_Artist"
+"Britannia_Laborer"

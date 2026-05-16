@@ -1,23 +1,23 @@
 trigger creation {
 	int Q4AY = random(0x01, 0x05);
 	if (Q4AY == 0x01) {
-		addFragment(this, "actor");
+		addFragment(this, "Britannia_Actor");
 		return(0x00);
 	}
 	if (Q4AY == 0x02) {
-		addFragment(this, "beggar");
+		addFragment(this, "Britannia_Beggar");
 		return(0x00);
 	}
 	if (Q4AY == 0x03) {
-		addFragment(this, "gypsy");
+		addFragment(this, "Britannia_Gypsy");
 		return(0x00);
 	}
 	if (Q4AY == 0x04) {
-		addFragment(this, "artist");
+		addFragment(this, "Britannia_Artist");
 		return(0x00);
 	}
 	if (Q4AY == 0x05) {
-		addFragment(this, "laborer");
+		addFragment(this, "Britannia_Laborer");
 		return(0x00);
 	}
 	return(0x00);
