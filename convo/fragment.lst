@@ -13,6 +13,7 @@
 #Fragment bucden
 #Fragment cove
 #Fragment jhelom
+#Fragment minoc
 #Fragment moonglow
 #Fragment nujelm
 #Fragment serphold
@@ -99,6 +100,11 @@
 #Fragment tanner
 #Fragment mapmaker
 #Fragment banker
+#Fragment butcher
+#Fragment parliament
+#Fragment provisioner
+#Fragment scribe
+#Fragment wanderhealer
 
 // Information Fragments:
 // ======================

@@ -14,7 +14,7 @@
 
 //!! Change heal, cure, resurrect
 
-#Fragment Britannia, Job, Britannia_Healer
+#Fragment Britannia, Job, Britannia_Wanderhealer
 {
 	#Sophistication High
 	{
