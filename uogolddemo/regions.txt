@@ -20,8 +20,7 @@ version 64207
   130  1244   852    20    35    16    35            0 GUARD_5 0 0 0 0 0 a guard post
   131  1254   887    13    11  -127   127            0 GUARD_5 0 0 0 0 0 a guard post
   145   842   618   312   305  -127   127            0 DARKERFOREST_1 27 0 0 0 0 forest east of Yew
-  155   943   696    25    24     0    39            0 CEMETERYHARD_RUINS_1 0 0 0 0 0 Yew fort of the damned
-  156   959   687     9     9     0    39            0 CEMETERYHARD_RUINS_1 0 0 0 0 0 Yew fort of the damned
+  155   943   687    25    33     0    39            0 CEMETERYHARD_RUINS_1 0 0 0 0 0 Yew fort of the damned
   157  1011   692     9    19     0    19            0 CEMETERYHARD_RUINS_1 0 0 0 0 0 Yew fort of the damned
   158   959   751    17    13     0    19            0 CEMETERYHARD_RUINS_1 0 0 0 0 0 Yew fort of the damned
   159  1005   818    16    13     0    19            0 CEMETERYHARD_RUINS_1 0 0 0 0 0 Yew fort of the damned
@@ -107,8 +106,7 @@ version 64207
   820  2433   846   128   128  -127   127            0 HOUSING_NO_COVETOUS 0 0 0 0 0 Covetous Entrance
   830  2601  1030    87   250  -127   127            0 FORESTNEARTOWN_VESPER 27 0 0 0 0 forest near Vesper
   840  2387  1030   214   250  -127   127            0 DARKFOREST_5 27 0 0 0 0 forest near Cove
-  850  2431  1081    22    15     0    47            0 CEMETERY_COVE 0 0 0 0 0 Cove Cemetery
-  851  2423  1096    30    24     0    47            0 CEMETERY_COVE 0 0 0 0 0 Cove Cemetery
+  850  2423  1081    30    39     0    47            0 CEMETERY_COVE 0 0 0 0 0 Cove Cemetery
   865  2509  1098    10    11  -127   127            0 RUINS_6 0 0 0 0 0
   875  2578  1111    10    17  -127   127            0 LICHSMALL 0 0 0 0 0
   885  2092  1030   294   250  -127   127            0 FORESTNEARTOWN_COVE 27 0 0 0 0
@@ -339,8 +337,7 @@ version 64207
  2560  2137  1280    90   146  -127   127            0 ORC_COVE 0 0 0 0 0 near Cove orc fort
  2570  2143  1336    65    64  -127   127            0 ORCCAMP_COVE 0 0 0 0 0 Cove orc fort
  2575  1641  1929   132   103  -127   127            0 FORESTNEARTOWN_EIFFEL 27 0 0 0 0 Eiffel Island
- 2585  1997  1917   150   115  -127   127            0 FORESTNEARTOWN_OCARINA 27 0 0 0 0 Ocarina Isle
- 2595  2170  1969    37    36  -127   127            0 FORESTNEARTOWN_BLANCHE 27 0 0 0 0 Blanche Island
+ 2585  1997  1917   210   115  -127   127            0 FORESTNEARTOWN_OCARINA 27 0 0 0 0 Ocarina Isle
  2605     0  2032  2688  2064  -127   127            0 BRITANNIA_4 0 0 0 0 0
  2615  2570  2032   118   328  -127   127            0 NONE_BUCDEN_1 0 0 0 0 0 Buccaneer's Den
  2625  2612  2057    76   210  -127   127            0 CITY_BUCDEN 11 0 0 0 0 Buccaneer's Den
@@ -569,9 +566,7 @@ version 64207
  4435  1448  4000    16     8  -127   127            0 CLOTHIER_JHELOM_2 0 0 0 0 0 Adventurer's Needle in Jhelom
  4445  1448  4024    16     8  -127   127            0 BUTCHER_JHELOM 0 0 0 0 0 Finest Cuts in Jhelom
  4455  1385  3729    28    30   -21    -1            0 HOUSING_NO_DUELPIT_JHELOM 0 0 0 0 0 Jhelom Fighting Pits
- 4465  1272  3712    20    31     0    19            0 CEMETERY_JHELOM 0 0 0 0 0 Jhelom Graveyard
- 4466  1292  3723     8    12  -127   127            0 CEMETERY_JHELOM 0 0 0 0 0 Jhelom Graveyard
- 4467  1280  3735    15    16  -127   127            0 CEMETERY_JHELOM 0 0 0 0 0 Jhelom Graveyard
+ 4465  1272  3712    28    39     0    19            0 CEMETERY_JHELOM 0 0 0 0 0 Jhelom Graveyard
  4485  1494  3767    12    11  -127   127            0 JUSTICE_JHELOM 0 0 0 0 0 Jhelom Moongate
  4495  1161  3590    40    63  -127   127            0 FARM_JHELOM_2 0 0 0 0 0 a farm on Jhelom Islands
  4505  1168  3592    30    30  -127   127            0 LIVESTK_JHELOM_2 0 0 0 0 0
@@ -680,9 +675,7 @@ version 64207
  5257  3014   496   250   152  -127   127            0 FORESTNEARTOWN_WINDMERE 27 0 0 0 0 Windmere Woods
  5275  3476  1000   360   434  -127   127            0 NONE_NUJELM 0 0 0 0 0 Nujel'm
  5285  3486  1098    80    70  -127   127            0 NONE_NUJELM_1 0 0 0 0 0 Nujel'm Cemetery
- 5295  3518  1122    25    18  -127   127            0 CEMETERY_NUJELM 0 0 0 0 0
- 5296  3502  1140    29    22  -127   127            0 CEMETERY_NUJELM 0 0 0 0 0
- 5297  3531  1140    22    12  -127   127            0 CEMETERY_NUJELM 0 0 0 0 0
+ 5295  3502  1122    51    40  -127   127            0 CEMETERY_NUJELM 0 0 0 0 0
  5315  3496  1168   136   152  -127   127            0 JUSTICE_NUJELM 0 0 0 0 0 Nujel'm
  5316  3632  1168   192   256  -127   127            0 JUSTICE_NUJELM 0 0 0 0 0 Nujel'm
  5317  3566  1040   258   128  -127   127            0 JUSTICE_NUJELM 0 0 0 0 0 Nujel'm
@@ -949,8 +942,7 @@ version 64207
  7395  4672  1407    24     8  -127   127            0 MAGEGUILD_MOONGLOW_3 0 0 0 0 0 Sorcerer's Guild in Moonglow
  7396  4680  1415     8     8  -127   127            0 MAGEGUILD_MOONGLOW_3 0 0 0 0 0 Sorcerer's Guild in Moonglow
  7410  4459  1276    16    16  -127   127            0 JUSTICE_MOONGLOW_1 0 0 0 0 0 Moonglow Moongate
- 7420  4535  1296    23    40  -127   127            0 CEMETERY_MOONGLOW 0 0 0 0 0 Moonglow Cemetery
- 7421  4527  1313     8    23  -127   127            0 CEMETERY_MOONGLOW 0 0 0 0 0 Moonglow Cemetery
+ 7420  4527  1296    31    40  -127   127            0 CEMETERY_MOONGLOW 0 0 0 0 0 Moonglow Cemetery
  7435  4277  1021    89   193  -127   127            0 NEWBIE_VERITY 0 0 0 0 0
  7436  4429  1250    96   100  -127   127            0 NEWBIE_VERITY 0 0 0 0 0
  7437  4432  1407   207    64  -127   127            0 NEWBIE_VERITY 0 0 0 0 0
