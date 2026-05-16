@@ -39,6 +39,7 @@ trigger acquiredesire {
 			barkTo(this, target, "pilfered");
 			stopFollowing(this);
 			runAway(this, target);
+			setCriminal(this, 0x01E0);
 		}
 	}
 	return(0x01);
