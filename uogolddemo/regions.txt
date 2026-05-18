@@ -57,9 +57,9 @@ version 64207
   400   560   960    17    17  -127   127            0 BOWYER_YEW 0 0 0 0 0 The Sturdy Bow in Yew
   410   552   984     9    17  -127   127            0 BAKER_YEW 0 0 0 0 0 The Jolly Baker in Yew
   420   512   984     9    17  -127   127            0 TANNER_YEW 0 0 0 0 0 The Tanned Hide in Yew
-  430   528  1008    17     9  -127   127            0 BUTCHER_YEW 0 0 0 0 0 Yew's Finest Cuts
+  430   528  1008    17     9  -127   127            0 BUTCHER_YEW 0 0 0 0 0 Yew?s Finest Cuts
   440   560  1008    17     9  -127   127            0 WOODWORKER_YEW 0 0 0 0 0 Bloody Thumb Woodworks in Yew
-  450   608   976    17     9  -127   127            0 NONE_YEW_1 0 0 0 0 0 Yew Counselor's Guild
+  450   608   976    17     9  -127   127            0 NONE_YEW_1 0 0 0 0 0 Yew Counselor?s Guild
   460   608   872    17    25  -127   127            0 NONE_YEW 0 0 0 0 0 Ye Olde Winery
   470   544   808    24    24  -127   127            0 MILL_YEW 0 0 0 0 0 Yew Mill
   480   544   808     8    12  -127   127            0 TOWNRATSMALL_YEW 0 0 0 0 0
@@ -118,9 +118,9 @@ version 64207
   910  2208  1111     7     9     0    59            0 GUARD_COVE 0 0 0 0 0 a guard tower in Cove
   911  2271  1196     8     7     0    39            0 GUARD_COVE 0 0 0 0 0 a guard tower in Cove
   912  2280  1223     7     9     0    39            0 GUARD_COVE 0 0 0 0 0 a guard tower in Cove
-  930  2209  1165     8     8  -127   127            0 WEAPONRY_COVE 0 0 0 0 0 The Warrior's Supplies in Cove
-  940  2217  1165     8     8  -127   127            0 ARMORER_COVE 0 0 0 0 0 The Warrior's Supplies in Cove
-  950  2213  1184     8    16  -127   127            0 FARM_COVE 0 0 0 0 0 Farmers' Market in Cove
+  930  2209  1165     8     8  -127   127            0 WEAPONRY_COVE 0 0 0 0 0 The Warrior?s Supplies in Cove
+  940  2217  1165     8     8  -127   127            0 ARMORER_COVE 0 0 0 0 0 The Warrior?s Supplies in Cove
+  950  2213  1184     8    16  -127   127            0 FARM_COVE 0 0 0 0 0 Farmers? Market in Cove
   960  2241  1225     8    16  -127   127            0 HEALER_COVE 0 0 0 0 0 The Healing Hand in Cove
   970  2250  1166    14    20  -127   127            0 DOCKS_COVE 0 0 0 0 0 Docks in Cove
   980  1812   801   223    74  -127   127            0 DESERT 31 0 0 0 0 desert of compassion
@@ -141,8 +141,8 @@ version 64207
  1040  2516   372    24     8  -127   127            0 STABLES_MINOC 0 0 0 0 0 Minoc Stables
  1050  2432   409    16     8  -127   127            0 BUTCHER_MINOC 0 0 0 0 0 The Slaughtered Cow in Minoc
  1051  2432   400     9     9  -127   127            0 BUTCHER_MINOC 0 0 0 0 0 The Slaughtered Cow in Minoc
- 1065  2448   424    16     8  -127   127            0 PROVISIONER_MINOC_1 0 0 0 0 0 The Old Miners' Supplies in Minoc
- 1066  2448   432     8     8  -127   127            0 PROVISIONER_MINOC_1 0 0 0 0 0 The Old Miners' Supplies in Minoc
+ 1065  2448   424    16     8  -127   127            0 PROVISIONER_MINOC_1 0 0 0 0 0 The Old Miners? Supplies in Minoc
+ 1066  2448   432     8     8  -127   127            0 PROVISIONER_MINOC_1 0 0 0 0 0 The Old Miners? Supplies in Minoc
  1080  2472   424    16     9  -127   127            0 FIGHTERGUILD_MINOC 0 0 0 0 0 The New World Order in Minoc
  1081  2480   433     8     8  -127   127            0 FIGHTERGUILD_MINOC 0 0 0 0 0 The New World Order in Minoc
  1095  2496   423    16    17     0    34            0 MINERSGUILD_MINOC 0 0 0 0 0 The Golden Pickaxe in Minoc
@@ -164,8 +164,8 @@ version 64207
  1240  2528   553     8     8  -127   127            0 PROVISIONER_MINOC_2 0 0 0 0 0 The Survival Shop in Minoc
  1241  2520   545    16     8  -127   127            0 PROVISIONER_MINOC_2 0 0 0 0 0 The Survival Shop in Minoc
  1255  2496   544    16    16  -127   127            0 BANK_MINOC 0 0 0 0 0 Bank of Minoc
- 1265  2522   571     8     8  -127   127            0 ARMORER_MINOC 0 0 0 0 0 Warriors' Battle Gear in Minoc
- 1275  2530   571     8    16  -127   127            0 BLACKSMITH_MINOC_3 0 0 0 0 0 Warriors' Battle Gear in Minoc
+ 1265  2522   571     8     8  -127   127            0 ARMORER_MINOC 0 0 0 0 0 Warriors? Battle Gear in Minoc
+ 1275  2530   571     8    16  -127   127            0 BLACKSMITH_MINOC_3 0 0 0 0 0 Warriors? Battle Gear in Minoc
  1285  2504   632    55    54  -127   127            0 GYPSYLARGE_MINOC 0 0 0 0 0 gypsy camp near Minoc
  1295  2562   513    39    30  -127   127            0 MINER_MINOC 0 0 0 0 0 a mining camp near Minoc
  1305  2579   515    12    11  -127   127            0 BLACKSMITH_MINOC_2 0 0 0 0 0
@@ -186,13 +186,13 @@ version 64207
  1378  1330  1991    13    13   -10   127            0 JUSTICE_BRITAIN 0 0 0 0 0 Britain Moongate
  1380  1132  1542    42    54     0    20            0 FARM_BRITAIN_1 0 0 0 0 0 a farm in Britain
  1390  1136  1560    32    32     0    20            0 WHEAT_BRITAIN_1 0 0 0 0 0 a wheatfield in Britain
- 1400  1521  1411    22    59     0    65            0 BLACKTHORN_BRITAIN 44 0 0 0 0 Lord Blackthorn's Castle
- 1401  1507  1421    14    35     0    25            0 BLACKTHORN_BRITAIN 44 0 0 0 0 Lord Blackthorn's Castle
+ 1400  1521  1411    22    59     0    65            0 BLACKTHORN_BRITAIN 44 0 0 0 0 Lord Blackthorn?s Castle
+ 1401  1507  1421    14    35     0    25            0 BLACKTHORN_BRITAIN 44 0 0 0 0 Lord Blackthorn?s Castle
  1415  1521  1458     6     5    15    25            0 BLACKTHORNGUARD_BRITAIN 0 0 0 0 0
- 1425  1296  1560   112   136    30    90            0 LBCASTLE_BRITAIN 13 0 0 0 0 Lord British's Castle
- 1435  1360  1591    15     8    30    50            0 BLACKSMITH_BRITAIN_3 0 0 0 0 0 The Lord's Arms in Britain
+ 1425  1296  1560   112   136    30    90            0 LBCASTLE_BRITAIN 13 0 0 0 0 Lord British?s Castle
+ 1435  1360  1591    15     8    30    50            0 BLACKSMITH_BRITAIN_3 0 0 0 0 0 The Lord?s Arms in Britain
  1445  1383  1639    12    43    30    50            0 STABLES_BRITAIN_3 0 0 0 0 0 Stables in Britain
- 1455  1384  1595     8    12    30    50            0 CLOTHIER_BRITAIN_3 0 0 0 0 0 The Lord's Clothes in Britain
+ 1455  1384  1595     8    12    30    50            0 CLOTHIER_BRITAIN_3 0 0 0 0 0 The Lord?s Clothes in Britain
  1465  1103  1605    62    38  -127   127            0 FARM_BRITAIN_2 0 0 0 0 0 a farm in Britain
  1475  1104  1608    32    32  -127   127            0 WHEAT_BRITAIN_5 0 0 0 0 0 A Wheatfield in Britain
  1485  1205  1566    51    69  -127   127            0 FARM_BRITAIN_3 0 0 0 0 0 a farm in Britain
@@ -212,33 +212,33 @@ version 64207
  1625  1216  1872    32    32  -127   127            0 WHEAT_BRITAIN_4 0 0 0 0 0 A Wheatfield in Britain
  1635  1311  1799    16    32  -127   127            0 LIVESTK_BRITAIN 0 0 0 0 0
  1645  1287  1751    20    32    10    30            0 STABLES_BRITAIN_2 0 0 0 0 0 Sosarian Steeds in Britain
- 1655  1336  1726    16    16    20   100            0 FIGHTERGUILD_BRITAIN_1 0 0 0 0 0 Warriors' Guild in Britain
- 1665  1344  1768    16    22    15    35            0 BLACKSMITH_BRITAIN_2 0 0 0 0 0 Britain's Blacksmith Guild
+ 1655  1336  1726    16    16    20   100            0 FIGHTERGUILD_BRITAIN_1 0 0 0 0 0 Warriors? Guild in Britain
+ 1665  1344  1768    16    22    15    35            0 BLACKSMITH_BRITAIN_2 0 0 0 0 0 Britain?s Blacksmith Guild
  1675  1383  1800    26    26     0    20            0 PEASANTMEDIUM_BRITAIN_1 0 0 0 0 0 Britain
  1685  1419  1510   262   268   -10   127            0 CITY_BRITAIN 9 0 0 0 0 Britain
- 1700  1435  1547    41    21    30    69            0 BARDGUILD_BRITAIN 0 0 0 0 0 Lord British's Conservatory of Music
+ 1700  1435  1547    41    21    30    69            0 BARDGUILD_BRITAIN 0 0 0 0 0 Lord British?s Conservatory of Music
  1710  1468  1752    34    20    -5    25            0 DOCKS_BRITAIN_2 0 0 0 0 0 docks in Britain
  1711  1481  1745    18     7    -5    25            0 DOCKS_BRITAIN_2 0 0 0 0 0 docks in Britain
  1725  1434  1754    22    22    -5    25            0 DOCKS_BRITAIN_1 0 0 0 0 0 docks in Britain
- 1735  1576  1584    24    16    20    60            0 INN_BRITAIN_5 0 0 0 0 0 The Wayfarer's Inn in Britain
+ 1735  1576  1584    24    16    20    60            0 INN_BRITAIN_5 0 0 0 0 0 The Wayfarer?s Inn in Britain
  1745  1507  1539    22    14    25    45            0 STABLES_BRITAIN_1 0 0 0 0 0 The Bucking Horse Stables in Britain
- 1755  1508  1539    21    14    40    60            0 NONE_BRITAIN_1 0 0 0 0 0 Britain Counselor's Guild
+ 1755  1508  1539    21    14    40    60            0 NONE_BRITAIN_1 0 0 0 0 0 Britain Counselor?s Guild
  1765  1416  1544    13    16    30    50            0 BLACKSMITH_BRITAIN_1 0 0 0 0 0 The Hammer and Anvil in Britain
- 1775  1484  1544    16    16    30    90            0 MAGEGUILD_BRITAIN 0 0 0 0 0 The Sorcerer's Delight in Britain
+ 1775  1484  1544    16    16    30    90            0 MAGEGUILD_BRITAIN 0 0 0 0 0 The Sorcerer?s Delight in Britain
  1785  1456  1512    16    16    20    40            0 INN_BRITAIN_6 0 0 0 0 0 The North Side Inn in Britain
  1786  1472  1512     8     8    20    40            0 INN_BRITAIN_6 0 0 0 0 0 The North Side Inn in Britain
- 1800  1544  1760    16    16    10    30            0 TAVERN_BRITAIN_4 34 0 0 0 0 The Unicorn's Horn in Britain
- 1801  1560  1760     8     8    10    30            0 TAVERN_BRITAIN_4 34 0 0 0 0 The Unicorn's Horn in Britain
- 1815  1422  1647    10    20    10    30            0 TINKERGUILD_BRITAIN 0 0 0 0 0 The Tinkers' Guild in Britain
+ 1800  1544  1760    16    16    10    30            0 TAVERN_BRITAIN_4 34 0 0 0 0 The Unicorn?s Horn in Britain
+ 1801  1560  1760     8     8    10    30            0 TAVERN_BRITAIN_4 34 0 0 0 0 The Unicorn?s Horn in Britain
+ 1815  1422  1647    10    20    10    30            0 TINKERGUILD_BRITAIN 0 0 0 0 0 The Tinkers? Guild in Britain
  1825  1423  1674     9    19     0    10            0 BANK_BRITAIN_1 0 0 0 0 0 The First Bank of Britain
  1826  1432  1682    10    11     0    10            0 BANK_BRITAIN_1 0 0 0 0 0 The First Bank of Britain
  1840  1505  1564    13    13    20    40            0 VET_BRITAIN 0 0 0 0 0 Britannia Animal Care
- 1850  1440  1660    16    10    10    30            0 ARTISAN_BRITAIN 0 0 0 0 0 Artists' Guild in Britain
+ 1850  1440  1660    16    10    10    30            0 ARTISAN_BRITAIN 0 0 0 0 0 Artists? Guild in Britain
  1860  1492  1602     8    19    21    60            0 INN_BRITAIN_1 0 0 0 0 0 Sweet Dreams in Britain
  1861  1499  1608     8    18    21    60            0 INN_BRITAIN_1 0 0 0 0 0 Sweet Dreams in Britain
  1862  1492  1619     7     6    40    60            0 INN_BRITAIN_1 0 0 0 0 0 Sweet Dreams in Britain
  1880  1468  1576    11     8    20    40            0 BOWYER_BRITAIN 0 0 0 0 0 Quality Fletching in Britain
- 1890  1468  1592    17     8    20    40            0 MERCHANTGUILD_BRITAIN 0 0 0 0 0 Merchants' Guild in Britain
+ 1890  1468  1592    17     8    20    40            0 MERCHANTGUILD_BRITAIN 0 0 0 0 0 Merchants? Guild in Britain
  1900  1436  1646    16     8    10    30            0 ARMORER_BRITAIN_2 0 0 0 0 0 Heavy Metal Armorer in Britain
  1910  1450  1678     8    16     0    20            0 JEWELER_BRITAIN_1 0 0 0 0 0 Premier Gems in Britain
  1920  1448  1608    14     8    20    40            0 BAKER_BRITAIN 0 0 0 0 0 Good Eats in Britain
@@ -246,18 +246,18 @@ version 64207
  1940  1428  1591    13     8    20    40            0 WOODWORKER_BRITAIN_1 0 0 0 0 0 The Saw Horse in Britain
  1950  1428  1608    13     8    20    40            0 TANNER_BRITAIN 0 0 0 0 0 The Best Hides of Britain
  1960  1468  1608    12     8    20    40            0 HEALER_BRITAIN 0 0 0 0 0 Healer of Britain
- 1970  1464  1664     8    12     0    20            0 PROVISIONER_BRITAIN 0 0 0 0 0 Britain's Premier Provisioners and Fish Shoppe
- 1980  1480  1664     8    12     0    20            0 FISHER_BRITAIN 0 0 0 0 0 Britain's Premier Provisioners and Fish Shoppe
+ 1970  1464  1664     8    12     0    20            0 PROVISIONER_BRITAIN 0 0 0 0 0 Britain?s Premier Provisioners and Fish
+ 1980  1480  1664     8    12     0    20            0 FISHER_BRITAIN 0 0 0 0 0 Britain?s Premier Provisioners and Fish
  1990  1496  1656    12     8    27    47            0 ALCHEMIST_BRITAIN_1 0 0 0 0 0 Ethereal Goods in Britain
  1991  1496  1665     8     4    27    47            0 ALCHEMIST_BRITAIN_1 0 0 0 0 0 Ethereal Goods in Britain
- 2005  1466  1683     8    12     0    20            0 CLOTHIER_BRITAIN_1 0 0 0 0 0 The Lord's Clothiers in Britain
- 2006  1474  1683     4    10     0    20            0 CLOTHIER_BRITAIN_1 0 0 0 0 0 The Lord's Clothiers in Britain
- 2020  1432  1712     8    12    20    40            0 TAVERN_BRITAIN_2 34 0 0 0 0 The Cat's Lair in Britain
- 2021  1424  1712     8    24    20    40            0 TAVERN_BRITAIN_2 34 0 0 0 0 The Cat's Lair in Britain
+ 2005  1466  1683     8    12     0    20            0 CLOTHIER_BRITAIN_1 0 0 0 0 0 The Lord?s Clothiers in Britain
+ 2006  1474  1683     4    10     0    20            0 CLOTHIER_BRITAIN_1 0 0 0 0 0 The Lord?s Clothiers in Britain
+ 2020  1432  1712     8    12    20    40            0 TAVERN_BRITAIN_2 34 0 0 0 0 The Cat?s Lair in Britain
+ 2021  1424  1712     8    24    20    40            0 TAVERN_BRITAIN_2 34 0 0 0 0 The Cat?s Lair in Britain
  2035  1472  1736    12     8     0    20            0 CUSTOMS_BRITAIN_1 0 0 0 0 0 Customs in Britain
  2036  1472  1744     8     8     0    20            0 CUSTOMS_BRITAIN_1 0 0 0 0 0 Customs in Britain
- 2050  1448  1575    13    26    20    50            0 THEATER_BRITAIN 0 0 0 0 0 The King's Men Theater in Britain
- 2051  1439  1575     9    10    20    50            0 THEATER_BRITAIN 0 0 0 0 0 The King's Men Theater in Britain
+ 2050  1448  1575    13    26    20    50            0 THEATER_BRITAIN 0 0 0 0 0 The King?s Men Theater in Britain
+ 2051  1439  1575     9    10    20    50            0 THEATER_BRITAIN 0 0 0 0 0 The King?s Men Theater in Britain
  2065  1507  1592     8    11    10    30            0 PEASANTSMALL_BRITAIN_1 0 0 0 0 0 a house in Britain
  2066  1655  1576    10     9     0    20            0 PEASANTSMALL_BRITAIN_1 0 0 0 0 0 a house in Britain
  2067  1639  1575    10    10     0    20            0 PEASANTSMALL_BRITAIN_1 0 0 0 0 0 a house in Britain
@@ -270,7 +270,7 @@ version 64207
  2135  1407  1587    13    25    30    49            0 LIBRARY_BRITAIN_1 0 0 0 0 0 Britain Public Library
  2136  1407  1592    13    20    50    60            0 LIBRARY_BRITAIN_1 0 0 0 0 0 Britain Public Library
  2150  1412  1744    12    16    10    30            0 SHIPWRIGHT_BRITAIN 0 0 0 0 0 The Oaken Oar in Britain
- 2160  1415  1575    17     9    30    50            0 MINERSGUILD_BRITAIN 0 0 0 0 0 The Miners' Guild in Britain
+ 2160  1415  1575    17     9    30    50            0 MINERSGUILD_BRITAIN 0 0 0 0 0 The Miners? Guild in Britain
  2170  1591  1511    26    10    40    50            0 NOBLE_BRITAIN_1 0 0 0 0 0 a home in Britain
  2171  1599  1521    10     8    40    50            0 NOBLE_BRITAIN_1 0 0 0 0 0 a home in Britain
  2172  1615  1559    10    10    20    60            0 NOBLE_BRITAIN_1 0 0 0 0 0 a home in Britain
@@ -292,11 +292,11 @@ version 64207
  2220  1543  1647    10    18    26    36            0 CLOTHIER_BRITAIN_2 0 0 0 0 0 The Right Fit
  2221  1559  1647    10    18    26    36            0 CLOTHIER_BRITAIN_2 0 0 0 0 0 The Right Fit
  2222  1553  1655     6    10    26    36            0 CLOTHIER_BRITAIN_2 0 0 0 0 0 The Right Fit
- 2240  1584  1648    24     9    10    20            0 MAGE_BRITAIN_1 0 0 0 0 0 Incantations & Enchantments
- 2241  1584  1657    17     7    10    20            0 MAGE_BRITAIN_1 0 0 0 0 0 Incantations & Enchantments
- 2255  1624  1656    17    17  -127   127            0 NONE_BRITAIN_2 0 0 0 0 0 Counselor's Guild in Britain
- 2265  1647  1632    17    17     0    10            0 JEWELER_BRITAIN_2 0 0 0 0 0 A Girl's Best Friend
- 2266  1647  1649    10     8     0    10            0 JEWELER_BRITAIN_2 0 0 0 0 0 A Girl's Best Friend
+ 2240  1584  1648    24     9    10    20            0 MAGE_BRITAIN_1 0 0 0 0 0 Incantations ? Enchantments
+ 2241  1584  1657    17     7    10    20            0 MAGE_BRITAIN_1 0 0 0 0 0 Incantations ? Enchantments
+ 2255  1624  1656    17    17  -127   127            0 NONE_BRITAIN_2 0 0 0 0 0 Counselor?s Guild in Britain
+ 2265  1647  1632    17    17     0    10            0 JEWELER_BRITAIN_2 0 0 0 0 0 A Girl?s Best Friend
+ 2266  1647  1649    10     8     0    10            0 JEWELER_BRITAIN_2 0 0 0 0 0 A Girl?s Best Friend
  2280  1567  1696    17    17    35    45            0 SCRIBE_BRITAIN_1 0 0 0 0 0 Sage Advice
  2281  1568  1713     8     8    35    45            0 SCRIBE_BRITAIN_1 0 0 0 0 0 Sage Advice
  2295  1600  1704     8    17    20    30            0 PROVISIONER_BRITAIN_2 0 0 0 0 0 Profuse Provisions
@@ -342,40 +342,40 @@ version 64207
  2585  1997  1917   150   115  -127   127            0 FORESTNEARTOWN_OCARINA 27 0 0 0 0 Ocarina Isle
  2595  2170  1969    37    36  -127   127            0 FORESTNEARTOWN_BLANCHE 27 0 0 0 0 Blanche Island
  2605     0  2032  2688  2064  -127   127            0 BRITANNIA_4 0 0 0 0 0
- 2615  2570  2032   118   328  -127   127            0 NONE_BUCDEN_1 0 0 0 0 0 Buccaneer's Den
- 2625  2612  2057    76   210  -127   127            0 CITY_BUCDEN 11 0 0 0 0 Buccaneer's Den
- 2635  2664  2232    24     8  -127   127            0 TAVERN_BUCDEN 34 0 0 0 0 The Pirate's Plunder in Buccaneer's Den
- 2636  2672  2240    16     8  -127   127            0 TAVERN_BUCDEN 34 0 0 0 0 The Pirate's Plunder in Buccaneer's Den
- 2650  2632  2080     8    16  -127   127            0 BLACKSMITH_BUCDEN 0 0 0 0 0 Cutlass Smithing in Buccaneer's Den
- 2660  2624  2096     8     8  -127   127            0 WOODWORKER_BUCDEN 0 0 0 0 0 Violente Woodworks in Buccaneer's Den
- 2670  2656  2185     8    24  -127   127            0 PIRATE_BUCDEN 0 0 0 0 0 Pirate's Den in Buccaneer's Den
- 2671  2648  2192    16     8  -127   127            0 PIRATE_BUCDEN 0 0 0 0 0 Pirate's Den in Buccaneer's Den
+ 2615  2570  2032   118   328  -127   127            0 NONE_BUCDEN_1 0 0 0 0 0 Buccaneer?s Den
+ 2625  2612  2057    76   210  -127   127            0 CITY_BUCDEN 11 0 0 0 0 Buccaneer?s Den
+ 2635  2664  2232    24     8  -127   127            0 TAVERN_BUCDEN 34 0 0 0 0 The Pirate?s Plunder in Buccaneer?s Den
+ 2636  2672  2240    16     8  -127   127            0 TAVERN_BUCDEN 34 0 0 0 0 The Pirate?s Plunder in Buccaneer?s Den
+ 2650  2632  2080     8    16  -127   127            0 BLACKSMITH_BUCDEN 0 0 0 0 0 Cutlass Smithing in Buccaneer?s Den
+ 2660  2624  2096     8     8  -127   127            0 WOODWORKER_BUCDEN 0 0 0 0 0 Violente Woodworks in Buccaneer?s Den
+ 2670  2656  2185     8    24  -127   127            0 PIRATE_BUCDEN 0 0 0 0 0 Pirate?s Den in Buccaneer?s Den
+ 2671  2648  2192    16     8  -127   127            0 PIRATE_BUCDEN 0 0 0 0 0 Pirate?s Den in Buccaneer?s Den
  2685  2605  2267    76    57     0   127            0 JUNGLE_BUCDEN_1 29 0 0 0 0
  2695   518  2050   182   252  -127   127            0 NONE_SKARA_BRAE 0 0 0 0 0 Skara Brae
  2705   638  2062    12    11  -127   127            0 JUSTICE_SKARA_BRAE 0 0 0 0 0 Skara Brae Moongate
  2715   538  2107   150   190  -127   127            0 JUSTICE_SKARA_BRAE 0 0 0 0 0 Skara Brae
  2716   538  2107   150   190  -127   127            0 CITY_SKARA_BRAE 20 0 0 0 0 Skara Brae
- 2725   600  2232    16    24  -127   127            0 INN_SKARA_BRAE 0 0 0 0 0 The Falconer's Inn in Skara Brae
- 2726   592  2240     8    16  -127   127            0 INN_SKARA_BRAE 0 0 0 0 0 The Falconer's Inn in Skara Brae
- 2727   616  2240     8    16  -127   127            0 INN_SKARA_BRAE 0 0 0 0 0 The Falconer's Inn in Skara Brae
+ 2725   600  2232    16    24  -127   127            0 INN_SKARA_BRAE 0 0 0 0 0 The Falconer?s Inn in Skara Brae
+ 2726   592  2240     8    16  -127   127            0 INN_SKARA_BRAE 0 0 0 0 0 The Falconer?s Inn in Skara Brae
+ 2727   616  2240     8    16  -127   127            0 INN_SKARA_BRAE 0 0 0 0 0 The Falconer?s Inn in Skara Brae
  2745   552  2168    16    24  -127   127            0 TAVERN_SKARA_BRAE 34 0 0 0 0 The Shattered Skull in Skara Brae
  2746   568  2168     8     8  -127   127            0 TAVERN_SKARA_BRAE 34 0 0 0 0 The Shattered Skull in Skara Brae
  2760   544  2112    16    16  -127   127            0 LIVESTK_SKARA_BRAE 0 0 0 0 0 a livestock pen in Skara Brae
  2770   568  2120    16     8  -127   127            0 STABLES_SKARA_BRAE 0 0 0 0 0 Beasts of Burden in Skara Brae
- 2780   616  2112     8    32  -127   127            0 NONE_SKARA_BRAE_0 0 0 0 0 0 Counselor's Guild in Skara Brae
- 2781   624  2120     8    16  -127   127            0 NONE_SKARA_BRAE_0 0 0 0 0 0 Counselor's Guild in Skara Brae
- 2782   608  2120     8    16  -127   127            0 NONE_SKARA_BRAE_0 0 0 0 0 0 Counselor's Guild in Skara Brae
- 2800   552  2136    16    16  -127   127            0 RANGERGUILD_SKARA_BRAE 0 0 0 0 0 Rangers' Guild in Skara Brae
- 2810   552  2152    16     8  -127   127            0 BOWYER_SKARA_BRAE_1 0 0 0 0 0 Rangers' Guild in Skara Brae
- 2820   568  2144     8     8  -127   127            0 NONE_SKARA_BRAE_1 0 0 0 0 0 Rangers' Guild in Skara Brae
+ 2780   616  2112     8    32  -127   127            0 NONE_SKARA_BRAE_0 0 0 0 0 0 Counselor?s Guild in Skara Brae
+ 2781   624  2120     8    16  -127   127            0 NONE_SKARA_BRAE_0 0 0 0 0 0 Counselor?s Guild in Skara Brae
+ 2782   608  2120     8    16  -127   127            0 NONE_SKARA_BRAE_0 0 0 0 0 0 Counselor?s Guild in Skara Brae
+ 2800   552  2136    16    16  -127   127            0 RANGERGUILD_SKARA_BRAE 0 0 0 0 0 Rangers? Guild in Skara Brae
+ 2810   552  2152    16     8  -127   127            0 BOWYER_SKARA_BRAE_1 0 0 0 0 0 Rangers? Guild in Skara Brae
+ 2820   568  2144     8     8  -127   127            0 NONE_SKARA_BRAE_1 0 0 0 0 0 Rangers? Guild in Skara Brae
  2830   584  2136     8    16  -127   127            0 BANK_SKARA_BRAE 0 0 0 0 0 Bank of Skara Brae
  2831   592  2144     8     8  -127   127            0 BANK_SKARA_BRAE 0 0 0 0 0 Bank of Skara Brae
- 2845   608  2152     8    16  -127   127            0 VEGGIESTALL_SKARA_BRAE 0 0 0 0 0 Farmer's Market in Skara Brae
- 2855   624  2153    16    16  -127   127            0 WOODWORKER_SKARA_BRAE 0 0 0 0 0 Builders' Delight in Skara Brae
+ 2845   608  2152     8    16  -127   127            0 VEGGIESTALL_SKARA_BRAE 0 0 0 0 0 Farmer?s Market in Skara Brae
+ 2855   624  2153    16    16  -127   127            0 WOODWORKER_SKARA_BRAE 0 0 0 0 0 Builders? Delight in Skara Brae
  2865   649  2160    16     8  -127   127            0 WEAPONRY_SKARA_BRAE 0 0 0 0 0 Gore Galore in Skara Brae
  2875   584  2160     8    16  -127   127            0 ARMORER_SKARA_BRAE 0 0 0 0 0 More Than Just Mail in Skara Brae
  2885   576  2184    16     8  -127   127            0 BUTCHER_SKARA_BRAE 0 0 0 0 0 Bountiful Meats in Skara Brae
- 2895   600  2177    16     8  -127   127            0 MAGE_SKARA_BRAE 0 0 0 0 0 Mages' Menagerie in Skara Brae
+ 2895   600  2177    16     8  -127   127            0 MAGE_SKARA_BRAE 0 0 0 0 0 Mages? Menagerie in Skara Brae
  2905   616  2192    24     8  -127   127            0 BLACKSMITH_SKARA_BRAE 0 0 0 0 0 On Guard Armory in Skara Brae
  2915   624  2184     8     8  -127   127            0 ARMORER_WEAPONRY_SKARA_BRAE 0 0 0 0 0 On Guard Armory in Skara Brae
  2925   552  2200    16    24  -127   127            0 TOWNHALL_SKARA_BRAE 0 0 0 0 0 Skara Brae Town Hall
@@ -390,7 +390,7 @@ version 64207
  3010   656  2136    16     8  -127   127            0 MAGE_SKARA_BRAE_2 0 0 0 0 0 Mystic Treasures in Skara Brae
  3020   714  2032   320   529  -127   127            0 FORESTNEARTOWN_SKARA_BRAE 27 0 0 0 0 forest near Skara Brae
  3030   714  2117   227   316  -127   127            0 RANGER_SKARA_BRAE 0 0 0 0 0 Skara Brae
- 3040   736  2136    24    24  -127   127            0 RANGERGUILD_SKARA_BRAE_2 0 0 0 0 0 Rangers' Guild in Skara Brae
+ 3040   736  2136    24    24  -127   127            0 RANGERGUILD_SKARA_BRAE_2 0 0 0 0 0 Rangers? Guild in Skara Brae
  3050   793  2149    43    56  -127   127            0 FARM_SKARA_BRAE_1 0 0 0 0 0 a farm in Skara Brae
  3060   796  2152    36    24  -127   127            0 WHEAT_SKARA_BRAE_1 0 0 0 0 0 A Wheatfield in Skara Brae
  3070   791  2248    43    52  -127   127            0 FARM_SKARA_BRAE_2 0 0 0 0 0 a farm in Skara Brae
@@ -487,8 +487,8 @@ version 64207
  3760  1891  2802    15    12     0    19            0 JEWELER_TRINSIC 0 0 0 0 0 Pearl of Trinsic
  3770  1907  2803    16    10  -127   127            0 HEALER_TRINSIC_1 0 0 0 0 0 Trinsic Healer
  3780  1809  2819     9    19     0    19            0 BANK_TRINSIC_2 0 0 0 0 0 Bank of Britannia in Trinsic
- 3790  1976  2829     9    16    15    34            0 WEAVER_TRINSIC 0 0 0 0 0 Adventurer's Clothing in Trinsic
- 3800  1986  2836     8     9    15    34            0 CLOTHIER_TRINSIC 0 0 0 0 0 Adventurer's Clothing in Trinsic
+ 3790  1976  2829     9    16    15    34            0 WEAVER_TRINSIC 0 0 0 0 0 Adventurer?s Clothing in Trinsic
+ 3800  1986  2836     8     9    15    34            0 CLOTHIER_TRINSIC 0 0 0 0 0 Adventurer?s Clothing in Trinsic
  3810  2020  2832    16    24     0    49            0 FISHERGUILD_TRINSIC 0 0 0 0 0 Sons of the Sea in Trinsic
  3811  2020  2856    12    14  -127   127            0 FISHERGUILD_TRINSIC 0 0 0 0 0 Sons of the Sea in Trinsic
  3825  1985  2858    12    18    20    39            0 TANNER_TRINSIC 0 0 0 0 0 Trinsic Fine Skins
@@ -502,7 +502,7 @@ version 64207
  3895  1542  2239   263   202  -127   127            0 FORESTNOTNEARTOWN_2 27 0 0 0 0 forest north of Trinsic
  3905  2030  3314   206   346  -127   127            0 JUNGLE_5 29 0 0 0 0 Cape of Heroes
  3915  2171  3362    17    16  -127   127            0 RUINS_13 0 0 0 0 0 ruins
- 3925   430  2032    79    94  -127   127            0 FORESTNEARTOWN_IVERS 27 0 0 0 0 Iver's Rounding
+ 3925   430  2032    79    94  -127   127            0 FORESTNEARTOWN_IVERS 27 0 0 0 0 Iver?s Rounding
  3935  1078  3588   124   121  -127   127            0 HOUSING_NO_JHELOM 0 0 0 0 0 Jhelom Islands
  3936  1224  3592   309   473  -127   127            0 HOUSING_NO_JHELOM 0 0 0 0 0 Jhelom Islands
  3937  1046  3361   184   227  -127   127            0 HOUSING_NO_JHELOM 0 0 0 0 0 Jhelom Islands
@@ -513,27 +513,27 @@ version 64207
  3978  1303  3670   189   375     0   127            0 CITY_JHELOM 12 0 0 0 0 Jhelom
  3995  1352  3800    16    32   -20   127            0 INN_JHELOM 0 0 0 0 0 The Morning Star Inn in Jhelom
  3996  1368  3808     8    16   -20   127            0 INN_JHELOM 0 0 0 0 0 The Morning Star Inn in Jhelom
- 4010  1432  3768    32     8   -20   127            0 TAVERN_JHELOM 34 0 0 0 0 The Horse's Head in Jhelom
- 4011  1440  3776    24     8   -20   127            0 TAVERN_JHELOM 34 0 0 0 0 The Horse's Head in Jhelom
+ 4010  1432  3768    32     8   -20   127            0 TAVERN_JHELOM 34 0 0 0 0 The Horse?s Head in Jhelom
+ 4011  1440  3776    24     8   -20   127            0 TAVERN_JHELOM 34 0 0 0 0 The Horse?s Head in Jhelom
  4025  1362  3882    22    36  -127   127            0 DOCKS_JHELOM 0 0 0 0 0 docks in Jhelom
  4026  1490  3680    28    32  -127   127            0 DOCKS_JHELOM 0 0 0 0 0 docks in Jhelom
  4027  1499  3980    24    20  -127   127            0 DOCKS_JHELOM 0 0 0 0 0 docks in Jhelom
  4045  1352  3696    24    16  -127   127            0 FIGHTERGUILD_JHELOM_1 0 0 0 0 0 Brothers in Arms in Jhelom
  4055  1384  3704    16     8  -127   127            0 BLACKSMITH_JHELOM_1 0 0 0 0 0 First Defense in Jhelom
  4056  1392  3712     8     8  -127   127            0 BLACKSMITH_JHELOM_1 0 0 0 0 0 First Defense in Jhelom
- 4070  1408  3696    16    24  -127   127            0 NONE_JHELOM_0 0 0 0 0 0 Counselor's Guild in Jhelom
- 4071  1424  3696     8     8  -127   127            0 NONE_JHELOM_0 0 0 0 0 0 Counselor's Guild in Jhelom
+ 4070  1408  3696    16    24  -127   127            0 NONE_JHELOM_0 0 0 0 0 0 Counselor?s Guild in Jhelom
+ 4071  1424  3696     8     8  -127   127            0 NONE_JHELOM_0 0 0 0 0 0 Counselor?s Guild in Jhelom
  4085  1432  3712    16    16  -127   127            0 ARMORER_JHELOM 0 0 0 0 0 Second Skin in Jhelom
- 4095  1360  3736     8     8  -127   127            0 BAKER_JHELOM 0 0 0 0 0 Baker's Dozen in Jhelom
- 4096  1352  3728    16     8  -127   127            0 BAKER_JHELOM 0 0 0 0 0 Baker's Dozen in Jhelom
- 4110  1432  3736     8    24  -127   127            0 FISHER_JHELOM 0 0 0 0 0 Ocean's Treasure in Jhelom
- 4120  1448  3736    16     8  -127   127            0 SHIPWRIGHT_JHELOM 0 0 0 0 0 Sailor's Keeper in Jhelom
- 4121  1448  3744     8     8  -127   127            0 SHIPWRIGHT_JHELOM 0 0 0 0 0 Sailor's Keeper in Jhelom
+ 4095  1360  3736     8     8  -127   127            0 BAKER_JHELOM 0 0 0 0 0 Baker?s Dozen in Jhelom
+ 4096  1352  3728    16     8  -127   127            0 BAKER_JHELOM 0 0 0 0 0 Baker?s Dozen in Jhelom
+ 4110  1432  3736     8    24  -127   127            0 FISHER_JHELOM 0 0 0 0 0 Ocean?s Treasure in Jhelom
+ 4120  1448  3736    16     8  -127   127            0 SHIPWRIGHT_JHELOM 0 0 0 0 0 Sailor?s Keeper in Jhelom
+ 4121  1448  3744     8     8  -127   127            0 SHIPWRIGHT_JHELOM 0 0 0 0 0 Sailor?s Keeper in Jhelom
  4135  1312  3768    16     8  -127   127            0 BANK_JHELOM 0 0 0 0 0 Jhelom Bank and Jeweler
  4145  1312  3776     8     8  -127   127            0 JEWELER_JHELOM 0 0 0 0 0 Jhelom Bank and Jeweler
  4155  1352  3752    16    16  -127   127            0 WEAPONRY_JHELOM 0 0 0 0 0 Deadly Intentions in Jhelom
- 4165  1352  3776     8    16  -127   127            0 CLOTHIER_JHELOM_1 0 0 0 0 0 Adventurer's Needle in Jhelom
- 4175  1361  3776     8     8  -127   127            0 WEAVER_JHELOM 0 0 0 0 0 Adventurer's Needle in Jhelom
+ 4165  1352  3776     8    16  -127   127            0 CLOTHIER_JHELOM_1 0 0 0 0 0 Adventurer?s Needle in Jhelom
+ 4175  1361  3776     8     8  -127   127            0 WEAVER_JHELOM 0 0 0 0 0 Adventurer?s Needle in Jhelom
  4185  1376  3768    23     8     0    20            0 LIBRARY_JHELOM 0 0 0 0 0 Jhelom Library
  4186  1376  3776    16     8     0    20            0 LIBRARY_JHELOM 0 0 0 0 0 Jhelom Library
  4200  1408  3768    16    16  -127   127            0 HEALER_JHELOM 0 0 0 0 0 Jhelom Healer
@@ -544,13 +544,13 @@ version 64207
  4245  1440  3792     8    16  -127   127            0 PROVISIONER_JHELOM 0 0 0 0 0 Needful Things in Jhelom
  4246  1432  3792     8     8  -127   127            0 PROVISIONER_JHELOM 0 0 0 0 0 Needful Things in Jhelom
  4260  1452  3790    14    53  -127   127            0 SAILOR_JHELOM 0 0 0 0 0
- 4270  1384  3824    16     8  -127   127            0 VEGGIESTALL_JHELOM 0 0 0 0 0 Farmer's Market in Jhelom
+ 4270  1384  3824    16     8  -127   127            0 VEGGIESTALL_JHELOM 0 0 0 0 0 Farmer?s Market in Jhelom
  4280  1432  3816     8    16  -127   127            0 CARPENTER_JHELOM 0 0 0 0 0 From Tree to Yew in Jhelom
  4281  1424  3816     8     8  -127   127            0 CARPENTER_JHELOM 0 0 0 0 0 From Tree to Yew in Jhelom
  4295  1352  3848    40     8  -127   127            0 TOWNRATLARGE_JHELOM 0 0 0 0 0
  4296  1464  3976    24    16  -127   127            0 TOWNRATLARGE_JHELOM 0 0 0 0 0
- 4310  1416  3856     8     8  -127   127            0 BLACKSMITH_JHELOM 0 0 0 0 0 Warrior's Bounty in Jhelom
- 4311  1408  3848    24     8  -127   127            0 BLACKSMITH_JHELOM 0 0 0 0 0 Warrior's Bounty in Jhelom
+ 4310  1416  3856     8     8  -127   127            0 BLACKSMITH_JHELOM 0 0 0 0 0 Warrior?s Bounty in Jhelom
+ 4311  1408  3848    24     8  -127   127            0 BLACKSMITH_JHELOM 0 0 0 0 0 Warrior?s Bounty in Jhelom
  4325  1448  3848    16    16  -127   127            0 ARMORER_JHELOM_2 0 0 0 0 0 Jhelom Armory
  4335  1472  3848    16    16  -127   127            0 WEAPONRY_JHELOM_2 0 0 0 0 0 Call to Arms in Jhelom
  4336  1472  3864     8     8  -127   127            0 WEAPONRY_JHELOM_2 0 0 0 0 0 Call to Arms in Jhelom
@@ -566,7 +566,7 @@ version 64207
  4406  1424  3984     8     8  -127   127            0 MAGE_JHELOM 0 0 0 0 0 Jhelom Mage
  4420  1440  3976    16     8  -127   127            0 JEWELER_JHELOM_2 0 0 0 0 0 The Pearl of Jhelom
  4421  1440  3984     8     8  -127   127            0 JEWELER_JHELOM_2 0 0 0 0 0 The Pearl of Jhelom
- 4435  1448  4000    16     8  -127   127            0 CLOTHIER_JHELOM_2 0 0 0 0 0 Adventurer's Needle in Jhelom
+ 4435  1448  4000    16     8  -127   127            0 CLOTHIER_JHELOM_2 0 0 0 0 0 Adventurer?s Needle in Jhelom
  4445  1448  4024    16     8  -127   127            0 BUTCHER_JHELOM 0 0 0 0 0 Finest Cuts in Jhelom
  4455  1385  3729    28    30   -21    -1            0 HOUSING_NO_DUELPIT_JHELOM 0 0 0 0 0 Jhelom Fighting Pits
  4465  1272  3712    20    31     0    19            0 CEMETERY_JHELOM 0 0 0 0 0 Jhelom Graveyard
@@ -610,28 +610,28 @@ version 64207
  4725  2872   720    16     8  -127   127            0 JEWELER_VESPER 0 0 0 0 0 The Shimmering Jewel in Vesper
  4735  2904   704     8    16  -127   127            0 ARTISAN_VESPER 0 0 0 0 0 The Colored Canvas in Vesper
  4745  2848   728    16    16  -127   127            0 MINERSGUILD_VESPER 0 0 0 0 0 The Ore of Vesper
- 4755  2880   736    16    16  -127   127            0 BARDGUILD_VESPER 0 0 0 0 0 The Musician's Hall in Vesper
- 4756  2896   736     8     8  -127   127            0 BARDGUILD_VESPER 0 0 0 0 0 The Musician's Hall in Vesper
+ 4755  2880   736    16    16  -127   127            0 BARDGUILD_VESPER 0 0 0 0 0 The Musician?s Hall in Vesper
+ 4756  2896   736     8     8  -127   127            0 BARDGUILD_VESPER 0 0 0 0 0 The Musician?s Hall in Vesper
  4770  2952   704    16     8  -127   127            0 BEEKEEPER_VESPER 0 0 0 0 0 The Busy Bees in Vesper
  4780  2992   760    16     8  -127   127            0 BAKER_VESPER 0 0 0 0 0 The Twisted Oven in Vesper
- 4790  3016   760    16     8  -127   127            0 VEGGIESTALL_VESPER 0 0 0 0 0 Farmer's Market in Vesper
- 4800  2984   776    16     8  -127   127            0 BUTCHER_VESPER 0 0 0 0 0 The Butcher's Knife in Vesper
- 4810  3008   776    16     8  -127   127            0 FISHER_VESPER 0 0 0 0 0 Fisherman's Wharf in Vesper
- 4811  3008   784    12    14  -127   127            0 FISHER_VESPER 0 0 0 0 0 Fisherman's Wharf in Vesper
- 4825  2832   792     8    16  -127   127            0 WEAPONRY_VESPER 0 0 0 0 0 The Warrior's Companion in Vesper
- 4835  2841   792     8     8  -127   127            0 BLACKSMITH_VESPER_1 0 0 0 0 0 The Warrior's Companion in Vesper
- 4845  2832   808    16     8  -127   127            0 ARMORER_VESPER_1 0 0 0 0 0 The Warrior's Companion in Vesper
- 4855  2854   800    16    16  -127   127            0 BOWYER_VESPER_1 0 0 0 0 0 The Ranger's Tool in Vesper
- 4865  2896   784     8    16  -127   127            0 TINKERGUILD_VESPER 0 0 0 0 0 The Gadget's Corner in Vesper
+ 4790  3016   760    16     8  -127   127            0 VEGGIESTALL_VESPER 0 0 0 0 0 Farmer?s Market in Vesper
+ 4800  2984   776    16     8  -127   127            0 BUTCHER_VESPER 0 0 0 0 0 The Butcher?s Knife in Vesper
+ 4810  3008   776    16     8  -127   127            0 FISHER_VESPER 0 0 0 0 0 Fisherman?s Wharf in Vesper
+ 4811  3008   784    12    14  -127   127            0 FISHER_VESPER 0 0 0 0 0 Fisherman?s Wharf in Vesper
+ 4825  2832   792     8    16  -127   127            0 WEAPONRY_VESPER 0 0 0 0 0 The Warrior?s Companion in Vesper
+ 4835  2841   792     8     8  -127   127            0 BLACKSMITH_VESPER_1 0 0 0 0 0 The Warrior?s Companion in Vesper
+ 4845  2832   808    16     8  -127   127            0 ARMORER_VESPER_1 0 0 0 0 0 The Warrior?s Companion in Vesper
+ 4855  2854   800    16    16  -127   127            0 BOWYER_VESPER_1 0 0 0 0 0 The Ranger?s Tool in Vesper
+ 4865  2896   784     8    16  -127   127            0 TINKERGUILD_VESPER 0 0 0 0 0 The Gadget?s Corner in Vesper
  4875  2912   792     8    16  -127   127            0 CARPENTER_VESPER 0 0 0 0 0 The Hammer and Nail in Vesper
- 4885  2952   808    16    16  -127   127            0 FISHERGUILD_VESPER 0 0 0 0 0 The Fishermen's Guild in Vesper
- 4886  2968   816     8     8  -127   127            0 FISHERGUILD_VESPER 0 0 0 0 0 The Fishermen's Guild in Vesper
+ 4885  2952   808    16    16  -127   127            0 FISHERGUILD_VESPER 0 0 0 0 0 The Fishermen?s Guild in Vesper
+ 4886  2968   816     8     8  -127   127            0 FISHERGUILD_VESPER 0 0 0 0 0 The Fishermen?s Guild in Vesper
  4900  2992   808     8    16  -127   127            0 SHIPWRIGHT_VESPER 0 0 0 0 0 The Majestic Boat in Vesper
- 4910  2992   832     8    16  -127   127            0 HERBALIST_VESPER 0 0 0 0 0 The Magician's Friend in Vesper
+ 4910  2992   832     8    16  -127   127            0 HERBALIST_VESPER 0 0 0 0 0 The Magician?s Friend in Vesper
  4920  3008   816    40    24  -127   127            0 DOCKS_VESPER 0 0 0 0 0 Vesper docks
  4930  2856   848    16     8  -127   127            0 BLACKSMITH_VESPER_2 0 0 0 0 0 The Ironworks in Vesper
  4940  2912   848    16    16  -127   127            0 HEALER_VESPER 0 0 0 0 0 Healer of Vesper
- 4950  2832   864    16     8  -127   127            0 PROVISIONER_VESPER_2 0 0 0 0 0 The Adventurer's Friend in Vesper
+ 4950  2832   864    16     8  -127   127            0 PROVISIONER_VESPER_2 0 0 0 0 0 The Adventurer?s Friend in Vesper
  4960  2832   880    16     8  -127   127            0 CLOTHIER_VESPER_2 0 0 0 0 0 The Spinning Wheel in Vesper
  4970  2832   896    16    24  -127   127            0 FIGHTERGUILD_VESPER 0 0 0 0 0 The Champions of Light in Vesper
  4971  2848   904     8     8  -127   127            0 FIGHTERGUILD_VESPER 0 0 0 0 0 The Champions of Light in Vesper
@@ -639,12 +639,12 @@ version 64207
  4986  2908   904     8     8  -127   127            0 TAVERN_VESPER_1 34 0 0 0 0 The Marsh Hall in Vesper
  5000  2952   864    16    32  -127   127            0 INN_VESPER_1 0 0 0 0 0 Vesper Youth Hostel
  5001  2968   872     8    16  -127   127            0 INN_VESPER_1 0 0 0 0 0 Vesper Youth Hostel
- 5015  2832   936    24    16  -127   127            0 NONE_VESPER_1 0 0 0 0 0 Counselor's Guild in Vesper
- 5016  2840   928     8    32  -127   127            0 NONE_VESPER_1 0 0 0 0 0 Counselor's Guild in Vesper
+ 5015  2832   936    24    16  -127   127            0 NONE_VESPER_1 0 0 0 0 0 Counselor?s Guild in Vesper
+ 5016  2840   928     8    32  -127   127            0 NONE_VESPER_1 0 0 0 0 0 Counselor?s Guild in Vesper
  5030  2936   928    16    15  -127   127            0 CUSTOMS_VESPER 0 0 0 0 0 Vesper Customs
  5040  2912   964     8    28  -127   127            0 NONE_VESPER_2 0 0 0 0 0 Vesper Museum
  5041  2920   968    16    24  -127   127            0 NONE_VESPER_2 0 0 0 0 0 Vesper Museum
- 5055  2855   989     8    16     0   127            0 TANNER_VESPER 0 0 0 0 0 Tanner's Shop in Vesper
+ 5055  2855   989     8    16     0   127            0 TANNER_VESPER 0 0 0 0 0 Tanner?s Shop in Vesper
  5065  2776   952    16    32  -127   127            0 INN_VESPER_2 0 0 0 0 0 The Ironwood Inn in Vesper
  5066  2768   960     8    16  -127   127            0 INN_VESPER_2 0 0 0 0 0 The Ironwood Inn in Vesper
  5080  2736   975    16    16  -127   127            0 GUARD_VESPER 0 0 0 0 0
@@ -678,21 +678,21 @@ version 64207
  5255  2893   380   121   218  -127   127            0 FORESTNEARTOWN_WINDMERE 27 0 0 0 0 Windmere Woods
  5256  3064   648   200   174  -127   127            0 FORESTNEARTOWN_WINDMERE 27 0 0 0 0 Windmere Woods
  5257  3014   496   250   152  -127   127            0 FORESTNEARTOWN_WINDMERE 27 0 0 0 0 Windmere Woods
- 5275  3476  1000   360   434  -127   127            0 NONE_NUJELM 0 0 0 0 0 Nujel'm
- 5285  3486  1098    80    70  -127   127            0 NONE_NUJELM_1 0 0 0 0 0 Nujel'm Cemetery
+ 5275  3476  1000   360   434  -127   127            0 NONE_NUJELM 0 0 0 0 0 Nujel?m
+ 5285  3486  1098    80    70  -127   127            0 NONE_NUJELM_1 0 0 0 0 0 Nujel?m Cemetery
  5295  3518  1122    25    18  -127   127            0 CEMETERY_NUJELM 0 0 0 0 0
  5296  3502  1140    29    22  -127   127            0 CEMETERY_NUJELM 0 0 0 0 0
  5297  3531  1140    22    12  -127   127            0 CEMETERY_NUJELM 0 0 0 0 0
- 5315  3496  1168   136   152  -127   127            0 JUSTICE_NUJELM 0 0 0 0 0 Nujel'm
- 5316  3632  1168   192   256  -127   127            0 JUSTICE_NUJELM 0 0 0 0 0 Nujel'm
- 5317  3566  1040   258   128  -127   127            0 JUSTICE_NUJELM 0 0 0 0 0 Nujel'm
- 5319  3632  1168   192   256  -127   127            0 CITY_NUJELM 45 0 0 0 0 Nujel'm
- 5335  3544  1168    24    40  -127   127            0 MARKET_NUJELM 0 0 0 0 0 Nujel'm Marketplace
+ 5315  3496  1168   136   152  -127   127            0 JUSTICE_NUJELM 0 0 0 0 0 Nujel?m
+ 5316  3632  1168   192   256  -127   127            0 JUSTICE_NUJELM 0 0 0 0 0 Nujel?m
+ 5317  3566  1040   258   128  -127   127            0 JUSTICE_NUJELM 0 0 0 0 0 Nujel?m
+ 5319  3632  1168   192   256  -127   127            0 CITY_NUJELM 45 0 0 0 0 Nujel?m
+ 5335  3544  1168    24    40  -127   127            0 MARKET_NUJELM 0 0 0 0 0 Nujel?m Marketplace
  5345  3552  1168     8     8  -127   127            0 BUTCHER_NUJELM_1 0 0 0 0 0 Nujelm Butcher
  5355  3544  1176     8     8  -127   127            0 TANNER_NUJELM_1 0 0 0 0 0 Nujelm Tannery
  5365  3544  1184     8     8  -127   127            0 BLACKSMITH_NUJELM_1 0 0 0 0 0 Nujelm Blacksmith
  5375  3544  1192     8     8  -127   127            0 BOWYER_NUJELM 0 0 0 0 0 Nujelm Bowery
- 5385  3728  1216    24    24     0    19            0 THEATER_NUJELM 0 0 0 0 0 Nujel'm Theater
+ 5385  3728  1216    24    24     0    19            0 THEATER_NUJELM 0 0 0 0 0 Nujel?m Theater
  5395  3587  1190    45    84     0    19            0 PEASANT_NUJELM_1 0 0 0 0 0
  5405  3648  1056    48   112     0    19            0 PEASANT_NUJELM_2 0 0 0 0 0
  5415  3768  1168    16     8  -127   127            0 JEWELER_NUJELM_1 0 0 0 0 0 Jewel of the Isle in Nujelm
@@ -702,34 +702,34 @@ version 64207
  5428  3634  1298    34    38  -127   127            0 NONE_NUJELM_3 0 0 0 0 0 Manor House in Nujelm
  5430  3719  1351    20    20  -127   127            0 NONE_NUJELM_4 0 0 0 0 0 Chessboard in Nujelm
  5440  3696  1208     8    16  -127   127            0 SHIPWRIGHT_NUJELM 0 0 0 0 0 Seaborne Ships in Nujelm
- 5450  3728  1184    24    24  -127   127            0 BARDGUILD_NUJELM 0 0 0 0 0 Bardic Guild in Nujel'm
- 5460  3760  1184    24    24  -127   127            0 NONE_NUJELM_5 0 0 0 0 0 Counselor's Guild in Nujel'm
- 5470  3760  1216    11    23     0    19            0 TAVERN_NUJELM_1 34 0 0 0 0 Mystical Spirits in Nujel'm
- 5471  3760  1224    24     8  -127   127            0 TAVERN_NUJELM_1 34 0 0 0 0 Mystical Spirits in Nujel'm
- 5472  3760  1220    16    16  -127   127            0 TAVERN_NUJELM_1 34 0 0 0 0 Mystical Spirits in Nujel'm
- 5490  3728  1248    23     7     0    19            0 TAVERN_NUJELM_2 34 0 0 0 0 The Silver Bow in Nujel'm
- 5491  3728  1248    16    16  -127   127            0 TAVERN_NUJELM_2 34 0 0 0 0 The Silver Bow in Nujel'm
- 5505  3728  1264    24     8     0    19            0 COOK_NUJELM 0 0 0 0 0 The Silver Bow in Nujel'm
- 5515  3728  1328    24    16     0    19            0 TAVERN_NUJELM_3 34 0 0 0 0 The Silver Bow in Nujel'm
- 5525  3760  1256    14    15     0    19            0 CLOTHIER_NUJELM 0 0 0 0 0 Tailor of the Isle in Nujel'm
- 5535  3800  1272     8    16  -127   127            0 DOCKS_NUJELM 0 0 0 0 0 docks in Nujel'm
- 5545  3728  1288    24    40     0    39            0 INN_NUJELM 0 0 0 0 0 Restful Slumber in Nujel'm
- 5555  3708  1376    12    12     0    29            0 JAIL_NUJELM 0 0 0 0 0 Debtor's Prison
+ 5450  3728  1184    24    24  -127   127            0 BARDGUILD_NUJELM 0 0 0 0 0 Bardic Guild in Nujel?m
+ 5460  3760  1184    24    24  -127   127            0 NONE_NUJELM_5 0 0 0 0 0 Counselor?s Guild in Nujel?m
+ 5470  3760  1216    11    23     0    19            0 TAVERN_NUJELM_1 34 0 0 0 0 Mystical Spirits in Nujel?m
+ 5471  3760  1224    24     8  -127   127            0 TAVERN_NUJELM_1 34 0 0 0 0 Mystical Spirits in Nujel?m
+ 5472  3760  1220    16    16  -127   127            0 TAVERN_NUJELM_1 34 0 0 0 0 Mystical Spirits in Nujel?m
+ 5490  3728  1248    23     7     0    19            0 TAVERN_NUJELM_2 34 0 0 0 0 The Silver Bow in Nujel?m
+ 5491  3728  1248    16    16  -127   127            0 TAVERN_NUJELM_2 34 0 0 0 0 The Silver Bow in Nujel?m
+ 5505  3728  1264    24     8     0    19            0 COOK_NUJELM 0 0 0 0 0 The Silver Bow in Nujel?m
+ 5515  3728  1328    24    16     0    19            0 TAVERN_NUJELM_3 34 0 0 0 0 The Silver Bow in Nujel?m
+ 5525  3760  1256    14    15     0    19            0 CLOTHIER_NUJELM 0 0 0 0 0 Tailor of the Isle in Nujel?m
+ 5535  3800  1272     8    16  -127   127            0 DOCKS_NUJELM 0 0 0 0 0 docks in Nujel?m
+ 5545  3728  1288    24    40     0    39            0 INN_NUJELM 0 0 0 0 0 Restful Slumber in Nujel?m
+ 5555  3708  1376    12    12     0    29            0 JAIL_NUJELM 0 0 0 0 0 Debtor?s Prison
  5565  3708  1383     8     4     0    29            0 CELL_NUJELM 0 0 0 0 0
  5575  3716  1376     4    12     0    29            0 HEALER_NUJELM 0 0 0 0 0
- 5585  3712  1392    12    16     0    29            0 COURT_NUJELM 0 0 0 0 0 Nujel'm Court
- 5595  3724  1392     8     8  -127   127            0 NONE_NUJELM_6 0 0 0 0 0 Nujel'm Court
- 5605  3724  1400    16    12     0    29            0 CELL_NUJELM_2 0 0 0 0 0 Nujel'm Court
- 5610  3704  1224    16     8  -127   127            0 CUSTOMS_NUJELM 0 0 0 0 0 Customs in Nujel'm
- 5615  2688  1930   194   430  -127   127            0 NONE_BUCS_DEN 0 0 0 0 0 Buccaneer's Den
- 5625  2688  2057    88   210  -127   127            0 CITY_BUCDEN 11 0 0 0 0 Buccaneer's Den
- 5635  2712  2080    16    16  -127   127            0 INN_BUCDEN 0 0 0 0 0 The Peg Leg Inn in Buccaneer's Den
- 5636  2712  2096     8     8  -127   127            0 INN_BUCDEN 0 0 0 0 0 The Peg Leg Inn in Buccaneer's Den
- 5650  2704  2128     8    24  -127   127            0 HEALER_BUCDEN 0 0 0 0 0 Healer of Buccaneer's Den
- 5660  2704  2176     8     8  -127   127            0 TANNER_BUCDEN 0 0 0 0 0 Buccaneer's Den Leatherworks
- 5670  2738  2154    24    26  -127   127            0 DOCKS_BUCDEN 0 0 0 0 0 docks in Buccaneer's Den
- 5680  2728  2184     8     8  -127   127            0 BANK_BUCDEN 0 0 0 0 0 Buccaneer's Den Bank
- 5690  2728  2248    16     8  -127   127            0 PROVISIONER_BUCDEN 0 0 0 0 0 Pirates Provisioner in Buccaneer's Den
+ 5585  3712  1392    12    16     0    29            0 COURT_NUJELM 0 0 0 0 0 Nujel?m Court
+ 5595  3724  1392     8     8  -127   127            0 NONE_NUJELM_6 0 0 0 0 0 Nujel?m Court
+ 5605  3724  1400    16    12     0    29            0 CELL_NUJELM_2 0 0 0 0 0 Nujel?m Court
+ 5610  3704  1224    16     8  -127   127            0 CUSTOMS_NUJELM 0 0 0 0 0 Customs in Nujel?m
+ 5615  2688  1930   194   430  -127   127            0 NONE_BUCS_DEN 0 0 0 0 0 Buccaneer?s Den
+ 5625  2688  2057    88   210  -127   127            0 CITY_BUCDEN 11 0 0 0 0 Buccaneer?s Den
+ 5635  2712  2080    16    16  -127   127            0 INN_BUCDEN 0 0 0 0 0 The Peg Leg Inn in Buccaneer?s Den
+ 5636  2712  2096     8     8  -127   127            0 INN_BUCDEN 0 0 0 0 0 The Peg Leg Inn in Buccaneer?s Den
+ 5650  2704  2128     8    24  -127   127            0 HEALER_BUCDEN 0 0 0 0 0 Healer of Buccaneer?s Den
+ 5660  2704  2176     8     8  -127   127            0 TANNER_BUCDEN 0 0 0 0 0 Buccaneer?s Den Leatherworks
+ 5670  2738  2154    24    26  -127   127            0 DOCKS_BUCDEN 0 0 0 0 0 docks in Buccaneer?s Den
+ 5680  2728  2184     8     8  -127   127            0 BANK_BUCDEN 0 0 0 0 0 Buccaneer?s Den Bank
+ 5690  2728  2248    16     8  -127   127            0 PROVISIONER_BUCDEN 0 0 0 0 0 Pirates Provisioner in Buccaneer?s Den
  5700  2728  2256     8     8  -127   127            0 THIEFGUILD_BUCDEN 0 0 0 0 0
  5710  2691  1935   111   125     0   127            0 JUNGLE_BUCDEN_2 29 0 0 0 0
  5711  2784  2095    65    52     0   127            0 JUNGLE_BUCDEN_2 29 0 0 0 0
@@ -742,27 +742,27 @@ version 64207
  5745  3649  2256    54    47  -127   127            0 CITY_MAGINCIA 15 0 0 0 0 Magincia
  5760  3684  2064    20     8  -127   127            0 COUNCIL_MAGINCIA 0 0 0 0 0 High Council of Magincia
  5761  3692  2056    12    24  -127   127            0 COUNCIL_MAGINCIA 0 0 0 0 0 High Council of Magincia
- 5775  3656  2136    16     8  -127   127            0 MINERSGUILD_MAGINCIA 0 0 0 0 0 Magincia Miner's Guild
- 5776  3664  2128     8    24  -127   127            0 MINERSGUILD_MAGINCIA 0 0 0 0 0 Magincia Miner's Guild
+ 5775  3656  2136    16     8  -127   127            0 MINERSGUILD_MAGINCIA 0 0 0 0 0 Magincia Miner?s Guild
+ 5776  3664  2128     8    24  -127   127            0 MINERSGUILD_MAGINCIA 0 0 0 0 0 Magincia Miner?s Guild
  5790  3712  2120    16    16  -127   127            0 TINKER_MAGINCIA 0 0 0 0 0 The Tic - Toc Shop in Magincia
  5800  3680  2152    24     8  -127   127            0 INN_MAGINCIA 0 0 0 0 0 The Stag and Lion in Magincia
  5801  3688  2160    16    12  -127   127            0 INN_MAGINCIA 0 0 0 0 0 The Stag and Lion in Magincia
  5815  3680  2168     8     8  -127   127            0 BAKER_MAGINCIA 0 0 0 0 0 The Bread Basket in Magincia
  5825  3728  2144     8    16  -127   127            0 BANK_MAGINCIA 0 0 0 0 0 Bank of Magincia
- 5835  3712  2168    16    16  -127   127            0 NONE_MAGINCIA 0 0 0 0 0 Counselor's Guild in Magincia
+ 5835  3712  2168    16    16  -127   127            0 NONE_MAGINCIA 0 0 0 0 0 Counselor?s Guild in Magincia
  5845  3656  2176    16    24     0    39            0 JEWELER_MAGINCIA 0 0 0 0 0 The Family Jewels in Magincia
  5855  3688  2208     8    22    20    29            0 HEALER_MAGINCIA 0 0 0 0 0 Healer of Magincia
  5856  3680  2224     8     6    20    29            0 HEALER_MAGINCIA 0 0 0 0 0 Healer of Magincia
- 5870  3696  2208    16    24    20    59            0 MAGEGUILD_MAGINCIA 0 0 0 0 0 Magincia's Magicka
+ 5870  3696  2208    16    24    20    59            0 MAGEGUILD_MAGINCIA 0 0 0 0 0 Magincia?s Magicka
  5880  3720  2216    16    16  -127   127            0 TAVERN_MAGINCIA 34 0 0 0 0 Great Horns Tavern in Magincia
- 5890  3660  2228    12    12  -127   127            0 CLOTHIER_MAGINCIA 0 0 0 0 0 Stitchin' Time in Magincia
+ 5890  3660  2228    12    12  -127   127            0 CLOTHIER_MAGINCIA 0 0 0 0 0 Stitchin? Time in Magincia
  5900  3664  2248     8    14  -127   127            0 SHIPWRIGHT_MAGINCIA 0 0 0 0 0 The Furled Sail in Magincia
- 5910  3680  2256     8     6  -127   127            0 FISHERGUILD_MAGINCIA 0 0 0 0 0 Fishermen's Guild & Supplies in Magincia
- 5920  3752  2216    16     8  -127   127            0 BAKER_MAGINCIA 0 0 0 0 0 Baker's Dozen in Magincia
- 5921  3752  2224     8     8  -127   127            0 BAKER_MAGINCIA 0 0 0 0 0 Baker's Dozen in Magincia
+ 5910  3680  2256     8     6  -127   127            0 FISHERGUILD_MAGINCIA 0 0 0 0 0 Fishermen?s Guild ? Supplies in Maginci
+ 5920  3752  2216    16     8  -127   127            0 BAKER_MAGINCIA 0 0 0 0 0 Baker?s Dozen in Magincia
+ 5921  3752  2224     8     8  -127   127            0 BAKER_MAGINCIA 0 0 0 0 0 Baker?s Dozen in Magincia
  5935  3779  2240    29    31     0    49            0 PARLIAMENT_MAGINCIA 0 0 0 0 0 Magincia Parliament
- 5945  3680  2248    16     8  -127   127            0 PROVISIONER_MAGINCIA 0 0 0 0 0 Fishermen's Guild & Supplies in Magincia
- 5955  3696  2240    16    12     0    39            0 MERCHANTGUILD_MAGINCIA 0 0 0 0 0 Merchants' Guild in Magincia
+ 5945  3680  2248    16     8  -127   127            0 PROVISIONER_MAGINCIA 0 0 0 0 0 Fishermen?s Guild ? Supplies in Maginci
+ 5955  3696  2240    16    12     0    39            0 MERCHANTGUILD_MAGINCIA 0 0 0 0 0 Merchants? Guild in Magincia
  5965  3652  2261    44    40  -127   127            0 DOCKS_MAGINCIA 0 0 0 0 0 docks in Magincia
  5975  3528  2098    97    96  -127   127            0 JUNGLE_MAGINCIA 29 0 0 0 0
  5985  3554  2132    18    18  -127   127            0 JUSTICE_MAGINCIA 0 0 0 0 0 Magincia Moongate
@@ -774,22 +774,22 @@ version 64207
  6040  2904  3480     8    16  -127   127            0 BUTCHER_SERPHOLD 0 0 0 0 0 Serpent Hold Meats
  6050  2928  3504     8     8  -127   127            0 TINKER_SERPHOLD 0 0 0 0 0 Tinker of the Isle in Serpents Hold
  6060  2936  3496     8    16  -127   127            0 TINKERGUILD_SERPHOLD 0 0 0 0 0 Tinker of the Isle in Serpents Hold
- 6070  2936  3344    32    24     0    54            0 NONE_SERPHOLD_0 0 0 0 0 0 Counselor's Guild in Serpents Hold
- 6080  2968  3352    16     8    15    34            0 BAKER_SERPHOLD 0 0 0 0 0 Plenty O' Dough in Serpents Hold
- 6090  2998  3352     8     8    15    34            0 MAGE_SERPHOLD 0 0 0 0 0 Serpent's Spells in Serpents Hold
+ 6070  2936  3344    32    24     0    54            0 NONE_SERPHOLD_0 0 0 0 0 0 Counselor?s Guild in Serpents Hold
+ 6080  2968  3352    16     8    15    34            0 BAKER_SERPHOLD 0 0 0 0 0 Plenty O? Dough in Serpents Hold
+ 6090  2998  3352     8     8    15    34            0 MAGE_SERPHOLD 0 0 0 0 0 Serpent?s Spells in Serpents Hold
  6100  3008  3352     8     8    15    34            0 ALCHEMIST_SERPHOLD 0 0 0 0 0 Britannian Herbs in Serpents Hold
  6110  3048  3360     8    16  -127   127            0 BOWYER_SERPHOLD 0 0 0 0 0 Silver Serpent Bows
  6120  3000  3384    16     8  -127   127            0 PROVISIONER_SERPHOLD 0 0 0 0 0 Supplies in Serpents Hold
  6130  3000  3400    16    16  -127   127            0 BLACKSMITH_SERPHOLD 0 0 0 0 0 Blacksmith in Serpents Hold
  6140  2960  3400    16    16    15    54            0 INN_SERPHOLD 0 0 0 0 0 The Broken Arrow Inn in Serpents Hold
  6150  2968  3417     8    16  -127   127            0 TAVERN_SERPHOLD_1 34 0 0 0 0 The Dog and Lion Pub in Serpents Hold
- 6160  2992  3424     8    16  -127   127            0 HEALER_SERPHOLD 0 0 0 0 0 Serpent's Hold Healer
+ 6160  2992  3424     8    16  -127   127            0 HEALER_SERPHOLD 0 0 0 0 0 Serpent?s Hold Healer
  6170  3008  3424    16    16  -127   127            0 WEAPONRY_SERPHOLD 0 0 0 0 0 Serpents Arms in Serpents Hold
  6180  2984  3450    36    20  -127   127            0 DOCKS_SERPHOLD_1 0 0 0 0 0 docks in Serpents Hold
- 6190  3008  3450    12    14  -127   127            0 TAVERN_SERPHOLD 34 0 0 0 0 Fisherman's Brew in Serpents Hold
+ 6190  3008  3450    12    14  -127   127            0 TAVERN_SERPHOLD 34 0 0 0 0 Fisherman?s Brew in Serpents Hold
  6200  2932  3394    20    22  -127   127            0 DOCKS_SERPHOLD_2 0 0 0 0 0 docks in Serpents Hold
- 6210  3048  3384    16    24    15    37            0 FIGHTERGUILD_SERPHOLD 0 0 0 0 0 Serpent Warrior's in Serpents Hold
- 6220  3048  3384    16    24    28   127            0 RANGERGUILD_SERPHOLD 0 0 0 0 0 Serpent Warrior's in Serpents Hold
+ 6210  3048  3384    16    24    15    37            0 FIGHTERGUILD_SERPHOLD 0 0 0 0 0 Serpent Warrior?s in Serpents Hold
+ 6220  3048  3384    16    24    28   127            0 RANGERGUILD_SERPHOLD 0 0 0 0 0 Serpent Warrior?s in Serpents Hold
  6230  2896  3520    15    13  -127   127            0 STABLES_SERPHOLD_2 0 0 0 0 0 Serpents Hold Stablery
  6240  3024  3464    15    15  -127   127            0 STABLES_SERPHOLD_2 0 0 0 0 0 Serpents Hold Stablery
  6250  2765  3434   103   128  -127   127            0 JUNGLE_ISLE_OF_DEEDS 29 0 0 0 0
@@ -808,16 +808,16 @@ version 64207
  6375  3606  2463    11    17     0    20            0 LIBRARY_OCLLO_1 0 0 0 0 0 Ocllo Public Library
  6385  3591  2599    17     9     0    20            0 TANNER_OCLLO_1 0 0 0 0 0 Better Leather Tannery in Ocllo
  6395  3599  2607     9    17     0    20            0 TANNER_OCLLO_2 0 0 0 0 0 Better Leather Tannery in Ocllo
- 6405  3631  2591    17     9     0    20            0 BLACKSMITH_OCLLO_1 0 0 0 0 0 Hammer & Steel Smithy in Ocllo
- 6415  3623  2527    17     9     0    20            0 MAGEGUILD_OCLLO_1 0 0 0 0 0 Sorcerer's Guild in Ocllo
+ 6405  3631  2591    17     9     0    20            0 BLACKSMITH_OCLLO_1 0 0 0 0 0 Hammer ? Steel Smithy in Ocllo
+ 6415  3623  2527    17     9     0    20            0 MAGEGUILD_OCLLO_1 0 0 0 0 0 Sorcerer?s Guild in Ocllo
  6425  3623  2631    17     9     0    20            0 SHIPWRIGHT_OCLLO_1 0 0 0 0 0 Anchors Aweigh in Ocllo
  6435  3663  2639     9    17     0    20            0 TAVERN_OCLLO_1 34 0 0 0 0 The Albatross in Ocllo
- 6445  3599  2567     9    17     0    20            0 BAKER_OCLLO_1 0 0 0 0 0 Now You're Cookin' in Ocllo
+ 6445  3599  2567     9    17     0    20            0 BAKER_OCLLO_1 0 0 0 0 0 Now You?re Cookin? in Ocllo
  6455  3687  2504     9    16     0    15            0 BANK_OCLLO_1 0 0 0 0 0 Bank of Ocllo
  6465  3623  2601    17     8     0    20            0 HEALER_OCLLO_1 0 0 0 0 0 Healer of Ocllo
  6475  3623  2607     9     9     0    20            0 HEALER_OCLLO_2 0 0 0 0 0 Healer of Ocllo
  6485  3671  2647     9     9     0    20            0 TAVERN_OCLLO_2 34 0 0 0 0 The Albatross in Ocllo
- 6495  3641  2601     6     5     0    10            0 BLACKSMITH_OCLLO_2 0 0 0 0 0 Hammer & Steel Smithy in Ocllo
+ 6495  3641  2601     6     5     0    10            0 BLACKSMITH_OCLLO_2 0 0 0 0 0 Hammer ? Steel Smithy in Ocllo
  6505  3596  2460   111   220   -20   127            0 HOUSING_NO_OCLLO_1 0 0 0 0 0 Ocllo
  6515  3690  2556    72   172   -20   127            0 HOUSING_NO_OCLLO_2 0 0 0 0 0 Ocllo
  6525  3695  2558    65   153    -5   100            0 JUSTICE_OCLLO 0 0 0 0 0 Ocllo
@@ -876,29 +876,29 @@ version 64207
  6896  4367  1050   142   145     0   127            0 CITY_MOONGLOW 48 0 0 0 0 Moonglow
  6905  4480  1056     8    16     0   127            0 INN_MOONGLOW_1 0 0 0 0 0 Moonglow Student Hostel
  6906  4476  1060    16     8     0   127            0 INN_MOONGLOW_1 0 0 0 0 0 Moonglow Student Hostel
- 6920  4384  1152     8    24     0   127            0 INN_MOONGLOW_2 0 0 0 0 0 The Scholar's Inn in Moonglow
- 6921  4392  1160     8     8     0   127            0 INN_MOONGLOW_2 0 0 0 0 0 The Scholar's Inn in Moonglow
- 6922  4400  1152     8    16     0   127            0 INN_MOONGLOW_2 0 0 0 0 0 The Scholar's Inn in Moonglow
- 6940  4384  1056     8    16  -127   127            0 BAKER_MOONGLOW 0 0 0 0 0 Mage's Bread in Moonglow
- 6941  4392  1064     8     8  -127   127            0 BAKER_MOONGLOW 0 0 0 0 0 Mage's Bread in Moonglow
- 6955  4408  1056     8    16  -127   127            0 PROVISIONER_MOONGLOW 0 0 0 0 0 Scholar's Goods in Moonglow
- 6956  4408  1060    16     8  -127   127            0 PROVISIONER_MOONGLOW 0 0 0 0 0 Scholar's Goods in Moonglow
+ 6920  4384  1152     8    24     0   127            0 INN_MOONGLOW_2 0 0 0 0 0 The Scholar?s Inn in Moonglow
+ 6921  4392  1160     8     8     0   127            0 INN_MOONGLOW_2 0 0 0 0 0 The Scholar?s Inn in Moonglow
+ 6922  4400  1152     8    16     0   127            0 INN_MOONGLOW_2 0 0 0 0 0 The Scholar?s Inn in Moonglow
+ 6940  4384  1056     8    16  -127   127            0 BAKER_MOONGLOW 0 0 0 0 0 Mage?s Bread in Moonglow
+ 6941  4392  1064     8     8  -127   127            0 BAKER_MOONGLOW 0 0 0 0 0 Mage?s Bread in Moonglow
+ 6955  4408  1056     8    16  -127   127            0 PROVISIONER_MOONGLOW 0 0 0 0 0 Scholar?s Goods in Moonglow
+ 6956  4408  1060    16     8  -127   127            0 PROVISIONER_MOONGLOW 0 0 0 0 0 Scholar?s Goods in Moonglow
  6970  4448  1056    16    16  -127   127            0 CLOTHIER_MOONGLOW 0 0 0 0 0 Scholars Cut in Moonglow
  6980  4384  1080    16     8  -127   127            0 HEALER_MOONGLOW 0 0 0 0 0 Moonglow Healer
  6981  4384  1080     8    16  -127   127            0 HEALER_MOONGLOW 0 0 0 0 0 Moonglow Healer
- 6995  4408  1080    16    16  -127   127            0 CARPENTER_MOONGLOW 0 0 0 0 0 Mage's Seat in Moonglow
- 7005  4446  1080    18    16     0    19            0 ALCHEMIST_MOONGLOW 0 0 0 0 0 Moonglow's Finest Alchemy
- 7015  4472  1080    16     8  -127   127            0 VEGGIESTALL_MOONGLOW 0 0 0 0 0 Farmer's Market in Moonglow
- 7016  4476  1080     8    12  -127   127            0 VEGGIESTALL_MOONGLOW 0 0 0 0 0 Farmer's Market in Moonglow
+ 6995  4408  1080    16    16  -127   127            0 CARPENTER_MOONGLOW 0 0 0 0 0 Mage?s Seat in Moonglow
+ 7005  4446  1080    18    16     0    19            0 ALCHEMIST_MOONGLOW 0 0 0 0 0 Moonglow?s Finest Alchemy
+ 7015  4472  1080    16     8  -127   127            0 VEGGIESTALL_MOONGLOW 0 0 0 0 0 Farmer?s Market in Moonglow
+ 7016  4476  1080     8    12  -127   127            0 VEGGIESTALL_MOONGLOW 0 0 0 0 0 Farmer?s Market in Moonglow
  7030  4384  1112    16     8  -127   127            0 WEAPONRY_MOONGLOW 0 0 0 0 0 The Mighty Axe in Moonglow
  7040  4408  1108    16     8  -127   127            0 HERBALIST_MOONGLOW_1 0 0 0 0 0 Moonglow Reagent Shop
  7041  4412  1104     8    16  -127   127            0 HERBALIST_MOONGLOW_1 0 0 0 0 0 Moonglow Reagent Shop
  7055  4384  1130    16     8  -127   127            0 BUTCHER_MOONGLOW 0 0 0 0 0 Fatted Calf in Moonglow
  7056  4392  1130     8    16  -127   127            0 BUTCHER_MOONGLOW 0 0 0 0 0 Fatted Calf in Moonglow
  7070  4408  1128    16     8  -127   127            0 HERBALIST_MOONGLOW_2 0 0 0 0 0 Herbal Splendor in Moonglow
- 7080  4468  1118     8    16  -127   127            0 NONE_MOONGLOW_0 0 0 0 0 0 Counselor's Guild in Moonglow
- 7081  4484  1118     8    16  -127   127            0 NONE_MOONGLOW_0 0 0 0 0 0 Counselor's Guild in Moonglow
- 7082  4476  1121     8     9  -127   127            0 NONE_MOONGLOW_0 0 0 0 0 0 Counselor's Guild in Moonglow
+ 7080  4468  1118     8    16  -127   127            0 NONE_MOONGLOW_0 0 0 0 0 0 Counselor?s Guild in Moonglow
+ 7081  4484  1118     8    16  -127   127            0 NONE_MOONGLOW_0 0 0 0 0 0 Counselor?s Guild in Moonglow
+ 7082  4476  1121     8     9  -127   127            0 NONE_MOONGLOW_0 0 0 0 0 0 Counselor?s Guild in Moonglow
  7100  4432  1160    16     8  -127   127            0 ARMORER_MOONGLOW 0 0 0 0 0 Second Defense Armory in Moonglow
  7110  4436  1152     8     8  -127   127            0 BLACKSMITH_MOONGLOW 0 0 0 0 0 Second Defense Armory in Moonglow
  7120  4462  1152     6    16     0    19            0 BANK_MOONGLOW 0 0 0 0 0 First Bank of Moonglow and Tinkersguild
@@ -942,12 +942,12 @@ version 64207
  7340  4498  1381     6     4  -127   127            0 ZOO_PLAINS 0 0 0 0 0
  7350  4520  1056    16     8  -127   127            0 ARTISAN_MOONGLOW 0 0 0 0 0 Moonglow Academy of Arts
  7351  4520  1056     8    16  -127   127            0 ARTISAN_MOONGLOW 0 0 0 0 0 Moonglow Academy of Arts
- 7365  4616  1200    16     8     0    19            0 MAGEGUILD_MOONGLOW_2 0 0 0 0 0 Illusionist's Guild in Moonglow
- 7366  4624  1200     8    16     0    19            0 MAGEGUILD_MOONGLOW_2 0 0 0 0 0 Illusionist's Guild in Moonglow
+ 7365  4616  1200    16     8     0    19            0 MAGEGUILD_MOONGLOW_2 0 0 0 0 0 Illusionist?s Guild in Moonglow
+ 7366  4624  1200     8    16     0    19            0 MAGEGUILD_MOONGLOW_2 0 0 0 0 0 Illusionist?s Guild in Moonglow
  7380  4542   848     8    24  -127   127            0 MAGEGUILD_MOONGLOW_1 0 0 0 0 0 Encyclopedia Magicka in Moonglow
  7381  4534   856    24     8  -127   127            0 MAGEGUILD_MOONGLOW_1 0 0 0 0 0 Encyclopedia Magicka in Moonglow
- 7395  4672  1407    24     8  -127   127            0 MAGEGUILD_MOONGLOW_3 0 0 0 0 0 Sorcerer's Guild in Moonglow
- 7396  4680  1415     8     8  -127   127            0 MAGEGUILD_MOONGLOW_3 0 0 0 0 0 Sorcerer's Guild in Moonglow
+ 7395  4672  1407    24     8  -127   127            0 MAGEGUILD_MOONGLOW_3 0 0 0 0 0 Sorcerer?s Guild in Moonglow
+ 7396  4680  1415     8     8  -127   127            0 MAGEGUILD_MOONGLOW_3 0 0 0 0 0 Sorcerer?s Guild in Moonglow
  7410  4459  1276    16    16  -127   127            0 JUSTICE_MOONGLOW_1 0 0 0 0 0 Moonglow Moongate
  7420  4535  1296    23    40  -127   127            0 CEMETERY_MOONGLOW 0 0 0 0 0 Moonglow Cemetery
  7421  4527  1313     8    23  -127   127            0 CEMETERY_MOONGLOW 0 0 0 0 0 Moonglow Cemetery
@@ -974,7 +974,6 @@ version 64207
  7496  4615  3549    21    31  -127   127            0 FIRELEMENTALSMALL_1 0 0 0 0 0 Fire Temple
  7497  4578  3597    36    27     0    74            0 FIRELEMENTALSMALL_1 0 0 0 0 0 Fire Temple
  7515  4453  3097    17    18  -127   127            0 RUINS_16 0 0 0 0 0
- 7525  5120  2304  1024  1791  -127   127            0 LOSTLANDS 0 0 0 0 0
  7535  5120     0  1024  2304  -127   127            0 DUNGEONS 26 0 0 0 0
  7545  5120     8   256   256  -127   127            0 NONE_WIND 0 0 0 0 0 Wind
  7555  5213    24    64    68  -127   127            0 WINDFOREST_WIND 27 0 0 0 0 Wind park
@@ -991,16 +990,16 @@ version 64207
  7593  5252   170    32     8  -127   127            0 JUSTICE_WIND 0 0 0 0 0 Wind
  7594  5252   178    20     5  -127   127            0 JUSTICE_WIND 0 0 0 0 0 Wind
  7595  5252   183    10    10  -127   127            0 JUSTICE_WIND 0 0 0 0 0 Wind
- 7610  5159    15    25     9  -127    56            0 INN_WIND_1 0 0 0 0 0 Seeker's Inn in Wind
- 7611  5159    15     9    25  -127    56            0 INN_WIND_1 0 0 0 0 0 Seeker's Inn in Wind
- 7612  5175    15     9    17  -127    56            0 INN_WIND_1 0 0 0 0 0 Seeker's Inn in Wind
+ 7610  5159    15    25     9  -127    56            0 INN_WIND_1 0 0 0 0 0 Seeker?s Inn in Wind
+ 7611  5159    15     9    25  -127    56            0 INN_WIND_1 0 0 0 0 0 Seeker?s Inn in Wind
+ 7612  5175    15     9    17  -127    56            0 INN_WIND_1 0 0 0 0 0 Seeker?s Inn in Wind
  7615  5212   159     9    24     5    24            0 INN_WIND_2 0 0 0 0 0 Windy Inn
  7616  5212   171    16    12     5    24            0 INN_WIND_2 0 0 0 0 0 Windy Inn
  7617  5206   164    15    15     5    24            0 INN_WIND_2 0 0 0 0 0 Windy Inn
  7635  5303    28    16    14  -127    59            0 INN_WIND_3 0 0 0 0 0
  7645  5144    53    14    13    25    44            0 MAGE_WIND_1 0 0 0 0 0 Wind Alchemy
  7646  5144    53     8    33     0    44            0 MAGE_WIND_1 0 0 0 0 0 Wind Alchemy
- 7660  5149    91    17    16     0    24            0 PROVISIONER_WIND 0 0 0 0 0 Mage's Things in Wind
+ 7660  5149    91    17    16     0    24            0 PROVISIONER_WIND 0 0 0 0 0 Mage?s Things in Wind
  7670  5197    92     8    10     0    24            0 CLOTHIER_WIND 0 0 0 0 0 Windy Clothes
  7680  5208   115    14     8     0    19            0 HERBALIST_WIND 0 0 0 0 0 Magical Supplies in Wind
  7681  5208   111    10    12     0    19            0 HERBALIST_WIND 0 0 0 0 0 Magical Supplies in Wind
@@ -1009,10 +1008,10 @@ version 64207
  7715  5237   172    11    11    15    34            0 LIBRARY_WIND_2 0 0 0 0 0 Seat of Knowledge in Wind
  7716  5240   172     8    20    15    34            0 LIBRARY_WIND_2 0 0 0 0 0 Seat of Knowledge in Wind
  7730  5264   152     8    14    15    34            0 MAGE_WIND_2 0 0 0 0 0
- 7740  5341    52    16     4    15    34            0 VEGGIESTALL_WIND 0 0 0 0 0 Mage's Appetite in Wind
- 7750  5346    49     7    11    15    34            0 BAKER_WIND 0 0 0 0 0 Mage's Appetite in Wind
- 7760  5343    53    14     7    15    34            0 FISHER_WIND 0 0 0 0 0 Mage's Appetite in Wind
- 7770  5346    52     6    11    15    34            0 BUTCHER_WIND 0 0 0 0 0 Mage's Appetite in Wind
+ 7740  5341    52    16     4    15    34            0 VEGGIESTALL_WIND 0 0 0 0 0 Mage?s Appetite in Wind
+ 7750  5346    49     7    11    15    34            0 BAKER_WIND 0 0 0 0 0 Mage?s Appetite in Wind
+ 7760  5343    53    14     7    15    34            0 FISHER_WIND 0 0 0 0 0 Mage?s Appetite in Wind
+ 7770  5346    52     6    11    15    34            0 BUTCHER_WIND 0 0 0 0 0 Mage?s Appetite in Wind
  7780  5185   146    12    12  -127   127            0 DAEMON_WIND 0 0 0 0 0
  7790  5134   138     8     8  -127   127            0 WATERELEMENTAL_WIND 0 0 0 0 0
  7800  5376   516   256   128  -127   127            0 DUNGN_DESPISE 26 0 0 0 0 Despise
@@ -1047,7 +1046,7 @@ version 64207
  7985  5632     8   256   128  -127   127            0 SHAME 26 0 0 0 0 Shame
  7986  5888     8   256   256  -127   127            0 HYTHLOTH 26 0 0 0 0 Hythloth
  7987  5632   512   256   160  -127   127            0 WRONG 26 0 0 0 0 Wrong
- 7990  2654  2189    10    10  -127   127            0 THIEVESGUILD_BUCDEN 0 0 0 0 0 Thieves Guild in Buccaneer's Den
+ 7990  2654  2189    10    10  -127   127            0 THIEVESGUILD_BUCDEN 0 0 0 0 0 Thieves Guild in Buccaneer?s Den
  7991  5303   735    26    26  -127   127            0 ELDERLICHE_DUNGN_DECEIT 0 0 0 0 0
  7992  5154   196    14    21  -127   127            0 ELDERLICHE_WIND 0 0 0 0 0
  7993  5546   813    25    24  -127   127            0 ELDEROGRE_DUNGN_DESPISE 0 0 0 0 0
@@ -1175,9 +1174,6 @@ version 64207
  8324  6048   152    15    15  -127   127            0 DAEMON_DUNGN_HYTHLOTH_5 0 0 0 0 0
  8325  6055    87    18    18  -127   127            0 DAEMON_DUNGN_HYTHLOTH_6 0 0 0 0 0
  8400  5645   549    27    28  -127   127            0 BRIGANDMEDIUM_DUNGN_WRONG 0 0 0 0 0
- 8410  6024  1428   100    76  -127   127            0 SEWERRATMEDIUM_DUNGN_SEWER_1 0 0 0 0 0 Britain Sewer
- 8415  6024  1428   100    76  -127   127            0 BULLFROG_DUNGN_SEWER_1 0 0 0 0 0 Britain Sewer
- 8419  6024  1428   100    76  -127   127            0 ALLIGATORMEDIUM_DUNGN_SEWER_1 0 0 0 0 0 Britain Sewer
  8500  4562  3549    36    33  -127   127            0 DRAGON_FIREISLAND_1 0 0 0 0 0
  8501  4598  3549    38    33  -127   127            0 DRAGON_FIREISLAND_2 0 0 0 0 0
  8502  1125  2211    40    40  -127   127            0 DAEMON_1 0 0 0 0 0
@@ -1229,337 +1225,6 @@ version 64207
  8637  5498  1778    60    60  -127   127            0 ZOMBIESMALL_DUNGN_COVETOUS_5 0 0 0 0 0
  8638  5492  1796    24    24  -127   127            0 ZOMBIESMALL_DUNGN_COVETOUS_6 0 0 0 0 0
  8639  5422  1769    60    60  -127   127            0 DRAGON_DUNGN_COVETOUS 0 0 0 0 0
- 8640  5637  1287   245   230  -127   127            0 DUNGN_FIRE 26 0 0 0 0 Fire Dungeon
- 8641  5673  1395    40    40  -127   127            0 SLIMESMALL_DUNGN_FIRE 0 0 0 0 0
- 8642  5675  1414    40    40  -127   127            0 SLIMESMALL_DUNGN_FIRE_2 0 0 0 0 0
- 8643  5660  1418    40    40  -127   127            0 MAGE_DUNGN_FIRE 0 0 0 0 0
- 8644  5713  1413    40    40  -127   127            0 GIANTRATSMALL_DUNGN_FIRE 0 0 0 0 0
- 8645  5767  1407    40    40  -127   127            0 LIZARDMANSMALL_DUNGN_FIRE 0 0 0 0 0
- 8646  5702  1450    30    30  -127   127            0 FIREELEMENTAL_DUNGN_FIRE 0 0 0 0 0
- 8647  5729  1456    30    30  -127   127            0 FIREELEMENTAL_DUNGN_FIRE_2 0 0 0 0 0
- 8648  5775  1436    30    30  -127   127            0 DAEMON_DUNGN_FIRE 0 0 0 0 0
- 8649  5822  1438    60    60  -127   127            0 LICHLARGE_DUNGN_FIRE 0 0 0 0 0
- 8650  5822  1438    60    60  -127   127            0 SSERPENTSMALL_DUNGN_FIRE 0 0 0 0 0
- 8651  5839  1367    40    40  -127   127            0 LIZARDMANSMALL_DUNGN_FIRE_2 0 0 0 0 0
- 8652  5767  1366    40    40  -127   127            0 GWOLFSMALL_DUNGN_FIRE 0 0 0 0 0
- 8653  5798  1359    40    40  -127   127            0 FIREELEMENTAL_DUNGN_FIRE_3 0 0 0 0 0
- 8654  5816  1344    40    40  -127   127            0 SSERPENTSMALL_DUNGN_FIRE_2 0 0 0 0 0
- 8655  5789  1312    40    40  -127   127            0 SSERPENTSMALL_DUNGN_FIRE_3 0 0 0 0 0
- 8656  5839  1321    40    40  -127   127            0 FIREELEMENTAL_DUNGN_FIRE_4 0 0 0 0 0
- 8657  5805  1274    60    60  -127   127            0 FIREELEMENTAL_DUNGN_FIRE_5 0 0 0 0 0
- 8658  5847  1289    40    40  -127   127            0 GWOLFSMALL_DUNGN_FIRE_2 0 0 0 0 0
- 8659  5684  1287    30    30  -127   127            0 FIREELEMENTAL_DUNGN_FIRE_6 0 0 0 0 0
- 8660  5720  1288     6     6  -127   127            0 FIREELEMENTAL_DUNGN_FIRE_7 0 0 0 0 0
- 8661  5712  1277    40    40  -127   127            0 GWOLFSMALL_DUNGN_FIRE_3 0 0 0 0 0
- 8662  5647  1295    40    40  -127   127            0 DAEMON_DUNGN_FIRE_2 0 0 0 0 0
- 8663  5727  1300    40    40  -127   127            0 FIREELEMENTAL_DUNGN_FIRE_8 0 0 0 0 0
- 8664  5697  1313    40    40  -127   127            0 LIZARDMANSMALL_DUNGN_FIRE_3 0 0 0 0 0
- 8665  5724  1372    14    14  -127   127            0 LICHMEDIUM_DUNGN_FIRE 0 0 0 0 0
- 8666  5689  1344    40    40  -127   127            0 GWOLFMEDIUM_DUNGN_FIRE_4 0 0 0 0 0
- 8667  5688  1344     6     6  -127   127            0 DAEMON_DUNGN_FIRE_3 0 0 0 0 0
- 8668  5648  1310    60    60  -127   127            0 GWOLFSMALL_DUNGN_FIRE_5 0 0 0 0 0
- 8669  5648  1360     6     6  -127   127            0 MAGE_DUNGN_FIRE_2 0 0 0 0 0
- 8670  5649  1375    10    10  -127   127            0 MAGE_DUNGN_FIRE_3 0 0 0 0 0
- 8671  5679  1377    20    20  -127   127            0 MAGE_DUNGN_FIRE_4 0 0 0 0 0
- 8672  5646  1402    20    20  -127   127            0 MAGE_DUNGN_FIRE_5 0 0 0 0 0
- 8673  5648  1399     6     6  -127   127            0 MAGE_DUNGN_FIRE_6 0 0 0 0 0
- 8674  5640  1400     6     6  -127   127            0 MAGE_DUNGN_FIRE_7 0 0 0 0 0
- 8675  5648  1405     6     6  -127   127            0 GWOLFSMALL_DUNGN_FIRE_6 0 0 0 0 0
- 8676  5648  1415     6     6  -127   127            0 MAGE_DUNGN_FIRE_8 0 0 0 0 0
- 8677  5645  1414    10    10  -127   127            0 MAGE_DUNGN_FIRE_9 0 0 0 0 0
- 8678  5632  1424    30    30  -127   127            0 MAGE_DUNGN_FIRE_10 0 0 0 0 0
- 8679  5646  1438    10    10  -127   127            0 MAGE_DUNGN_FIRE_11 0 0 0 0 0
- 8680  5646  1430    10    10  -127   127            0 MAGE_DUNGN_FIRE_12 0 0 0 0 0
- 8681  5638  1430    10    10  -127   127            0 MAGE_DUNGN_FIRE_13 0 0 0 0 0
- 8682  5598  1399    80    80  -127   127            0 MAGE_DUNGN_FIRE_14 0 0 0 0 0
- 8683  5649   134   243   249  -127   127            0 DUNGN_ICE 26 0 0 0 0 Ice Dungeon
- 8684  5751   204    40    40  -127   127            0 OGRESMALL_DUNGN_ICE 0 0 0 0 0
- 8685  5774   163    50    50  -127   127            0 SSERPENTSMALL_DUNGN_ICE 0 0 0 0 0
- 8686  5842   193    50    50  -127   127            0 GIANTSPIDERSMALL_DUNGN_ICE 0 0 0 0 0
- 8687  5830   199    40    40  -127   127            0 RATMANSMALL_DUNGN_ICE 0 0 0 0 0
- 8688  5799   222    30    30  -127   127            0 OGRESMALL_DUNGN_ICE_2 0 0 0 0 0
- 8689  5742   134    20    20  -127   127            0 DRAGON_DUNGN_ICE 0 0 0 0 0
- 8690  5819   139    40    40  -127   127            0 SLIMESMALL_DUNGN_ICE 0 0 0 0 0
- 8691  5765   141    40    40  -127   127            0 SLIMESMALL_DUNGN_ICE_2 0 0 0 0 0
- 8692  5737   193    40    40  -127   127            0 SSERPENTSMALL_DUNGN_ICE_2 0 0 0 0 0
- 8693  5661   171    40    40  -127   127            0 SSERPENTSMALL_DUNGN_ICE_3 0 0 0 0 0
- 8694  5696   141    70    70  -127   127            0 SSERPENTLARGE_DUNGN_ICE_4 0 0 0 0 0
- 8695  5806   333    50    50  -127   127            0 RATMANLARGE_DUNGN_ICE 0 0 0 0 0
- 8696  5660   286    40    40  -127   127            0 DAEMON_DUNGN_ICE 0 0 0 0 0
- 8697  5649   310    40    40  -127   127            0 DAEMON_DUNGN_ICE_2 0 0 0 0 0
- 8698  5130  1807   233   238  -127   127            0 DUNGN_ORCCAVES 26 0 0 0 0 Orc Caves
- 8699  5138  1987    16    16  -127   127            0 ORCSMALL_DUNGN_ORCCAVES 0 0 0 0 0
- 8700  5145  1963    16    16  -127   127            0 ORCSMALL_DUNGN_ORCCAVES_2 0 0 0 0 0
- 8701  5145  1953    16    16  -127   127            0 GWOLFSMALL_DUNGN_ORCCAVES 0 0 0 0 0
- 8702  5136  1952    16    16  -127   127            0 ORCSMALL_DUNGN_ORCCAVES_6 0 0 0 0 0
- 8703  5133  1960    16    16  -127   127            0 ORCCAPSMALL_DUNGN_ORCCAVES 0 0 0 0 0
- 8704  5324  1357    16    16  -127   127            0 ORCSMALL_DUNGN_ORCCAVES_3 0 0 0 0 0
- 8705  5300  1364    16    16  -127   127            0 NOBLESMALL_DUNGN_ORCCAVES 0 0 0 0 0
- 8706  5290  1343    24    24  -127   127            0 ORCSMALL_DUNGN_ORCCAVES_7 0 0 0 0 0
- 8707  5308  1324    16    16  -127   127            0 GIANTRATSMALL_DUNGN_ORCCAVES 0 0 0 0 0
- 8708  5323  1338    16    16  -127   127            0 GWOLFSMALL_DUNGN_ORCCAVES_2 0 0 0 0 0
- 8709  5346  1324    16    16  -127   127            0 ORCCAPSMALL_DUNGN_ORCCAVES_2 0 0 0 0 0
- 8710  5346  1294    20    20  -127   127            0 ORCSMALL_DUNGN_ORCCAVES_8 0 0 0 0 0
- 8711  5309  1301    16    16  -127   127            0 ORCSMALL_DUNGN_ORCCAVES_9 0 0 0 0 0
- 8712  5290  1304    20    20  -127   127            0 ORCSMALL_DUNGN_ORCCAVES_4 0 0 0 0 0
- 8713  5284  1308    16    16  -127   127            0 CORPSERSMALL_DUNGN_ORCCAVES 0 0 0 0 0
- 8714  5273  2021    16    16  -127   127            0 ORCSMALL_DUNGN_ORCCAVES_5 0 0 0 0 0
- 8715  5296  1993    24    24  -127   127            0 ORCSMALL_DUNGN_ORCCAVES_10 0 0 0 0 0
- 8716  5298  1957    24    24  -127   127            0 ORCSMALL_DUNGN_ORCCAVES_11 0 0 0 0 0
- 8717  5333  1996    30    30  -127   127            0 ORCSMALL_DUNGN_ORCCAVES_12 0 0 0 0 0
- 8718  5126  1532   245   261  -127   127            0 DUNGN_TERATHANKEEP 26 0 0 0 0 Terathan Keep
- 8719  5276  1541    40    40  -127   127            0 DAEMON_DUNGN_TERATHANKEEP 0 0 0 0 0
- 8720  5276  1542    40    40  -127   127            0 SSERPENTSMALL_DUNGN_TERATHANKEEP 0 0 0 0 0
- 8721  5277  1545    40    40  -127   127            0 GIANTSPIDERSMALL_DUNGN_TERATHANKEEP 0 0 0 0 0
- 8722  5322  1533    40    40  -127   127            0 DAEMON_DUNGN_TERATHANKEEP_2 0 0 0 0 0
- 8723  5322  1532    40    40  -127   127            0 SSERPENTSMALL_DUNGN_TERATHANKEEP_2 0 0 0 0 0
- 8724  5323  1531    40    40  -127   127            0 GIANTSPIDERSMALL_DUNGN_TERATHANKEEP_2 0 0 0 0 0
- 8725  5314  1593    40    40  -127   127            0 DAEMON_DUNGN_TERATHANKEEP_3 0 0 0 0 0
- 8726  5314  1594    40    40  -127   127            0 SSERPENTSMALL_DUNGN_TERATHANKEEP_3 0 0 0 0 0
- 8727  5315  1595    40    40  -127   127            0 GIANTSPIDERSMALL_DUNGN_TERATHANKEEP_3 0 0 0 0 0
- 8728  5324  1737    40    40  -127   127            0 DAEMON_DUNGN_TERATHANKEEP_4 0 0 0 0 0
- 8729  5325  1737    40    40  -127   127            0 SSERPENTSMALL_DUNGN_TERATHANKEEP_4 0 0 0 0 0
- 8730  5326  1736    40    40  -127   127            0 GIANTSPIDERSMALL_DUNGN_TERATHANKEEP_4 0 0 0 0 0
- 8731  5315  1686    40    40  -127   127            0 DAEMON_DUNGN_TERATHANKEEP_5 0 0 0 0 0
- 8732  5315  1687    40    40  -127   127            0 SSERPENTSMALL_DUNGN_TERATHANKEEP_5 0 0 0 0 0
- 8733  5316  1688    40    40  -127   127            0 GIANTSPIDERSMALL_DUNGN_TERATHANKEEP_5 0 0 0 0 0
- 8734  5250  1675    40    40  -127   127            0 DAEMON_DUNGN_TERATHANKEEP_6 0 0 0 0 0
- 8735  5250  1674    40    40  -127   127            0 SSERPENTSMALL_DUNGN_TERATHANKEEP_6 0 0 0 0 0
- 8736  5251  1673    40    40  -127   127            0 GIANTSPIDERSMALL_DUNGN_TERATHANKEEP_6 0 0 0 0 0
- 8737  5156  1682    40    40  -127   127            0 DAEMON_DUNGN_TERATHANKEEP_7 0 0 0 0 0
- 8738  5156  1681    40    40  -127   127            0 SSERPENTSMALL_DUNGN_TERATHANKEEP_7 0 0 0 0 0
- 8739  5157  1680    40    40  -127   127            0 GIANTSPIDERSMALL_DUNGN_TERATHANKEEP_7 0 0 0 0 0
- 8740  5112  1604    40    40  -127   127            0 DAEMON_DUNGN_TERATHANKEEP_8 0 0 0 0 0
- 8741  5112  1603    40    40  -127   127            0 SSERPENTSMALL_DUNGN_TERATHANKEEP_8 0 0 0 0 0
- 8742  5114  1605    40    40  -127   127            0 GIANTSPIDERSMALL_DUNGN_TERATHANKEEP_8 0 0 0 0 0
- 8743  5140  1566    40    40  -127   127            0 DAEMON_DUNGN_TERATHANKEEP_9 0 0 0 0 0
- 8744  5143  1565    40    40  -127   127            0 SSERPENTSMALL_DUNGN_TERATHANKEEP_9 0 0 0 0 0
- 8745  5141  1564    40    40  -127   127            0 GIANTSPIDERSMALL_DUNGN_TERATHANKEEP_9 0 0 0 0 0
- 8746  5180  1545    40    40  -127   127            0 DAEMON_DUNGN_TERATHANKEEP_10 0 0 0 0 0
- 8747  5181  1546    40    40  -127   127            0 SSERPENTSMALL_DUNGN_TERATHANKEEP_10 0 0 0 0 0
- 8748  5180  1548    40    40  -127   127            0 GIANTSPIDERSMALL_DUNGN_TERATHANKEEP_10 0 0 0 0 0
- 8749  5890  1285   149   129  -127   127            0 DUNGN_TRINSICPASSAGE 26 0 0 0 0 Trinsic Passage
- 8750  5956  1367    40    40  -127   127            0 GIANTSPIDERSMALL_DUNGN_TRINSICPASSAGE 0 0 0 0 0
- 8751  5920  1336    40    40  -127   127            0 GIANTSPIDERSMALL_DUNGN_TRINSICPASSAGE_2 0 0 0 0 0
- 8752  5892  1306    40    40  -127   127            0 GIANTSPIDERSMALL_DUNGN_TRINSICPASSAGE_3 0 0 0 0 0
- 8753  5936  1290    40    40  -127   127            0 GIANTSPIDERSMALL_DUNGN_TRINSICPASSAGE_4 0 0 0 0 0
- 8754  5979  1307    40    40  -127   127            0 GIANTSPIDERSMALL_DUNGN_TRINSICPASSAGE_5 0 0 0 0 0
- 8755  5383  1287   242   218  -127   127            0 DUNGN_KHALDUN 26 0 0 0 0 Khaldun
- 8756  5559  1296    20    20  -127   127            0 GHOSTSMALL_DUNGN_KHALDUN 0 0 0 0 0
- 8757  5509  1271    60    60  -127   127            0 ZOMBIEMEDIUM_DUNGN_KHALDUN 0 0 0 0 0
- 8758  5505  1276    40    40  -127   127            0 GHOSTSMALL_DUNGN_KHALDUN_2 0 0 0 0 0
- 8759  5472  1274    40    40  -127   127            0 SKELETONSMALL_DUNGN_KHALDUN 0 0 0 0 0
- 8760  5472  1277    40    40  -127   127            0 ZOMBIESMALL_DUNGN_KHALDUN 0 0 0 0 0
- 8761  5438  1283    40    40  -127   127            0 KHALDUN_DUNGN_KHALDUN 0 0 0 0 0
- 8762  5395  1292    40    40  -127   127            0 GHOSTSMALL_DUNGN_KHALDUN_3 0 0 0 0 0
- 8763  5379  1278    40    40  -127   127            0 SKELETONSMALL_DUNGN_KHALDUN_2 0 0 0 0 0
- 8764  5378  1279    40    40  -127   127            0 KHALDUN_DUNGN_KHALDUN_2 0 0 0 0 0
- 8765  5392  1310    40    40  -127   127            0 SKELETONSMALL_DUNGN_KHALDUN_3 0 0 0 0 0
- 8766  5395  1311    40    40  -127   127            0 ZOMBIESMALL_DUNGN_KHALDUN_2 0 0 0 0 0
- 8767  5383  1312    40    40  -127   127            0 SKELETONSMALL_DUNGN_KHALDUN 0 0 0 0 0
- 8768  5400  1335    40    40  -127   127            0 KHALDUN_DUNGN_KHALDUN_3 0 0 0 0 0
- 8769  5402  1335    40    40  -127   127            0 ZOMBIESMALL_DUNGN_KHALDUN_3 0 0 0 0 0
- 8770  5425  1336    20    20  -127   127            0 GHOSTSMALL_DUNGN_KHALDUN_4 0 0 0 0 0
- 8771  5376  1351    40    40  -127   127            0 ZOMBIESMALL_DUNGN_KHALDUN_4 0 0 0 0 0
- 8772  5375  1350    40    40  -127   127            0 ZOMBIESMALL_DUNGN_KHALDUN_9 0 0 0 0 0
- 8773  5373  1349    40    40  -127   127            0 GHOSTSMALL_DUNGN_KHALDUN_5 0 0 0 0 0
- 8774  5380  1377    40    40  -127   127            0 ZOMBIESMALL_DUNGN_KHALDUN_10 0 0 0 0 0
- 8775  5424  1390    40    40  -127   127            0 SKELETONSMALL_DUNGN_KHALDUN_4 0 0 0 0 0
- 8776  5422  1391    40    40  -127   127            0 ZOMBIESMALL_DUNGN_KHALDUN_5 0 0 0 0 0
- 8777  5380  1408    40    40  -127   127            0 MAGE_DUNGN_KHALDUN 0 0 0 0 0
- 8778  5382  1410    40    40  -127   127            0 ZOMBIESMALL_DUNGN_KHALDUN_6 0 0 0 0 0
- 8779  5384  1411    40    40  -127   127            0 GHOSTSMALL_DUNGN_KHALDUN_6 0 0 0 0 0
- 8780  5405  1431    40    40  -127   127            0 ZOMBIESMALL_DUNGN_KHALDUN_7 0 0 0 0 0
- 8781  5398  1430    40    40  -127   127            0 SKELETONSMALL_DUNGN_KHALDUN_2 0 0 0 0 0
- 8782  5405  1464    40    40  -127   127            0 SKELETONSMALL_DUNGN_KHALDUN_5 0 0 0 0 0
- 8783  5400  1455    60    60  -127   127            0 GHOSTSMALL_DUNGN_KHALDUN_7 0 0 0 0 0
- 8784  5413  1465    40    40  -127   127            0 SKELETONSMALL_DUNGN_KHALDUN_3 0 0 0 0 0
- 8785  5438  1425    40    40  -127   127            0 LICHSMALL_DUNGN_KHALDUN 0 0 0 0 0
- 8786  5429  1419    60    60  -127   127            0 MAGE_DUNGN_KHALDUN_2 0 0 0 0 0
- 8787  5440  1431    40    40  -127   127            0 ZOMBIESMALL_DUNGN_KHALDUN_11 0 0 0 0 0
- 8788  5445  1429    40    40  -127   127            0 SKELETONSMALL_DUNGN_KHALDUN_6 0 0 0 0 0
- 8789  5453  1416    60    60  -127   127            0 GHOSTSMALL_DUNGN_KHALDUN_8 0 0 0 0 0
- 8790  5465  1414    40    40  -127   127            0 ZOMBIESMALL_DUNGN_KHALDUN_8 0 0 0 0 0
- 8791  5469  1381    60    60  -127   127            0 GHOSTSMALL_DUNGN_KHALDUN_9 0 0 0 0 0
- 8792  5445  1372    60    60  -127   127            0 GHOSTSMALL_DUNGN_KHALDUN_10 0 0 0 0 0
- 8793  5471  1350    40    40  -127   127            0 SKELETONSMALL_DUNGN_KHALDUN_4 0 0 0 0 0
- 8794  5470  1347    40    40  -127   127            0 GHOSTSMALL_DUNGN_KHALDUN_11 0 0 0 0 0
- 8795  5511  1387    20    20  -127   127            0 GHOSTSMALL_DUNGN_KHALDUN_12 0 0 0 0 0
- 8796  5585  1323    40    40  -127   127            0 KHALDUN_DUNGN_KHALDUN_4 0 0 0 0 0
- 8797  5516  1331    40    40  -127   127            0 MAGE_DUNGN_KHALDUN_3 0 0 0 0 0
- 8798  5516  1325    40    40  -127   127            0 ZOMBIESMALL_DUNGN_KHALDUN_12 0 0 0 0 0
- 8799  5519  1294    60    60  -127   127            0 ZOMBIESMALL_DUNGN_KHALDUN_13 0 0 0 0 0
- 8800  5519  1302    60    60  -127   127            0 LICHSMALL_DUNGN_KHALDUN_2 0 0 0 0 0
- 8801  5485  1296    40    40  -127   127            0 ZOMBIESMALL_DUNGN_KHALDUN_14 0 0 0 0 0
- 8802  5442  1356    20    20  -127   127            0 KHALDUN_DUNGN_KHALDUN_5 0 0 0 0 0
- 8810  5628  3109   200   200  -127   127            0 DRAKE_LOSTLANDS 0 0 0 0 0
- 8811  5307  2501   300   300  -127   127            0 GARGOYLELARGE_LOSTLANDS 0 0 0 0 0
- 8812  5307  2501   300   300  -127   127            0 GARGOYLELARGE_LOSTLANDS_2 0 0 0 0 0
- 8813  5420  2790   200   200  -127   127            0 GARGOYLELARGE_LOSTLANDS_3 0 0 0 0 0
- 8814  5420  2790   200   200  -127   127            0 GARGOYLELARGE_LOSTLANDS_4 0 0 0 0 0
- 8815  5565  2870    30    30  -127   127            0 GAZERMEDIUM_LOSTLANDS 0 0 0 0 0
- 8816  5517  2585    80    80  -127   127            0 CORPSERMEDIUM_LOSTLANDS 0 0 0 0 0
- 8817  5369  2505    50    50  -127   127            0 OGREMEDIUM_LOSTLANDS 0 0 0 0 0
- 8818  5631  2414   160   160  -127   127            0 GARGOYLEMEDIUM_LOSTLANDS_5 0 0 0 0 0
- 8819  5631  2414   160   160  -127   127            0 ETTINSMALL_LOSTLANDS 0 0 0 0 0
- 8820  5735  2607    60    60  -127   127            0 SSERPENTSMALL_LOSTLANDS 0 0 0 0 0
- 8821  5667  2596    60    60  -127   127            0 DRAKE_LOSTLANDS_2 0 0 0 0 0
- 8822  5659  2697   140   140  -127   127            0 GARGOYLELARGE_LOSTLANDS_6 0 0 0 0 0
- 8823  5659  2697   140   140  -127   127            0 GARGOYLELARGE_LOSTLANDS_7 0 0 0 0 0
- 8824  5649  2874   150   150  -127   127            0 GWOLFMEDIUM_LOSTLANDS 0 0 0 0 0
- 8825  5649  2874   150   150  -127   127            0 SSERPENTLARGE_LOSTLANDS_2 0 0 0 0 0
- 8826  5838  2445    50    50  -127   127            0 DRAKE_LOSTLANDS_3 0 0 0 0 0
- 8827  5426  2286   150   150  -127   127            0 SSERPENTSMALL_LOSTLANDS_3 0 0 0 0 0
- 8828  5426  2286   150   150  -127   127            0 PBEARSMALL_LOSTLANDS 0 0 0 0 0
- 8829  5276  2284   150   150  -127   127            0 SSERPENTSMALL_LOSTLANDS_4 0 0 0 0 0
- 8830  5276  2284   150   150  -127   127            0 PBEARSMALL_LOSTLANDS_2 0 0 0 0 0
- 8831  5123  2318   100   100  -127   127            0 SSERPENTSMALL_LOSTLANDS_5 0 0 0 0 0
- 8832  5123  2318   100   100  -127   127            0 PBEARSMALL_LOSTLANDS_3 0 0 0 0 0
- 8833  6031  2319   113   120  -127   127            0 SSERPENTMEDIUM_LOSTLANDS_6 0 0 0 0 0
- 8834  5892  2295   150   150  -127   127            0 SSERPENTMEDIUM_LOSTLANDS_7 0 0 0 0 0
- 8835  5892  2295   150   150  -127   127            0 PBEARSMALL_LOSTLANDS_4 0 0 0 0 0
- 8836  5742  2292   150   150  -127   127            0 SSERPENTMEDIUM_LOSTLANDS_8 0 0 0 0 0
- 8837  5742  2292   150   150  -127   127            0 PBEARSMALL_LOSTLANDS_5 0 0 0 0 0
- 8838  5626  3323   260   260  -127   127            0 GORILLALARGE_LOSTLANDS 0 0 0 0 0
- 8839  5895  3351   180   180  -127   127            0 ALLIGATORSMALL_LOSTLANDS 0 0 0 0 0
- 8840  5895  3351   180   180  -127   127            0 ALLIGATORSMALL_LOSTLANDS_2 0 0 0 0 0
- 8841  5195  3639    50    50  -127   127            0 SKELETONSMALL_LOSTLANDS 0 0 0 0 0
- 8842  5197  3604    30    30  -127   127            0 BRIGANDMEDIUM_LOSTLANDS 0 0 0 0 0
- 8843  5297  3399   100   100  -127   127            0 HORSESMALL_LOSTLANDS 0 0 0 0 0
- 8844  5193  3498   100   100  -127   127            0 HORSESMALL_LOSTLANDS_2 0 0 0 0 0
- 8845  5200  3399   100   100  -127   127            0 HORSESMALL_LOSTLANDS_3 0 0 0 0 0
- 8846  5299  3497   100   100  -127   127            0 HORSESMALL_LOSTLANDS_4 0 0 0 0 0
- 8847  5151  3112   100   100  -127   127            0 BROWNBEARMEDIUM_LOSTLANDS 0 0 0 0 0
- 8848  5151  3112   100   100  -127   127            0 DOESMALL_LOSTLANDS 0 0 0 0 0
- 8849  5201  3251   100   100  -127   127            0 BROWNBEARMEDIUM_LOSTLANDS_2 0 0 0 0 0
- 8850  5201  3251   100   100  -127   127            0 DOESMALL_LOSTLANDS_2 0 0 0 0 0
- 8851  5200  3351   100   100  -127   127            0 BROWNBEARMEDIUM_LOSTLANDS_3 0 0 0 0 0
- 8852  5200  3351   100   100  -127   127            0 DOESMALL_LOSTLANDS_3 0 0 0 0 0
- 8853  5301  3351   100   100  -127   127            0 BROWNBEARMEDIUM_LOSTLANDS_4 0 0 0 0 0
- 8854  5301  3351   100   100  -127   127            0 DOESMALL_LOSTLANDS_4 0 0 0 0 0
- 8855  5968  3623   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS 0 0 0 0 0
- 8856  5968  3623   100   100  -127   127            0 DOESMALL_LOSTLANDS_5 0 0 0 0 0
- 8857  5968  3623   100   100  -127   127            0 GAZERSMALL_LOSTLANDS 0 0 0 0 0
- 8858  5968  3623   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS 0 0 0 0 0
- 8859  5972  3723   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_2 0 0 0 0 0
- 8860  5972  3723   100   100  -127   127            0 DOESMALL_LOSTLANDS_6 0 0 0 0 0
- 8861  5972  3723   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_2 0 0 0 0 0
- 8862  5972  3723   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_2 0 0 0 0 0
- 8863  5972  2824   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_3 0 0 0 0 0
- 8864  5972  2824   100   100  -127   127            0 DOESMALL_LOSTLANDS_7 0 0 0 0 0
- 8865  5972  2824   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_3 0 0 0 0 0
- 8866  5972  2824   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_3 0 0 0 0 0
- 8867  5972  3921   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_4 0 0 0 0 0
- 8868  5972  3921   100   100  -127   127            0 DOESMALL_LOSTLANDS_8 0 0 0 0 0
- 8869  5972  3921   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_4 0 0 0 0 0
- 8870  5972  3921   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_4 0 0 0 0 0
- 8871  5870  3625   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_5 0 0 0 0 0
- 8872  5870  3625   100   100  -127   127            0 DOESMALL_LOSTLANDS_9 0 0 0 0 0
- 8873  5870  3625   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_5 0 0 0 0 0
- 8874  5870  3625   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_5 0 0 0 0 0
- 8875  5871  3727   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_6 0 0 0 0 0
- 8876  5871  3727   100   100  -127   127            0 DOESMALL_LOSTLANDS_10 0 0 0 0 0
- 8877  5871  3727   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_6 0 0 0 0 0
- 8878  5871  3727   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_6 0 0 0 0 0
- 8879  5869  3825   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_7 0 0 0 0 0
- 8880  5869  3825   100   100  -127   127            0 DOESMALL_LOSTLANDS_11 0 0 0 0 0
- 8881  5869  3825   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_7 0 0 0 0 0
- 8882  5869  3825   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_7 0 0 0 0 0
- 8883  5868  3925   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_8 0 0 0 0 0
- 8884  5868  3925   100   100  -127   127            0 DOESMALL_LOSTLANDS_12 0 0 0 0 0
- 8885  5868  3925   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_8 0 0 0 0 0
- 8886  5868  3925   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_8 0 0 0 0 0
- 8887  5770  3625   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_9 0 0 0 0 0
- 8888  5770  3625   100   100  -127   127            0 DOESMALL_LOSTLANDS_13 0 0 0 0 0
- 8889  5770  3625   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_9 0 0 0 0 0
- 8890  5770  3625   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_9 0 0 0 0 0
- 8891  5770  3725   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_10 0 0 0 0 0
- 8892  5770  3725   100   100  -127   127            0 DOESMALL_LOSTLANDS_14 0 0 0 0 0
- 8893  5770  3725   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_10 0 0 0 0 0
- 8894  5770  3725   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_10 0 0 0 0 0
- 8895  5768  3826   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_11 0 0 0 0 0
- 8896  5768  3826   100   100  -127   127            0 DOESMALL_LOSTLANDS_15 0 0 0 0 0
- 8897  5768  3826   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_11 0 0 0 0 0
- 8898  5768  3826   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_11 0 0 0 0 0
- 8899  5769  3924   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_12 0 0 0 0 0
- 8900  5769  3924   100   100  -127   127            0 DOESMALL_LOSTLANDS_16 0 0 0 0 0
- 8901  5769  3924   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_12 0 0 0 0 0
- 8902  5769  3924   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_12 0 0 0 0 0
- 8903  5671  3625   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_13 0 0 0 0 0
- 8904  5671  3625   100   100  -127   127            0 DOESMALL_LOSTLANDS_17 0 0 0 0 0
- 8905  5671  3625   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_13 0 0 0 0 0
- 8906  5671  3625   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_13 0 0 0 0 0
- 8907  5672  3726   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_14 0 0 0 0 0
- 8908  5672  3726   100   100  -127   127            0 DOESMALL_LOSTLANDS_18 0 0 0 0 0
- 8909  5672  3726   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_14 0 0 0 0 0
- 8910  5672  3726   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_14 0 0 0 0 0
- 8911  5671  3826   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_15 0 0 0 0 0
- 8912  5671  3826   100   100  -127   127            0 DOESMALL_LOSTLANDS_19 0 0 0 0 0
- 8913  5671  3826   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_15 0 0 0 0 0
- 8914  5671  3826   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_15 0 0 0 0 0
- 8915  5671  3925   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_16 0 0 0 0 0
- 8916  5671  3925   100   100  -127   127            0 DOESMALL_LOSTLANDS_20 0 0 0 0 0
- 8917  5671  3925   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_16 0 0 0 0 0
- 8918  5671  3925   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_16 0 0 0 0 0
- 8919  5573  3626   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_17 0 0 0 0 0
- 8920  5573  3626   100   100  -127   127            0 DOESMALL_LOSTLANDS_21 0 0 0 0 0
- 8921  5573  3626   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_17 0 0 0 0 0
- 8922  5573  3626   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_17 0 0 0 0 0
- 8923  5571  3725   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_18 0 0 0 0 0
- 8924  5571  3725   100   100  -127   127            0 DOESMALL_LOSTLANDS_22 0 0 0 0 0
- 8925  5571  3725   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_18 0 0 0 0 0
- 8926  5571  3725   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_18 0 0 0 0 0
- 8927  5573  3825   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_19 0 0 0 0 0
- 8928  5573  3825   100   100  -127   127            0 DOESMALL_LOSTLANDS_23 0 0 0 0 0
- 8929  5573  3825   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_19 0 0 0 0 0
- 8930  5573  3825   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_19 0 0 0 0 0
- 8931  5574  3925   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_20 0 0 0 0 0
- 8932  5574  3925   100   100  -127   127            0 DOESMALL_LOSTLANDS_24 0 0 0 0 0
- 8933  5574  3925   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_20 0 0 0 0 0
- 8934  5574  3925   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_20 0 0 0 0 0
- 8935  5473  3626   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_21 0 0 0 0 0
- 8936  5473  3626   100   100  -127   127            0 DOESMALL_LOSTLANDS_25 0 0 0 0 0
- 8937  5473  3626   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_21 0 0 0 0 0
- 8938  5473  3626   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_21 0 0 0 0 0
- 8939  5471  3725   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_22 0 0 0 0 0
- 8940  5471  3725   100   100  -127   127            0 DOESMALL_LOSTLANDS_26 0 0 0 0 0
- 8941  5471  3725   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_22 0 0 0 0 0
- 8942  5471  3725   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_22 0 0 0 0 0
- 8943  5471  3825   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_23 0 0 0 0 0
- 8944  5471  3825   100   100  -127   127            0 DOESMALL_LOSTLANDS_27 0 0 0 0 0
- 8945  5471  3825   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_23 0 0 0 0 0
- 8946  5471  3825   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_23 0 0 0 0 0
- 8947  5428  3537   100   100  -127   127            0 BROWNBEARSMALL_LOSTLANDS_24 0 0 0 0 0
- 8948  5428  3537   100   100  -127   127            0 DOESMALL_LOSTLANDS_28 0 0 0 0 0
- 8949  5428  3537   100   100  -127   127            0 GAZERSMALL_LOSTLANDS_24 0 0 0 0 0
- 8950  5428  3537   100   100  -127   127            0 GIANTRATSMALL_LOSTLANDS_24 0 0 0 0 0
- 8951  5495  3914    50    50  -127   127            0 LLAMASMALL_LOSTLANDS 0 0 0 0 0
- 8952  5749  3916    70    70  -127   127            0 LLAMAMEDIUM_LOSTLANDS_2 0 0 0 0 0
- 8953  5689  2510   150   150  -127   127            0 GARGOYLESMALL_LOSTLANDS_8 0 0 0 0 0
- 8954  5763  2576   150   150  -127   127            0 GARGOYLESMALL_LOSTLANDS_9 0 0 0 0 0
- 8955  5168  3736   100   100  -127   127            0 RABBITMEDIUM_LOSTLANDS 0 0 0 0 0
- 8956  5168  3736   100   100  -127   127            0 MONGBATSMALL_LOSTLANDS 0 0 0 0 0
- 8957  5321  3770   100   100  -127   127            0 RABBITMEDIUM_LOSTLANDS_2 0 0 0 0 0
- 8958  5321  3770   100   100  -127   127            0 MONGBATSMALL_LOSTLANDS_2 0 0 0 0 0
- 8959  5318  3837   100   100  -127   127            0 RABBITMEDIUM_LOSTLANDS_3 0 0 0 0 0
- 8960  5318  3837   100   100  -127   127            0 MONGBATSMALL_LOSTLANDS_3 0 0 0 0 0
- 8961  5317  3953   100   100  -127   127            0 RABBITMEDIUM_LOSTLANDS_4 0 0 0 0 0
- 8962  5317  3953   100   100  -127   127            0 MONGBATSMALL_LOSTLANDS_4 0 0 0 0 0
- 8963  5416  3955   100   100  -127   127            0 RABBITMEDIUM_LOSTLANDS_5 0 0 0 0 0
- 8964  5416  3955   100   100  -127   127            0 MONGBATSMALL_LOSTLANDS_5 0 0 0 0 0
- 8965  5149  3840    90    90  -127   127            0 BULLLARGE_LOSTLANDS 0 0 0 0 0
- 8966  5180  3875    40    40  -127   127            0 BULLSMALL_LOSTLANDS 0 0 0 0 0
- 8967  5149  3903    20    20  -127   127            0 WSHEEPSMALL_LOSTLANDS 0 0 0 0 0
- 8968  5490  3073   160   160  -127   127            0 GORILLAMEDIUM_LOSTLANDS 0 0 0 0 0
- 8969  5378  3230   124   124  -127   127            0 GORILLAMEDIUM_LOSTLANDS_2 0 0 0 0 0
- 8970  5504  3230   124   124  -127   127            0 GORILLAMEDIUM_LOSTLANDS_3 0 0 0 0 0
- 8971  5429  3111    50    50  -127   127            0 GIANTSPIDERSMALL_LOSTLANDS 0 0 0 0 0
- 8972  5465  3046    50    50  -127   127            0 SSERPENTSMALL_LOSTLANDS_9 0 0 0 0 0
- 8973  5442  3053    50    50  -127   127            0 SSERPENTSMALL_LOSTLANDS_10 0 0 0 0 0
- 8974  5421  3049    50    50  -127   127            0 SSERPENTSMALL_LOSTLANDS_11 0 0 0 0 0
- 8975  5407  3054    50    50  -127   127            0 SSERPENTSMALL_LOSTLANDS_12 0 0 0 0 0
- 8976  5383  3052    50    50  -127   127            0 SSERPENTSMALL_LOSTLANDS_13 0 0 0 0 0
- 8977  5127  1287   242   225  -127   127            0 DUNGN_ORCCAVES 26 0 0 0 0 Orc Caves
  8980  5794   566    50    50  -127   127            0 ORCSMALL_DUNGN_WRONG 0 0 0 0 0
  8981  5778   558    60    60  -127   127            0 ORCSMALL_DUNGN_WRONG_2 0 0 0 0 0
  8982  5762   514    60    60  -127   127            0 EARTHELEMENTALMEDIUM_DUNGN_WRONG 0 0 0 0 0
@@ -1569,36 +1234,3 @@ version 64207
  8986  5629   533    60    60  -127   127            0 BRIGANDMEDIUM_DUNGN_WRONG 0 0 0 0 0
  8987  5694   531    60    60  -127   127            0 EARTHELEMENTALSMALL_DUNGN_WRONG_2 0 0 0 0 0
  8988  5660   504    60    60  -127   127            0 ORCSMALL_DUNGN_WRONG_6 0 0 0 0 0
- 8990  5150  3950   160   120  -127   127            0 JUSTICE_DELUCIA 0 0 0 0 0 Delucia
- 8991  5150  3950   160   120  -127   127            0 CITY_DELUCIA 28 0 0 0 0 Delucia
- 8992  5640  3100   210   210  -127   127            0 JUSTICE_PAPUA 0 0 0 0 0 Papua
- 8993  5640  3100   210   210  -127   127            0 CITY_PAPUA 28 0 0 0 0 Papua
- 8994  5175  3920   160   160  -127   127            0 EAGLESMALL_DELUCIA 0 0 0 0 0
- 8995  5252  4002    28    20  -127   127            0 CHICKENSMALL_DELUCIA 0 0 0 0 0
- 8996  5168  3971   136   102  -127   127            0 CITY_DELUCIA 28 0 0 0 0
- 8997  5213  4007    11    11  -127   127            0 PROVISIONER_DELUCIA 0 0 0 0 0
- 8998  5270  3971     7    17  -127   127            0 BANK_DELUCIA 0 0 0 0 0
- 8999  5223  4002     9     6  -127   127            0 BLACKSMITH_DELUCIA 0 0 0 0 0
- 9000  5195  4054     9    19  -127   127            0 INN_DELUCIA 0 0 0 0 0
- 9001  5291  4001    13    15  -127   127            0 STABLES_DELUCIA 0 0 0 0 0
- 9002  5230  4014     8    14  -127   127            0 CLOTHIER_DELUCIA 0 0 0 0 0
- 9003  5186  3984    10    10  -127   127            0 HEALER_DELUCIA 0 0 0 0 0
- 9004  5281  3976    10    10  -127   127            0 MAGIC_DELUCIA 0 0 0 0 0
- 9005  5626  3111   200   200  -127   127            0 EAGLESMALL_PAPUA 0 0 0 0 0
- 9006  5680  3143    10    10  -127   127            0 CITY_PAPUA 28 0 0 0 0
- 9007  5664  3126    10    10  -127   127            0 BANK_PAPUA 0 0 0 0 0
- 9008  5726  3187    10    10  -127   127            0 MAGEGUILD_PAPUA 0 0 0 0 0
- 9009  5721  3238    10    10  -127   127            0 TINKERGUILD_PAPUA 0 0 0 0 0
- 9010  5657  3145    10    10  -127   127            0 JEWELER_PAPUA 0 0 0 0 0
- 9011  5666  3282    10    10  -127   127            0 STABLES_PAPUA 0 0 0 0 0
- 9012  5693  3277    10    10  -127   127            0 BUTCHER_PAPUA 0 0 0 0 0
- 9013  5800  3295    10    10  -127   127            0 WEAPONRY_PAPUA 0 0 0 0 0
- 9014  5709  3197    10    10  -127   127            0 CLOTHIER_PAPUA 0 0 0 0 0
- 9015  5800  3265    10    10  -127   127            0 MAPMAKER_PAPUA 0 0 0 0 0
- 9016  5747  3267    10    10  -127   127            0 CLOTHIER_PAPUA_2 0 0 0 0 0
- 9017  5834  3251    10    10  -127   127            0 FISHERMANSMALL_PAPUA 0 0 0 0 0
- 9018  5741  3195    10    10  -127   127            0 BAKER_PAPUA 0 0 0 0 0
- 9019  5770  3156    10    10  -127   127            0 INN_PAPUA 0 0 0 0 0
- 9020  5732  3217    10    10  -127   127            0 HEALER_PAPUA 0 0 0 0 0
- 9021  5686  3204    10    10  -127   127            0 ARCHITECT_PAPUA 0 0 0 0 0
- 9022  5731  3258    10    10  -127   127            0 COBBLER_PAPUA 0 0 0 0 0

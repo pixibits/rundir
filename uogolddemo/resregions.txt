@@ -13,6 +13,4 @@ Region Rect: 3848 0 5119 4095
 Region Name: Dungeons
 Region Rect: 5120 0 6143 2047
 Region Name: GreenAcres
-Region Rect: 5120 2048 6143 2303
-Region Name: LostLands
-Region Rect: 5120 2304 6143 4095
+Region Rect: 5120 2048 6143 4095
