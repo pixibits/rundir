@@ -10,6 +10,10 @@ trigger targetobj {
 	if (usedon == NULL()) {
 		return(0x00);
 	}
+	if (!canSeeObj(user, usedon)) {
+		systemMessage(user, "You can't see that.");
+		return(0x00);
+	}
 	if (isEquipped(usedon)) {
 		systemMessage(user, "Can't Dye clothing that is being worn.");
 		return(0x00);
