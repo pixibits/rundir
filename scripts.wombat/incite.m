@@ -60,7 +60,11 @@ trigger targetobj {
 	}
 	loc Q4VS = getLocation(user);
 	loc there = getLocation(usedon);
-	if (getDistanceInTiles(Q4VS, there) > 0x10) {
+	int dz = getZ(Q4VS) - getZ(there);
+	if (dz < 0x00) {
+		dz = 0x00 - dz;
+	}
+	if ((getDistanceInTiles(Q4VS, there) > 0x10) || (dz > 0x10)) {
 		return(0x00);
 	}
 	if (Q5VJ == 0x01) {
