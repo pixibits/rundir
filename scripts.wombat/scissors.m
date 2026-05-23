@@ -31,6 +31,10 @@ trigger targetobj {
 	if (usedon == NULL()) {
 		return(0x00);
 	}
+	if (!canSeeObj(user, usedon)) {
+		systemMessage(user, "You can't see that.");
+		return(0x00);
+	}
 	int Q66P = getObjType(usedon);
 	loc location = getLocation(user);
 	obj Q47L;
