@@ -9015,3 +9015,7 @@ petAllCmd
 "Britannia_Laborer"
 "[none]"
 dz
+"like one of the fastest creatures you have ever seen"
+"supernaturally agile"
+"like one of the strongest creatures you have ever seen"
+"supernaturally strong"

@@ -83,10 +83,10 @@ trigger targetobj {
 		Q4I0 = " moves like quicksilver";
 	}
 	if (Q4HY == 0x09) {
-		Q4I0 = "like one of the fastest people you have ever seen";
+		Q4I0 = "like one of the fastest creatures you have ever seen";
 	}
 	if (Q4HY > 0x09) {
-		Q4I0 = "superhumanly agile";
+		Q4I0 = "supernaturally agile";
 	}
 	if (Q5WF == 0x01) {
 		Q5XC = "rather feeble";
@@ -113,10 +113,10 @@ trigger targetobj {
 		Q5XC = "strong as an ox";
 	}
 	if (Q5WF == 0x09) {
-		Q5XC = "like one of the strongest people you have ever seen";
+		Q5XC = "like one of the strongest creatures you have ever seen";
 	}
 	if (Q5WF > 0x09) {
-		Q5XC = "superhumanly strong";
+		Q5XC = "supernaturally strong";
 	}
 	Q496 = getHeShe(usedon);
 	if (Q4HY != 0x08) {
