@@ -70,8 +70,8 @@ function void Q5VP() {
 trigger callback(0x5A) {
 	Q4R3++;
 	if (Q4R3 < 0x03) {
-		actionBark(Q4FQ, 0x22, "*You continue grinding.*", "*" + getName(Q4FQ) + " continues grinding.*");
-		sfx(getLocation(Q4FQ), 0x0242, 0x00);
+		systemMessage(Q4FQ, "*You continue grinding.*");
+		sfx(getLocation(Q4FQ), 0x42, 0x00);
 		shortCallback(this, 0x0B, 0x5A);
 		return(0x00);
 	}
