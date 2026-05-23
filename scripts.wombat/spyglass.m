@@ -5,6 +5,6 @@ trigger use {
 	int Q4OZ = getFeluccaPhase();
 	string Q5X4 = getMoonPhaseStr(Q645);
 	string Q5WO = getMoonPhaseStr(Q4OZ);
-	barkTo(user, user, Q5X4 + " " + Q5WO);
+	superBark(user, Q5X4 + " " + Q5WO, 0xFFFFFFFF, 0x08, 0x00);
 	return(0x00);
 }
