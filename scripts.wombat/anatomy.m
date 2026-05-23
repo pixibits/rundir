@@ -35,6 +35,10 @@ trigger targetobj {
 		barkTo(usedon, user, "I am too far away to do that.");
 		return(0x00);
 	}
+	if (!canSeeObj(user, usedon)) {
+		systemMessage(user, "You can't see that.");
+		return(0x00);
+	}
 	int skill = getSkillLevel(user, 0x01);
 	int Q5WF = getStrength(usedon);
 	int Q4HY = getDexterity(usedon);
