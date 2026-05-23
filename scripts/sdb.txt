@@ -9013,3 +9013,4 @@ petAllCmd
 "Britannia_Gypsy"
 "Britannia_Artist"
 "Britannia_Laborer"
+"[none]"
