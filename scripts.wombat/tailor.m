@@ -40,6 +40,13 @@ trigger targetobj {
 		}
 		return(0x00);
 	}
+	if (!canSeeObj(user, usedon)) {
+		systemMessage(user, "You can't see that.");
+		if (hasObjVar(this, "inUse")) {
+			removeObjVar(this, "inUse");
+		}
+		return(0x00);
+	}
 	Q62D = user;
 	Q5UC = usedon;
 	int Q4Q1;
