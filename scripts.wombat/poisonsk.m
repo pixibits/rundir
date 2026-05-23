@@ -54,7 +54,6 @@ member int Q5H9;
 	int drink = 0x00;
 	int Q45S = 0x00;
 	int Q5JH = 0x00;
-	obj Q4NN;
 	if (hasObjVar(usedon, "I_am_food")) {
 		food = getObjVar(usedon, "I_am_food");
 		if (food == 0x01) {
@@ -84,7 +83,6 @@ member int Q5H9;
 		}
 		if (!testSkill(user, 0x1E)) {
 			systemMessage(user, "You fail to apply a sufficient dose of poison on " + getWeaponName(usedon) + ".");
-			Q4NN = createGlobalObjectAt(0x0F0E, there);
 			destroyOne(Q5JG);
 			return(0x00);
 		}
@@ -106,7 +104,6 @@ member int Q5H9;
 		attachScript(usedon, "poisweap");
 		setObjVar(usedon, "poison_chance", getSkillLevel(this, 0x1E) / 0x04);
 		setObjVar(usedon, "poison_left", (0x14 - (Q5H9 * 0x02)));
-		Q4NN = createGlobalObjectAt(0x0F0E, there);
 		destroyOne(Q5JG);
 		return(0x00);
 	} else {
@@ -132,7 +129,6 @@ member int Q5H9;
 		copyControllerInfo(usedon, user);
 		attachScript(usedon, "poisfood");
 		setObjVar(usedon, "poison_chance", getSkillLevel(this, 0x1E) / 0x04);
-		Q4NN = createGlobalObjectAt(0x0F0E, there);
 		destroyOne(Q5JG);
 		return(0x00);
 	}
