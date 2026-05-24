@@ -171,7 +171,7 @@ trigger 0x64 enterrange(0x01) {
 	}
 	return(0x01)}
 
-trigger speech("*") {
+trigger speech("*destination*") {
 	if (hasObjVar(this, "myEscort")) {
 		obj Q4O5 = getObjVar(this, "myEscort");
 		if (speaker == Q4O5) {
