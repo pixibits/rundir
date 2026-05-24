@@ -12,8 +12,8 @@ version 64207
   130  1244   852    20    35    16    35            0 GUARD_5 0 0 0 0 0 a guard post
   131  1254   887    13    11  -127   127            0 GUARD_5 0 0 0 0 0 a guard post
   145   842   451   561   242  -127   127            0 DARKERFOREST_1 27 0 0 0 0 forest east of Yew
-  155   943   696    25    24     0    39            0 CEMETERYHARD_RUINS_1 0 0 0 0 0 Yew fort of the damned
-  156   959   687     9     9     0    39            0 CEMETERYHARD_RUINS_1 0 0 0 0 0 Yew fort of the damned
+  155   943   696    25    24     0    19            0 CEMETERYHARD_RUINS_1 0 0 0 0 0 Yew fort of the damned
+  156   959   687     9     9     0    19            0 CEMETERYHARD_RUINS_1 0 0 0 0 0 Yew fort of the damned
   157  1011   692     9    19     0    19            0 CEMETERYHARD_RUINS_1 0 0 0 0 0 Yew fort of the damned
   158   959   751    17    13     0    19            0 CEMETERYHARD_RUINS_1 0 0 0 0 0 Yew fort of the damned
   159  1005   818    16    13     0    19            0 CEMETERYHARD_RUINS_1 0 0 0 0 0 Yew fort of the damned
@@ -29,9 +29,9 @@ version 64207
   272   441   746   216   135     0    39            0 JUSTICE_YEW 0 0 0 0 0 Yew
   273   258   881   399   380     0    39            0 JUSTICE_YEW 0 0 0 0 0 Yew
   274   657   922    42   307     0    39            0 JUSTICE_YEW 0 0 0 0 0 Yew
-  275   657   806    17    28     0    39            0 JUSTICE_YEW 0 0 0 0 0 Yew
+  275   657   806    17    28     0    19            0 JUSTICE_YEW 0 0 0 0 0 Yew
   276   718   874    38    22     0    39            0 JUSTICE_YEW 0 0 0 0 0 Yew
-  290   624   816    24    40     0    39            0 ABBEY_YEW 0 0 0 0 0 Empath Abbey in Yew
+  290   624   816    24    40     0    19            0 ABBEY_YEW 0 0 0 0 0 Empath Abbey in Yew
   300   600   808    24    24     0    19            0 INN_YEW 0 0 0 0 0 Empath Abbey in Yew
   310   648   808    24    24     0    19            0 BANK_YEW 0 0 0 0 0 Empath Abbey in Yew
   320   639   922    53    36  -127   127            0 FARM_YEW_1 0 0 0 0 0 A Farm in Yew
@@ -48,18 +48,18 @@ version 64207
   430   528  1008    17     9  -127   127            0 BUTCHER_YEW 0 0 0 0 0 Yew's Finest Cuts
   440   560  1008    17     9  -127   127            0 WOODWORKER_YEW 0 0 0 0 0 Bloody Thumb Woodworks in Yew
   450   608   976    17     9  -127   127            0 NONE_YEW_1 0 0 0 0 0 Yew Counselor's Guild
-  460   608   872    17    25  -127   127            0 NONE_YEW 0 0 0 0 0 Ye Olde Winery
-  470   544   808    24    24  -127   127            0 MILL_YEW 0 0 0 0 0 Yew Mill
-  480   544   808     8    12  -127   127            0 TOWNRATSMALL_YEW 0 0 0 0 0
-  490   256   759    60    24  -127   127            0 JAIL_YEW 0 0 0 0 0 Yew Prison
+  460   608   872    17    25  -127    19            0 NONE_YEW 0 0 0 0 0 Ye Olde Winery
+  470   544   808    24    24  -127    19            0 MILL_YEW 0 0 0 0 0 Yew Mill
+  480   544   808     8    12  -127    19            0 TOWNRATSMALL_YEW 0 0 0 0 0
+  490   256   759    60    24  -127    39            0 JAIL_YEW 0 0 0 0 0 Yew Prison
   491   331   800    15    38  -127   127            0 JAIL_YEW 0 0 0 0 0 Yew Prison
-  492   307   784    35    16  -127   127            0 JAIL_YEW 0 0 0 0 0 Yew Prison
+  492   307   784    35    16  -127    39            0 JAIL_YEW 0 0 0 0 0 Yew Prison
   493   346   831    26    40  -127   127            0 JAIL_YEW 0 0 0 0 0 Yew Prison
-  495   261   764    39    14     0    29            0 JAIL_CELL_YEW 0 0 0 0 0 Yew Prison
+  495   261   764    39    14     0    19            0 JAIL_CELL_YEW 0 0 0 0 0 Yew Prison
   505   313   785    14    14    20    29            0 JAILORSMALL_YEW_1 0 0 0 0 0
   506   352   832     7     7    20    29            0 JAILORSMALL_YEW_1 0 0 0 0 0
-  520   336   871    36    16  -127   127            0 COURT_YEW 0 0 0 0 0 Court of Truth
-  521   344   887    28    17  -127   127            0 COURT_YEW 0 0 0 0 0 Court of Truth
+  520   336   871    36    16  -127    39            0 COURT_YEW 0 0 0 0 0 Court of Truth
+  521   344   887    28    17  -127    39            0 COURT_YEW 0 0 0 0 0 Court of Truth
   535   372   884    24    20  -127   127            0 GUARD_YEW 0 0 0 0 0 Court of Truth
   536   356   904    40    16  -127   127            0 GUARD_YEW 0 0 0 0 0 Court of Truth
   550   652   993    54    32  -127   127            0 FARM_YEW_4 0 0 0 0 0 a farm in Yew
@@ -93,9 +93,9 @@ version 64207
   895  2200  1110    50    50  -127   127            0 JUSTICE_COVE 0 0 0 0 0 Cove
   896  2200  1160    86    86  -127   127            0 JUSTICE_COVE 0 0 0 0 0 Cove
   898  2200  1160    86    86  -127   127            0 CITY_COVE 47 0 0 0 0 Cove
-  910  2208  1111     7     9     0    59            0 GUARD_COVE 0 0 0 0 0 a guard tower in Cove
-  911  2271  1196     8     7     0    39            0 GUARD_COVE 0 0 0 0 0 a guard tower in Cove
-  912  2280  1223     7     9     0    39            0 GUARD_COVE 0 0 0 0 0 a guard tower in Cove
+  910  2208  1111     7     9     0    39            0 GUARD_COVE 0 0 0 0 0 a guard tower in Cove
+  911  2271  1196     8     7     0    19            0 GUARD_COVE 0 0 0 0 0 a guard tower in Cove
+  912  2280  1223     7     9     0    19            0 GUARD_COVE 0 0 0 0 0 a guard tower in Cove
   930  2209  1165     8     8  -127   127            0 WEAPONRY_COVE 0 0 0 0 0 The Warrior's Supplies in Cove
   940  2217  1165     8     8  -127   127            0 ARMORER_COVE 0 0 0 0 0 The Warrior's Supplies in Cove
   950  2213  1184     8    16  -127   127            0 FARM_COVE 0 0 0 0 0 Farmers' Market in Cove
@@ -188,19 +188,19 @@ version 64207
  1625  1216  1872    32    32  -127   127            0 WHEAT_BRITAIN_4 0 0 0 0 0 A Wheatfield in Britain
  1635  1311  1799    16    32  -127   127            0 LIVESTK_BRITAIN 0 0 0 0 0
  1645  1287  1751    20    32    10    30            0 STABLES_BRITAIN_2 0 0 0 0 0 Sosarian Steeds in Britain
- 1655  1336  1726    16    16    20   100            0 FIGHTERGUILD_BRITAIN_1 0 0 0 0 0 Warriors' Guild in Britain
+ 1655  1336  1726    16    16    20    79            0 FIGHTERGUILD_BRITAIN_1 0 0 0 0 0 Warriors' Guild in Britain
  1665  1344  1768    16    22    15    35            0 BLACKSMITH_BRITAIN_2 0 0 0 0 0 Britain's Blacksmith Guild
  1675  1383  1800    26    26     0    20            0 PEASANTMEDIUM_BRITAIN_1 0 0 0 0 0 Britain
  1685  1419  1510   262   268   -10   127            0 CITY_BRITAIN 9 0 0 0 0 Britain
- 1700  1435  1547    41    21    30    69            0 BARDGUILD_BRITAIN 0 0 0 0 0 Lord British's Conservatory of Music
+ 1700  1435  1547    41    21    30    49            0 BARDGUILD_BRITAIN 0 0 0 0 0 Lord British's Conservatory of Music
  1710  1468  1752    34    20    -5    25            0 DOCKS_BRITAIN_2 0 0 0 0 0 docks in Britain
  1711  1481  1745    18     7    -5    25            0 DOCKS_BRITAIN_2 0 0 0 0 0 docks in Britain
  1725  1434  1754    22    22    -5    25            0 DOCKS_BRITAIN_1 0 0 0 0 0 docks in Britain
- 1735  1576  1584    24    16    20    60            0 INN_BRITAIN_5 0 0 0 0 0 The Wayfarer's Inn in Britain
+ 1735  1576  1584    24    16    20    39            0 INN_BRITAIN_5 0 0 0 0 0 The Wayfarer's Inn in Britain
  1745  1507  1539    22    14    25    45            0 STABLES_BRITAIN_1 0 0 0 0 0 The Bucking Horse Stables in Britain
  1755  1508  1539    21    14    40    60            0 NONE_BRITAIN_1 0 0 0 0 0 Britain Counselor's Guild
  1765  1416  1544    13    16    30    50            0 BLACKSMITH_BRITAIN_1 0 0 0 0 0 The Hammer and Anvil in Britain
- 1775  1484  1544    16    16    30    90            0 MAGEGUILD_BRITAIN 0 0 0 0 0 The Sorcerer's Delight in Britain
+ 1775  1484  1544    16    16    30    89            0 MAGEGUILD_BRITAIN 0 0 0 0 0 The Sorcerer's Delight in Britain
  1785  1456  1512    16    16    20    40            0 INN_BRITAIN_6 0 0 0 0 0 The North Side Inn in Britain
  1786  1472  1512     8     8    20    40            0 INN_BRITAIN_6 0 0 0 0 0 The North Side Inn in Britain
  1800  1544  1760    16    16    10    30            0 TAVERN_BRITAIN_4 34 0 0 0 0 The Unicorn's Horn in Britain
@@ -210,9 +210,9 @@ version 64207
  1826  1432  1682    10    11     0    10            0 BANK_BRITAIN_1 0 0 0 0 0 The First Bank of Britain
  1840  1505  1564    13    13    20    40            0 VET_BRITAIN 0 0 0 0 0 Britannia Animal Care
  1850  1440  1660    16    10    10    30            0 ARTISAN_BRITAIN 0 0 0 0 0 Artists' Guild in Britain
- 1860  1492  1602     8    19    21    60            0 INN_BRITAIN_1 0 0 0 0 0 Sweet Dreams in Britain
- 1861  1499  1608     8    18    21    60            0 INN_BRITAIN_1 0 0 0 0 0 Sweet Dreams in Britain
- 1862  1492  1619     7     6    40    60            0 INN_BRITAIN_1 0 0 0 0 0 Sweet Dreams in Britain
+ 1860  1492  1602     8    19    21    59            0 INN_BRITAIN_1 0 0 0 0 0 Sweet Dreams in Britain
+ 1861  1499  1608     8    18    21    59            0 INN_BRITAIN_1 0 0 0 0 0 Sweet Dreams in Britain
+ 1862  1492  1619     7     6    40    59            0 INN_BRITAIN_1 0 0 0 0 0 Sweet Dreams in Britain
  1880  1468  1576    11     8    20    40            0 BOWYER_BRITAIN 0 0 0 0 0 Quality Fletching in Britain
  1890  1468  1592    17     8    20    40            0 MERCHANTGUILD_BRITAIN 0 0 0 0 0 Merchants' Guild in Britain
  1900  1436  1646    16     8    10    30            0 ARMORER_BRITAIN_2 0 0 0 0 0 Heavy Metal Armorer in Britain
@@ -246,13 +246,13 @@ version 64207
  2135  1407  1587    13    25    30    49            0 LIBRARY_BRITAIN_1 0 0 0 0 0 Britain Public Library
  2136  1407  1592    13    20    50    60            0 LIBRARY_BRITAIN_1 0 0 0 0 0 Britain Public Library
  2150  1412  1744    12    16    10    30            0 SHIPWRIGHT_BRITAIN 0 0 0 0 0 The Oaken Oar in Britain
- 2160  1415  1575    17     9    30    50            0 MINERSGUILD_BRITAIN 0 0 0 0 0 The Miners' Guild in Britain
+ 2160  1415  1575    17     9    30    49            0 MINERSGUILD_BRITAIN 0 0 0 0 0 The Miners' Guild in Britain
  2170  1591  1511    26    10    40    50            0 NOBLE_BRITAIN_1 0 0 0 0 0 a home in Britain
  2171  1599  1521    10     8    40    50            0 NOBLE_BRITAIN_1 0 0 0 0 0 a home in Britain
- 2172  1615  1559    10    10    20    60            0 NOBLE_BRITAIN_1 0 0 0 0 0 a home in Britain
- 2173  1647  1543    10    10    25    55            0 NOBLE_BRITAIN_1 0 0 0 0 0 a home in Britain
+ 2172  1615  1559    10    10    20    49            0 NOBLE_BRITAIN_1 0 0 0 0 0 a home in Britain
+ 2173  1647  1543    10    10    25    44            0 NOBLE_BRITAIN_1 0 0 0 0 0 a home in Britain
  2174  1663  1543    18    10    30    60            0 NOBLE_BRITAIN_1 0 0 0 0 0 a home in Britain
- 2175  1687  1543    10    10    45    75            0 NOBLE_BRITAIN_1 0 0 0 0 0 a home in Britain
+ 2175  1687  1543    10    10    45    64            0 NOBLE_BRITAIN_1 0 0 0 0 0 a home in Britain
  2176  1703  1552     9    17    50    60            0 NOBLE_BRITAIN_1 0 0 0 0 0 a home in Britain
  2177  1672  1568    25     9    20    30            0 NOBLE_BRITAIN_1 0 0 0 0 0 a home in Britain
  2178  1671  1584    10    17     7    17            0 NOBLE_BRITAIN_1 0 0 0 0 0 a home in Britain
@@ -280,8 +280,8 @@ version 64207
  2310  1632  1688     8    25    37    47            0 ARMORER_BRITAIN_2 0 0 0 0 0 Artistic Armor
  2311  1640  1696     8     9    37    47            0 ARMORER_BRITAIN_2 0 0 0 0 0 Artistic Armor
  2325  1559  1736    25    17  -127   127            0 TOWNRATLARGE_BRITAIN 0 0 0 0 0 a warehouse
- 2335  1537  1736    14    15    15    45            0 GUARD_BRITAIN 0 0 0 0 0 A guard post in Britain
- 2336  1616  1759     7     8    60   110            0 GUARD_BRITAIN 0 0 0 0 0 A guard post in Britain
+ 2335  1537  1736    14    15    15    34            0 GUARD_BRITAIN 0 0 0 0 0 A guard post in Britain
+ 2336  1616  1759     7     8    60    99            0 GUARD_BRITAIN 0 0 0 0 0 A guard post in Britain
  2337  1407  1711     9     8    20    30            0 GUARD_BRITAIN 0 0 0 0 0 A guard post in Britain
  2355  1631  1503    10    18    35    45            0 NOBLE_BRITAIN_3 0 0 0 0 0 a home in Britain
  2375   305  1517   398   354  -127   127            0 DARKERFOREST 27 0 0 0 0
@@ -409,33 +409,33 @@ version 64207
  3549  1800  2796    16    52     0   127            0 JUSTICE_TRINSIC 0 0 0 0 0 Trinsic
  3552  1816  2664   283   231  -127   127            0 CITY_TRINSIC 21 0 0 0 0 Trinsic
  3555  1817  2729    11    14  -127   127            0 STABLES_TRINSIC_1 0 0 0 0 0 A Stable in Trinsic
- 3565  2005  2799    18    14  -127   127            0 STABLES_TRINSIC_2 0 0 0 0 0 A Stable in Trinsic
+ 3565  2005  2799    18    14  -127    19            0 STABLES_TRINSIC_2 0 0 0 0 0 A Stable in Trinsic
  3575  1834  2728    22    16  -127   127            0 INN_TRINSIC_1 0 0 0 0 0 The Travellers Inn in Trinsic
- 3585  2024  2784    16    20  -127   127            0 INN_TRINSIC_2 0 0 0 0 0 The Rusty Anchor in Trinsic
- 3586  2026  2804    14     2  -127   127            0 INN_TRINSIC_2 0 0 0 0 0 The Rusty Anchor in Trinsic
- 3587  2024  2806    16     7  -127   127            0 INN_TRINSIC_2 0 0 0 0 0 The Rusty Anchor in Trinsic
- 3605  1923  2786    12    22  -127   127            0 TAVERN_TRINSIC_1 34 0 0 0 0 The Keg and Anchor in Trinsic
- 3606  1935  2786     7    14  -127   127            0 TAVERN_TRINSIC_1 34 0 0 0 0 The Keg and Anchor in Trinsic
- 3620  1838  2672    24    16     0    39            0 TINKERGUILD_TRINSIC 0 0 0 0 0 Tinkers Guild in Trinsic
- 3630  1884  2645    24    14  -127   127            0 ARMORER_TRINSIC 0 0 0 0 0 Shining Path Armory in Trinsic
+ 3585  2024  2784    16    20  -127    49            0 INN_TRINSIC_2 0 0 0 0 0 The Rusty Anchor in Trinsic
+ 3586  2026  2804    14     2  -127    49            0 INN_TRINSIC_2 0 0 0 0 0 The Rusty Anchor in Trinsic
+ 3587  2024  2806    16     7  -127    49            0 INN_TRINSIC_2 0 0 0 0 0 The Rusty Anchor in Trinsic
+ 3605  1923  2786    12    22  -127    19            0 TAVERN_TRINSIC_1 34 0 0 0 0 The Keg and Anchor in Trinsic
+ 3606  1935  2786     7    14  -127    19            0 TAVERN_TRINSIC_1 34 0 0 0 0 The Keg and Anchor in Trinsic
+ 3620  1838  2672    24    16     0    19            0 TINKERGUILD_TRINSIC 0 0 0 0 0 Tinkers Guild in Trinsic
+ 3630  1884  2645    24    14  -127    29            0 ARMORER_TRINSIC 0 0 0 0 0 Shining Path Armory in Trinsic
  3640  1836  2700    16    20  -127   127            0 MAGE_TRINSIC 0 0 0 0 0 Encyclopedia Magicka in Trinsic
- 3650  1880  2680    24    16    10    50            0 BANK_TRINSIC_1 0 0 0 0 0 Trinsic Royal Bank
+ 3650  1880  2680    24    16    10    29            0 BANK_TRINSIC_1 0 0 0 0 0 Trinsic Royal Bank
  3660  1876  2700    36    40     0    39            0 TOWNHALL_TRINSIC 0 0 0 0 0 Trinsic Meeting Hall
- 3670  1859  2639    17    16     0    29            0 PALADIN_TRINSIC_1 0 0 0 0 0
+ 3670  1859  2639    17    16     0    19            0 PALADIN_TRINSIC_1 0 0 0 0 0
  3671  1820  2668    16    16     0    10            0 PALADIN_TRINSIC_1 0 0 0 0 0
- 3672  1800  2700    16    16  -127   127            0 PALADIN_TRINSIC_1 0 0 0 0 0
- 3673  1844  2756    20    20     0    29            0 PALADIN_TRINSIC_1 0 0 0 0 0
- 3674  2039  2767    12    15  -127   127            0 PALADIN_TRINSIC_1 0 0 0 0 0
- 3675  1979  2902    19    19  -127   127            0 PALADIN_TRINSIC_1 0 0 0 0 0
- 3676  2051  2773    17    11  -127   127            0 PALADIN_TRINSIC_1 0 0 0 0 0
- 3677  1803  2799    16    18  -127   127            0 PALADIN_TRINSIC_1 0 0 0 0 0
+ 3672  1800  2700    16    16  -127    39            0 PALADIN_TRINSIC_1 0 0 0 0 0
+ 3673  1844  2756    20    20     0    19            0 PALADIN_TRINSIC_1 0 0 0 0 0
+ 3674  2039  2767    12    15  -127    19            0 PALADIN_TRINSIC_1 0 0 0 0 0
+ 3675  1979  2902    19    19  -127    39            0 PALADIN_TRINSIC_1 0 0 0 0 0
+ 3676  2051  2773    17    11  -127    19            0 PALADIN_TRINSIC_1 0 0 0 0 0
+ 3677  1803  2799    16    18  -127    39            0 PALADIN_TRINSIC_1 0 0 0 0 0
  3678  1932  2674    36    42     0    49            0 PALADIN_TRINSIC_2 0 0 0 0 0 Barracks in Trinsic
  3685  1932  2743    12    10  -127   127            0 FIGHTERGUILD_TRINSIC_1 0 0 0 0 0 Brotherhood of Trinsic
- 3686  1935  2735     8     8  -127   127            0 FIGHTERGUILD_TRINSIC_1 0 0 0 0 0 Brotherhood of Trinsic
+ 3686  1935  2735     8     8  -127    29            0 FIGHTERGUILD_TRINSIC_1 0 0 0 0 0 Brotherhood of Trinsic
  3687  1932  2722    12    13  -127   127            0 FIGHTERGUILD_TRINSIC_1 0 0 0 0 0 Brotherhood of Trinsic
- 3705  1928  2768    12     8  -127   127            0 WEAPONRY_TRINSIC 0 0 0 0 0 Honorable Arms in Trinsic
- 3715  1934  2758    16    10  -127   127            0 FIGHTERGUILD_TRINSIC_2 0 0 0 0 0 Honorable Arms in Trinsic
- 3725  1992  2714    22    10  -127   127            0 LIBRARY_TRINSIC 0 0 0 0 0
+ 3705  1928  2768    12     8  -127    29            0 WEAPONRY_TRINSIC 0 0 0 0 0 Honorable Arms in Trinsic
+ 3715  1934  2758    16    10  -127    29            0 FIGHTERGUILD_TRINSIC_2 0 0 0 0 0 Honorable Arms in Trinsic
+ 3725  1992  2714    22    10  -127    49            0 LIBRARY_TRINSIC 0 0 0 0 0
  3726  1995  2724    16     4  -127   127            0 LIBRARY_TRINSIC 0 0 0 0 0
  3740  1844  2786    18    14  -127   127            0 PROVISIONER_TRINSIC 0 0 0 0 0 Britannia Provisions in Trinsic
  3750  1877  2803    14    10    10    19            0 BAKER_TRINSIC 0 0 0 0 0 Baked Delights in Trinsic
@@ -444,15 +444,15 @@ version 64207
  3780  1809  2819     9    19     0    19            0 BANK_TRINSIC_2 0 0 0 0 0 Bank of Britannia in Trinsic
  3790  1976  2829     9    16    15    34            0 WEAVER_TRINSIC 0 0 0 0 0 Adventurer's Clothing in Trinsic
  3800  1986  2836     8     9    15    34            0 CLOTHIER_TRINSIC 0 0 0 0 0 Adventurer's Clothing in Trinsic
- 3810  2020  2832    16    24     0    49            0 FISHERGUILD_TRINSIC 0 0 0 0 0 Sons of the Sea in Trinsic
- 3811  2020  2856    12    14  -127   127            0 FISHERGUILD_TRINSIC 0 0 0 0 0 Sons of the Sea in Trinsic
+ 3810  2020  2832    16    24     0    39            0 FISHERGUILD_TRINSIC 0 0 0 0 0 Sons of the Sea in Trinsic
+ 3811  2020  2856    12    14  -127    19            0 FISHERGUILD_TRINSIC 0 0 0 0 0 Sons of the Sea in Trinsic
  3825  1985  2858    12    18    20    39            0 TANNER_TRINSIC 0 0 0 0 0 Trinsic Fine Skins
  3835  1984  2878    16    14     5    24            0 BUTCHER_TRINSIC 0 0 0 0 0 The Trinsic Cut
- 3836  1984  2892    10    10  -127   127            0 BUTCHER_TRINSIC 0 0 0 0 0 The Trinsic Cut
+ 3836  1984  2892    10    10  -127    24            0 BUTCHER_TRINSIC 0 0 0 0 0 The Trinsic Cut
  3850  2056  2848    32    16  -127   127            0 DOCKS_TRINSIC 0 0 0 0 0 docks in Trinsic
  3870  1588  2484    15    13  -127   127            0 NONE_SPIRITUALITY 0 0 0 0 0 Spirituality Shrine
  3880  1685  2445    10    54  -127   127            0 GUARD_10 0 0 0 0 0 a guard post northeast of Trinsic
- 3881  1652  2468    33     7  -127   127            0 GUARD_10 0 0 0 0 0 a guard post northeast of Trinsic
+ 3881  1652  2468    33     7  -127    40            0 GUARD_10 0 0 0 0 0 a guard post northeast of Trinsic
  3895  1542  2033   249   598  -127   127            0 FORESTNOTNEARTOWN_2 27 0 0 0 0 forest north of Trinsic
  3905  2030  3314   206   346  -127   127            0 JUNGLE_5 29 0 0 0 0 Cape of Heroes
  3915  2171  3362    17    16  -127   127            0 RUINS_13 0 0 0 0 0 ruins
@@ -491,7 +491,7 @@ version 64207
  4186  1376  3776    16     8     0    20            0 LIBRARY_JHELOM 0 0 0 0 0 Jhelom Library
  4200  1408  3768    16    16  -127   127            0 HEALER_JHELOM 0 0 0 0 0 Jhelom Healer
  4201  1408  3784     8     8  -127   127            0 HEALER_JHELOM 0 0 0 0 0 Jhelom Healer
- 4215  1376  3792     8     8  -127   127            0 GUARD_JHELOM 0 0 0 0 0 a guard post in Jhelom
+ 4215  1376  3792     8     8  -127    19            0 GUARD_JHELOM 0 0 0 0 0 a guard post in Jhelom
  4225  1392  3800    24     9  -127   127            0 TINKERGUILD_JHELOM 0 0 0 0 0 Gadgets and Things in Jhelom
  4235  1392  3808    16     8  -127   127            0 TINKER_JHELOM 0 0 0 0 0 Gadgets and Things in Jhelom
  4245  1440  3792     8    16  -127   127            0 PROVISIONER_JHELOM 0 0 0 0 0 Needful Things in Jhelom
@@ -555,7 +555,7 @@ version 64207
  4666  2976   632     8     8  -127   127            0 PROVISIONER_VESPER_1 0 0 0 0 0 The Adventurers Supplies in Vesper
  4680  2888   648     8    16  -127   127            0 ALCHEMIST_VESPER_1 0 0 0 0 0 The Bubbling Brew in Vesper
  4681  2880   648     8     8  -127   127            0 ALCHEMIST_VESPER_1 0 0 0 0 0 The Bubbling Brew in Vesper
- 4695  2912   664    16    16  -127   127            0 MAGE_VESPER_1 0 0 0 0 0 The Circles of Magic in Vesper
+ 4695  2912   664    16    16  -127    39            0 MAGE_VESPER_1 0 0 0 0 0 The Circles of Magic in Vesper
  4705  2872   672    24     8  -127   127            0 BANK_VESPER 0 0 0 0 0 The Mint of Vesper
  4715  2872   680    16    16  -127   127            0 MINTER_VESPER 0 0 0 0 0 The Mint of Vesper
  4725  2872   720    16     8  -127   127            0 JEWELER_VESPER 0 0 0 0 0 The Shimmering Jewel in Vesper
@@ -598,7 +598,7 @@ version 64207
  5055  2855   989     8    16     0   127            0 TANNER_VESPER 0 0 0 0 0 Tanner's Shop in Vesper
  5065  2776   952    16    32  -127   127            0 INN_VESPER_2 0 0 0 0 0 The Ironwood Inn in Vesper
  5066  2768   960     8    16  -127   127            0 INN_VESPER_2 0 0 0 0 0 The Ironwood Inn in Vesper
- 5080  2736   975    16    16  -127   127            0 GUARD_VESPER 0 0 0 0 0
+ 5080  2736   975    16    16  -127    19            0 GUARD_VESPER 0 0 0 0 0
  5090  3530     0   318   496  -127   127            0 OCEAN 32 0 0 0 0
  5091  3490   496   358   504  -127   127            0 OCEAN 32 0 0 0 0
  5092  3265   745   210   690  -127   127            0 OCEAN 32 0 0 0 0
@@ -628,11 +628,11 @@ version 64207
  5316  3632  1168   192   256  -127   127            0 JUSTICE_NUJELM 0 0 0 0 0 Nujel'm
  5317  3566  1040   258   128  -127   127            0 JUSTICE_NUJELM 0 0 0 0 0 Nujel'm
  5319  3632  1168   192   256  -127   127            0 CITY_NUJELM 45 0 0 0 0 Nujel'm
- 5335  3544  1168    24    40  -127   127            0 MARKET_NUJELM 0 0 0 0 0 Nujel'm Marketplace
- 5345  3552  1168     8     8  -127   127            0 BUTCHER_NUJELM_1 0 0 0 0 0 Nujelm Butcher
- 5355  3544  1176     8     8  -127   127            0 TANNER_NUJELM_1 0 0 0 0 0 Nujelm Tannery
- 5365  3544  1184     8     8  -127   127            0 BLACKSMITH_NUJELM_1 0 0 0 0 0 Nujelm Blacksmith
- 5375  3544  1192     8     8  -127   127            0 BOWYER_NUJELM 0 0 0 0 0 Nujelm Bowery
+ 5335  3544  1168    24    40  -127    19            0 MARKET_NUJELM 0 0 0 0 0 Nujel'm Marketplace
+ 5345  3552  1168     8     8  -127    19            0 BUTCHER_NUJELM_1 0 0 0 0 0 Nujelm Butcher
+ 5355  3544  1176     8     8  -127    19            0 TANNER_NUJELM_1 0 0 0 0 0 Nujelm Tannery
+ 5365  3544  1184     8     8  -127    19            0 BLACKSMITH_NUJELM_1 0 0 0 0 0 Nujelm Blacksmith
+ 5375  3544  1192     8     8  -127    19            0 BOWYER_NUJELM 0 0 0 0 0 Nujelm Bowery
  5385  3728  1216    24    24     0    19            0 THEATER_NUJELM 0 0 0 0 0 Nujel'm Theater
  5395  3587  1190    45    84     0    19            0 PEASANT_NUJELM_1 0 0 0 0 0
  5405  3648  1056    48   112     0    19            0 PEASANT_NUJELM_2 0 0 0 0 0
@@ -644,22 +644,22 @@ version 64207
  5430  3719  1351    20    20  -127   127            0 NONE_NUJELM_4 0 0 0 0 0 Chessboard in Nujelm
  5440  3696  1208     8    16  -127   127            0 SHIPWRIGHT_NUJELM 0 0 0 0 0 Seaborne Ships in Nujelm
  5450  3728  1184    24    24  -127   127            0 BARDGUILD_NUJELM 0 0 0 0 0 Bardic Guild in Nujel'm
- 5460  3760  1184    24    24  -127   127            0 NONE_NUJELM_5 0 0 0 0 0 Counselor's Guild in Nujel'm
+ 5460  3760  1184    24    24  -127    29            0 NONE_NUJELM_5 0 0 0 0 0 Counselor's Guild in Nujel'm
  5470  3760  1216    11    23     0    19            0 TAVERN_NUJELM_1 34 0 0 0 0 Mystical Spirits in Nujel'm
- 5471  3760  1224    24     8  -127   127            0 TAVERN_NUJELM_1 34 0 0 0 0 Mystical Spirits in Nujel'm
- 5472  3760  1220    16    16  -127   127            0 TAVERN_NUJELM_1 34 0 0 0 0 Mystical Spirits in Nujel'm
+ 5471  3760  1224    24     8  -127    19            0 TAVERN_NUJELM_1 34 0 0 0 0 Mystical Spirits in Nujel'm
+ 5472  3760  1220    16    16  -127    19            0 TAVERN_NUJELM_1 34 0 0 0 0 Mystical Spirits in Nujel'm
  5490  3728  1248    23     7     0    19            0 TAVERN_NUJELM_2 34 0 0 0 0 The Silver Bow in Nujel'm
- 5491  3728  1248    16    16  -127   127            0 TAVERN_NUJELM_2 34 0 0 0 0 The Silver Bow in Nujel'm
+ 5491  3728  1248    16    16  -127    19            0 TAVERN_NUJELM_2 34 0 0 0 0 The Silver Bow in Nujel'm
  5505  3728  1264    24     8     0    19            0 COOK_NUJELM 0 0 0 0 0 The Silver Bow in Nujel'm
  5515  3728  1328    24    16     0    19            0 TAVERN_NUJELM_3 34 0 0 0 0 The Silver Bow in Nujel'm
  5525  3760  1256    14    15     0    19            0 CLOTHIER_NUJELM 0 0 0 0 0 Tailor of the Isle in Nujel'm
  5535  3800  1272     8    16  -127   127            0 DOCKS_NUJELM 0 0 0 0 0 docks in Nujel'm
- 5545  3728  1288    24    40     0    39            0 INN_NUJELM 0 0 0 0 0 Restful Slumber in Nujel'm
+ 5545  3728  1288    24    40     0    19            0 INN_NUJELM 0 0 0 0 0 Restful Slumber in Nujel'm
  5555  3708  1376    12    12     0    29            0 JAIL_NUJELM 0 0 0 0 0 Debtor's Prison
  5565  3708  1383     8     4     0    29            0 CELL_NUJELM 0 0 0 0 0
  5575  3716  1376     4    12     0    29            0 HEALER_NUJELM 0 0 0 0 0
  5585  3712  1392    12    16     0    29            0 COURT_NUJELM 0 0 0 0 0 Nujel'm Court
- 5595  3724  1392     8     8  -127   127            0 NONE_NUJELM_6 0 0 0 0 0 Nujel'm Court
+ 5595  3724  1392     8     8  -127    29            0 NONE_NUJELM_6 0 0 0 0 0 Nujel'm Court
  5605  3724  1400    16    12     0    29            0 CELL_NUJELM_2 0 0 0 0 0 Nujel'm Court
  5610  3704  1224    16     8  -127   127            0 CUSTOMS_NUJELM 0 0 0 0 0 Customs in Nujel'm
  5615  2688  1930   194   430  -127   127            0 NONE_BUCS_DEN 0 0 0 0 0 Buccaneer's Den
@@ -686,22 +686,22 @@ version 64207
  5775  3656  2136    16     8  -127   127            0 MINERSGUILD_MAGINCIA 0 0 0 0 0 Magincia Miner's Guild
  5776  3664  2128     8    24  -127   127            0 MINERSGUILD_MAGINCIA 0 0 0 0 0 Magincia Miner's Guild
  5790  3712  2120    16    16  -127   127            0 TINKER_MAGINCIA 0 0 0 0 0 The Tic - Toc Shop in Magincia
- 5800  3680  2152    24     8  -127   127            0 INN_MAGINCIA 0 0 0 0 0 The Stag and Lion in Magincia
- 5801  3688  2160    16    12  -127   127            0 INN_MAGINCIA 0 0 0 0 0 The Stag and Lion in Magincia
- 5815  3680  2168     8     8  -127   127            0 BAKER_MAGINCIA 0 0 0 0 0 The Bread Basket in Magincia
+ 5800  3680  2152    24     8  -127    39            0 INN_MAGINCIA 0 0 0 0 0 The Stag and Lion in Magincia
+ 5801  3688  2160    16    12  -127    39            0 INN_MAGINCIA 0 0 0 0 0 The Stag and Lion in Magincia
+ 5815  3680  2168     8     8  -127    39            0 BAKER_MAGINCIA 0 0 0 0 0 The Bread Basket in Magincia
  5825  3728  2144     8    16  -127   127            0 BANK_MAGINCIA 0 0 0 0 0 Bank of Magincia
  5835  3712  2168    16    16  -127   127            0 NONE_MAGINCIA 0 0 0 0 0 Counselor's Guild in Magincia
  5845  3656  2176    16    24     0    39            0 JEWELER_MAGINCIA 0 0 0 0 0 The Family Jewels in Magincia
  5855  3688  2208     8    22    20    29            0 HEALER_MAGINCIA 0 0 0 0 0 Healer of Magincia
  5856  3680  2224     8     6    20    29            0 HEALER_MAGINCIA 0 0 0 0 0 Healer of Magincia
- 5870  3696  2208    16    24    20    59            0 MAGEGUILD_MAGINCIA 0 0 0 0 0 Magincia's Magicka
- 5880  3720  2216    16    16  -127   127            0 TAVERN_MAGINCIA 34 0 0 0 0 Great Horns Tavern in Magincia
+ 5870  3696  2208    16    24    20    39            0 MAGEGUILD_MAGINCIA 0 0 0 0 0 Magincia's Magicka
+ 5880  3720  2216    16    16  -127    39            0 TAVERN_MAGINCIA 34 0 0 0 0 Great Horns Tavern in Magincia
  5890  3660  2228    12    12  -127   127            0 CLOTHIER_MAGINCIA 0 0 0 0 0 Stitchin' Time in Magincia
  5900  3664  2248     8    14  -127   127            0 SHIPWRIGHT_MAGINCIA 0 0 0 0 0 The Furled Sail in Magincia
  5910  3680  2256     8     6  -127   127            0 FISHERGUILD_MAGINCIA 0 0 0 0 0 Fishermen's Guild & Supplies in Maginci
  5920  3752  2216    16     8  -127   127            0 BAKER_MAGINCIA 0 0 0 0 0 Baker's Dozen in Magincia
  5921  3752  2224     8     8  -127   127            0 BAKER_MAGINCIA 0 0 0 0 0 Baker's Dozen in Magincia
- 5935  3779  2240    29    31     0    49            0 PARLIAMENT_MAGINCIA 0 0 0 0 0 Magincia Parliament
+ 5935  3779  2240    29    31     0    39            0 PARLIAMENT_MAGINCIA 0 0 0 0 0 Magincia Parliament
  5945  3680  2248    16     8  -127   127            0 PROVISIONER_MAGINCIA 0 0 0 0 0 Fishermen's Guild & Supplies in Maginci
  5955  3696  2240    16    12     0    39            0 MERCHANTGUILD_MAGINCIA 0 0 0 0 0 Merchants' Guild in Magincia
  5965  3652  2261    44    40  -127   127            0 DOCKS_MAGINCIA 0 0 0 0 0 docks in Magincia
@@ -722,7 +722,7 @@ version 64207
  6110  3048  3360     8    16  -127   127            0 BOWYER_SERPHOLD 0 0 0 0 0 Silver Serpent Bows
  6120  3000  3384    16     8  -127   127            0 PROVISIONER_SERPHOLD 0 0 0 0 0 Supplies in Serpents Hold
  6130  3000  3400    16    16  -127   127            0 BLACKSMITH_SERPHOLD 0 0 0 0 0 Blacksmith in Serpents Hold
- 6140  2960  3400    16    16    15    54            0 INN_SERPHOLD 0 0 0 0 0 The Broken Arrow Inn in Serpents Hold
+ 6140  2960  3400    16    16    15    34            0 INN_SERPHOLD 0 0 0 0 0 The Broken Arrow Inn in Serpents Hold
  6150  2968  3417     8    16  -127   127            0 TAVERN_SERPHOLD_1 34 0 0 0 0 The Dog and Lion Pub in Serpents Hold
  6160  2992  3424     8    16  -127   127            0 HEALER_SERPHOLD 0 0 0 0 0 Serpent's Hold Healer
  6170  3008  3424    16    16  -127   127            0 WEAPONRY_SERPHOLD 0 0 0 0 0 Serpents Arms in Serpents Hold
@@ -837,7 +837,7 @@ version 64207
  7100  4432  1160    16     8  -127   127            0 ARMORER_MOONGLOW 0 0 0 0 0 Second Defense Armory in Moonglow
  7110  4436  1152     8     8  -127   127            0 BLACKSMITH_MOONGLOW 0 0 0 0 0 Second Defense Armory in Moonglow
  7120  4462  1152     6    16     0    19            0 BANK_MOONGLOW 0 0 0 0 0 First Bank of Moonglow and Tinkersguild
- 7121  4468  1156     8    19  -127   127            0 BANK_MOONGLOW 0 0 0 0 0 First Bank of Moonglow and Tinkersguild
+ 7121  4468  1156     8    19  -127    19            0 BANK_MOONGLOW 0 0 0 0 0 First Bank of Moonglow and Tinkersguild
  7135  4476  1152     4    14     0    19            0 TINKERGUILD_MOONGLOW 0 0 0 0 0 First Bank of Moonglow and Tinkersguild
  7145  4278   915    54    19     0   127            0 LIBRARY_JUSTICE_MOONGLOW 0 0 0 0 0 The Lycaeum in Moonglow
  7146  4283   944    53    73     0   127            0 LIBRARY_JUSTICE_MOONGLOW 0 0 0 0 0 The Lycaeum in Moonglow
@@ -986,9 +986,9 @@ version 64207
  7994  5495   159    25    33  -127   127            0 GAZERBOSS_DUNGN_SHAME_1 0 0 0 0 0
  7995  5813    76    12    11  -127   127            0 GAZERBOSS_DUNGN_SHAME_2 0 0 0 0 0
  7996  6120   152     7    23  -127   127            0 GAZERBOSS_DUNGN_HYTHLOTH 0 0 0 0 0
- 7997  5432   176    22    22  -127   127            0 EVIL_MAGEBOSS_DUNGN_SHAME_1 0 0 0 0 0
- 7998  5568   184    22    22  -127   127            0 EVIL_MAGEBOSS_DUNGN_SHAME_2 0 0 0 0 0
- 7999  5815    47     9     9  -127   127            0 EVIL_MAGEBOSS_DUNGN_SHAME_3 0 0 0 0 0
+ 7997  5432   176    22    22  -127    43            0 EVIL_MAGEBOSS_DUNGN_SHAME_1 0 0 0 0 0
+ 7998  5568   184    22    22  -127    43            0 EVIL_MAGEBOSS_DUNGN_SHAME_2 0 0 0 0 0
+ 7999  5815    47     9     9  -127    21            0 EVIL_MAGEBOSS_DUNGN_SHAME_3 0 0 0 0 0
  8000  5706     7    30    16  -127   127            0 BLOODELEMENTAL_DUNGN_SHAME_1 0 0 0 0 0
  8001  5671   102    25    19  -127   127            0 BLOODELEMENTAL_DUNGN_SHAME_2 0 0 0 0 0
  8002  5184   688    15    15  -127   127            0 POISONELEMENTAL_DUNGN_DECEIT_1 0 0 0 0 0
@@ -1112,7 +1112,7 @@ version 64207
  8503  4577  3582    38    43  -127   127            0 DAEMON_2 0 0 0 0 0
  8504  4570  3549    50    50  -127   127            0 DAEMON_3 0 0 0 0 0
  8505   736  1381    44    42  -127   127            0 LICHLARGE_1 0 0 0 0 0
- 8506  1014   819     4     4  -127   127            0 LICH_2 0 0 0 0 0
+ 8506  1014   819     4     4  -127    19            0 LICH_2 0 0 0 0 0
  8507  2431  1081    22    39  -127   127            0 LICH_3 0 0 0 0 0
  8508  4535  1296    23    40  -127   127            0 LICH_4 0 0 0 0 0
  8510  3590  2460   117   225    -5   100            0 CITY_OCLLO 17 0 0 0 0 Ocllo
