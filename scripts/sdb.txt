@@ -9017,3 +9017,4 @@ petAllCmd
 dz
 "them and arrange terms.           ---"
 "*destination*"
+"You can't practice on this while mounted."

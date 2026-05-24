@@ -128,7 +128,7 @@ trigger use {
 	}
 	if ((Q4CX == 0x1EC0) || (Q4CX == 0x1EC3)) {
 		if (getItemAtSlot(user, 0x19) != NULL()) {
-			ebarkTo(this, user, "You can't practice on this while on horseback.");
+			ebarkTo(this, user, "You can't practice on this while mounted.");
 			return(0x01);
 		}
 		if (!isHuman(user)) {
