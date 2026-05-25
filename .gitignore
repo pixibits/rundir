@@ -1,3 +1,5 @@
 access.list
 *.bkp
 *.bak
+regions.txt.bak*
+skillfocus.txt
