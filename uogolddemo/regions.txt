@@ -3,15 +3,15 @@ version 64207
    21    10   245   648   390  -127   127            0 OCEAN 32 0 0 0 0
    22    10   893   224   368  -127   127            0 OCEAN 32 0 0 0 0
    23  1082    10   470   100  -127   127            0 OCEAN 32 0 0 0 0
-   25   658   293   184   987  -127   127            0 FORESTNEARTOWN_YEW 27 0 0 0 0
+   25   657   293   238   571  -127   127            0 FORESTNEARTOWN_YEW_1 27 0 0 0 0 a forest near Yew
    45  1347   848   105   162  -127   127            0 NOSPAWN_WIND 23 0 0 0 0
    55  1357   879    10    18  -127   127            0 NONE_WIND_1 23 0 0 0 0 Wind entrance
-   75  1457   544    95   184  -127   127            0 PLAINS 31 0 0 0 0
-  100   842   120   710   331  -127   127            0 DARKERFOREST_2 27 0 0 0 0
+   75  1459   544    93   149  -127   127            0 PLAINS 31 0 0 0 0
+  100   895   122   657   329  -127   127            0 DARKERFOREST_YEW_1 27 0 0 0 0
   110  1293   693   259   587  -127   127            0 DARKFOREST_4 27 0 0 0 0
   130  1244   852    20    35    16    35            0 GUARD_5 0 0 0 0 0 a guard post
   131  1254   887    13    11  -127   127            0 GUARD_5 0 0 0 0 0 a guard post
-  145   842   451   561   242  -127   127            0 DARKERFOREST_1 27 0 0 0 0 forest east of Yew
+  145   895   451   508   242  -127   127            0 DARKERFOREST_YEW_2 27 0 0 0 0 forest east of Yew
   155   943   696    25    24     0    19            0 CEMETERYHARD_RUINS_1 0 0 0 0 0 Yew fort of the damned
   156   959   687     9     9     0    19            0 CEMETERYHARD_RUINS_1 0 0 0 0 0 Yew fort of the damned
   157  1011   692     9    19     0    19            0 CEMETERYHARD_RUINS_1 0 0 0 0 0 Yew fort of the damned
@@ -20,7 +20,7 @@ version 64207
   160   956   696    67   136  -127    -1            0 CEMETERYHARD_RUINS_1 0 0 0 0 0 Yew fort of the damned
   190  1297  1046    63    53  -127   127            0 HOUSING_NO_DESPISE 0 0 0 0 0
   210  1455   839     8     8  -127   127            0 NONE_CHAOS 0 0 0 0 0 Chaos Shrine
-  220   842   693   451   587  -127   127            0 FORESTNOTNEARTOWN_3 27 0 0 0 0 forest east of Yew
+  220   895   693   398   587  -127   127            0 FORESTNOTNEARTOWN_3 27 0 0 0 0 forest east of Yew
   230  1031  1075    23    16  -127   127            0 GUARD 0 0 0 0 0
   250  1296   628    10    15  -127   127            0 NONE_JUSTICE 0 0 0 0 0 justice shrine
   260  1259   512    28    44  -127   127            0 ISLAND_JUSTICE 0 0 0 0 0 justice island
@@ -76,15 +76,15 @@ version 64207
   660  2039   788    38    32     0    39            0 GUARD_9 0 0 0 0 0
   661  2261   918    24    18     0    34            0 GUARD_9 0 0 0 0 0
   677  2197   263    90   499  -127   127            0 PLAINS 31 0 0 0 0 northern territories
-  695  1812     9   385   753  -127   127            0 DARKERFOREST_3 27 0 0 0 0 northern territories
+  695  1813     9   384   753  -127   127            0 DARKERFOREST_3 27 0 0 0 0 northern territories
   715  1939   215   134   137  -127   127            0 HOUSING_NO_WRONG 30 0 0 0 0 Wrong Entrance
   740  1815   718     9    13  -127   127            0 GUARD_4 0 0 0 0 0
   760  1812   974   158   102  -127   127            0 PLAINS 31 0 0 0 0 2140
-  770  2313     4   375   224  -127   127            0 PLAINS 31 0 0 0 0 north mines
+  770  2313     4   375   143  -127   127            0 PLAINS 31 0 0 0 0 north mines
   780  1552   177   260  1103  -127   127            0 FORESTNOTNEARTOWN_1 27 0 0 0 0
   790  1812  1076   297   204  -127   127            0 NEWBIE_2 27 0 0 0 0
   800  1922  1141    21    17  -127   127            0 GUARD_9 0 0 0 0 0 a guard post
-  810  2287   739   401   541  -127   127            0 FORESTNOTNEARTOWN_3 27 0 0 0 0 forest near Minoc
+  810  2287   690   401   323  -127   127            0 FORESTNEARTOWN_3 27 0 0 0 0 forest near Minoc
   820  2437   846   124   107  -127   127            0 HOUSING_NO_COVETOUS 0 0 0 0 0 Covetous Entrance
   850  2431  1081    22    15     0    47            0 CEMETERY_COVE 0 0 0 0 0 Cove Cemetery
   851  2423  1096    30    24     0    47            0 CEMETERY_COVE 0 0 0 0 0 Cove Cemetery
@@ -105,7 +105,7 @@ version 64207
   981  1812   811   116    94  -127   127            0 DESERT 31 0 0 0 0 desert of compassion
   982  1812   905   139    69  -127   127            0 DESERT 31 0 0 0 0 desert of compassion
   985  1851   865    12    16  -127   127            0 SHRINE_COMPASSION 0 0 0 0 0 Shrine of Compassion
-  995  2287   228   401   511  -127   127            0 FORESTNEARTOWN_MINOC 27 0 0 0 0
+  995  2313   147   375   219  -127   127            0 FORESTNEARTOWN_MINOC 27 0 0 0 0
  1005  2411   366   135   241  -127   127            0 JUSTICE_MINOC 0 0 0 0 0 Minoc
  1006  2548   495    72    55  -127   127            0 JUSTICE_MINOC 0 0 0 0 0 Minoc
  1007  2564   585     3    42  -127   127            0 JUSTICE_MINOC 0 0 0 0 0 Minoc
@@ -284,8 +284,8 @@ version 64207
  2336  1616  1759     7     8    60    99            0 GUARD_BRITAIN 0 0 0 0 0 A guard post in Britain
  2337  1407  1711     9     8    20    30            0 GUARD_BRITAIN 0 0 0 0 0 A guard post in Britain
  2355  1631  1503    10    18    35    45            0 NOBLE_BRITAIN_3 0 0 0 0 0 a home in Britain
- 2375   305  1517   398   354  -127   127            0 DARKERFOREST 27 0 0 0 0
- 2405   102  1280   986   237  -127   127            0 DARKFOREST 27 0 0 0 0 3020
+ 2375   330  1564   373   217  -127   127            0 DARKERFOREST_SHAME 27 0 0 0 0
+ 2405   102  1280   601   284  -127   127            0 DARKFOREST 27 0 0 0 0 3020
  2415   709  1473    31    18  -127   127            0 GUARD_1 0 0 0 0 0 a guard post
  2416   739  1289    22    36  -127   127            0 GUARD_1 0 0 0 0 0 a guard post
  2430   749  1394    18    16  -127   127            0 LICHSMALL 0 0 0 0 0 ruins
@@ -295,15 +295,14 @@ version 64207
  2443   841  1532    22    21  -127   127            0 RUINS_2 0 0 0 0 0 ruins
  2465   623  1478    23    19    14    25            0 ORCSMALL 0 0 0 0 0 Yew orc fort
  2475  1005  1349    73   109  -127   127            0 RATMANLARGE 0 0 0 0 0 rat valley
- 2500   703  1517   385   515  -127   127            0 FORESTNOTNEARTOWN_2 27 0 0 0 0
+ 2500   640  1716   448   316  -127   127            0 FORESTNOTNEARTOWN_2 27 0 0 0 0
  2510   836  1672    35    31  -127   127            0 BRIGANDLARGE 0 0 0 0 0 a brigand camp
  2520   949  1757    24    14  -127   127            0 GUARD_2 0 0 0 0 0
- 2530  1088  1837  1124   195  -127   127            0 NEWBIE_BRITAIN_2 0 0 0 0 0 Forest near Britain
+ 2530  1088  1837   594   195  -127   127            0 NEWBIE_BRITAIN_2 0 0 0 0 0 Forest near Britain
  2545  1088  1280   412   259  -127   127            0 NEWBIE_BRITAIN_1 0 0 0 0 0 Forest near Britain
  2547  1546  1280   561   218  -127   127            0 NEWBIE_BRITAIN_1 0 0 0 0 0 Forest near Britain
  2550  1337  1444    52    66    10    30            0 CEMETERY_BRITAIN 0 0 0 0 0 Britain Cemetery
  2570  2138  1306    89    94  -127   127            0 ORCCAMP_COVE 0 0 0 0 0 Cove orc fort
- 2615  2570  2032   118   328  -127   127            0 NONE_BUCDEN_1 0 0 0 0 0 Buccaneer's Den
  2625  2612  2057    76   210  -127   127            0 OUTLAW_BUCDEN 11 0 0 0 0 Buccaneer's Den
  2635  2664  2232    24     8  -127   127            0 TAVERN_BUCDEN 34 0 0 0 0 The Pirate's Plunder in Buccaneer's Den
  2636  2672  2240    16     8  -127   127            0 TAVERN_BUCDEN 34 0 0 0 0 The Pirate's Plunder in Buccaneer's Den
@@ -311,7 +310,7 @@ version 64207
  2660  2624  2096     8     8  -127   127            0 WOODWORKER_BUCDEN 0 0 0 0 0 Violente Woodworks in Buccaneer's Den
  2670  2656  2185     8    24  -127   127            0 PIRATE_BUCDEN 0 0 0 0 0 Pirate's Den in Buccaneer's Den
  2671  2648  2192    16     8  -127   127            0 PIRATE_BUCDEN 0 0 0 0 0 Pirate's Den in Buccaneer's Den
- 2685  2605  2267    76    57     0   127            0 JUNGLE_BUCDEN_1 29 0 0 0 0
+ 2685  2688  2267   180  1271     0   127            0 JUNGLE 29 0 0 0 0
  2695   518  2050   182   252  -127   127            0 NONE_SKARA_BRAE 0 0 0 0 0 Skara Brae
  2705   638  2062    12    11  -127   127            0 JUSTICE_SKARA_BRAE 0 0 0 0 0 Skara Brae Moongate
  2715   538  2107   150   190  -127   127            0 JUSTICE_SKARA_BRAE 0 0 0 0 0 Skara Brae
@@ -349,7 +348,7 @@ version 64207
  2990   638  2224    44    24  -127   127            0 DOCKS_SKARA_BRAE 0 0 0 0 0 docks in Skara Brae
  3000   648  2176     8    16  -127   127            0 CLOTHIER_SKARA_BRAE 0 0 0 0 0 Shear Pleasure in Skara Brae
  3010   656  2136    16     8  -127   127            0 MAGE_SKARA_BRAE_2 0 0 0 0 0 Mystic Treasures in Skara Brae
- 3020   714  2032   319   718  -127   127            0 FORESTNEARTOWN_SKARA_BRAE 27 0 0 0 0 forest near Skara Brae
+ 3020   706  2032   327   272  -127   127            0 FORESTNEARTOWN_SKARA_BRAE 27 0 0 0 0 forest near Skara Brae
  3030   714  2117   227   316  -127   127            0 RANGER_SKARA_BRAE 0 0 0 0 0 Skara Brae
  3040   736  2136    24    24  -127   127            0 RANGERGUILD_SKARA_BRAE_2 0 0 0 0 0 Rangers' Guild in Skara Brae
  3050   793  2149    43    56  -127   127            0 FARM_SKARA_BRAE_1 0 0 0 0 0 a farm in Skara Brae
@@ -369,37 +368,36 @@ version 64207
  3163   864  2312     8     8  -127   127            0 RANGER_SKARA_BRAE 0 0 0 0 0 a ranger hut in Skara Brae
  3165  1034  2159   224   145  -127   127            0 NONE_HEDGEMAZE 0 0 0 0 0 Hedge Maze
  3176  1080  2770   183   283  -127   127            0 SWAMP_2 33 0 0 0 0 Destard Swamps
- 3190  1034  2032   508   127  -127   127            0 FORESTNOTNEARTOWN_0 27 0 0 0 0 forest south of Britain
+ 3190  1034  2032   508   127  -127   127            0 FORESTNOTNEARTOWN 27 0 0 0 0 forest south of Britain
  3200  1409  2098    19    14  -127   127            0 GUARD_9 0 0 0 0 0 a guard tower south of Britain
  3230  1464  2500    16    16  -127   127            0 RUINS_14 0 0 0 0 0
- 3240  1258  2159   284   706  -127   127            0 DARKERFOREST_2 27 0 0 0 0
- 3250  1034  2304   224   461  -127   127            0 FORESTNOTNEARTOWN_5 27 0 0 0 0 forest east of Skara Brae
- 3270  1286  2865   256   397  -127   127            0 JUNGLE_0 29 0 0 0 0
- 3280  1542  2865   249   449  -127   127            0 JUNGLE_1 29 0 0 0 0 Trinsic jungles
+ 3240  1258  2159   284   274  -127   127            0 DARKERFOREST_2 27 0 0 0 0
+ 3250   988  2304   270   428  -127   127            0 FORESTNOTNEARTOWN_5 27 0 0 0 0 forest east of Skara Brae
+ 3270  1291  2816   251   201  -127   127            0 JUNGLE_0 29 0 0 0 0
+ 3280  1542  2887   249   112  -127   127            0 JUNGLE_1 29 0 0 0 0 Trinsic jungles
  3290  1651  2938    35    62  -127   127            0 NONE_HIDDENVALLEY 0 0 0 0 0 hidden valley
  3291  1686  2962    13    44  -127   127            0 NONE_HIDDENVALLEY 0 0 0 0 0 hidden valley
- 3305  1791  3156   332   158  -127   127            0 JUNGLE_2 29 0 0 0 0 Trinsic jungles
+ 3305  1869  3134   222    97  -127   127            0 JUNGLE_2 29 0 0 0 0 Trinsic jungles
  3315  1835  3193    25    23  -127   127            0 RUINS_10 0 0 0 0 0 ruins south of Trinsic
  3316  1975  3197    21    20  -127   127            0 RUINS_10 0 0 0 0 0 ruins south of Trinsic
- 3330  1570  3314   221   260  -127   127            0 JUNGLE_3 29 0 0 0 0
+ 3330  1542  3257   249    94  -127   127            0 JUNGLE_3 29 0 0 0 0
  3340  1724  3529    13    11  -127   127            0 NONE_HONOR 0 0 0 0 0 Honor Shrine
  3350  1603  3367    12    13  -127   127            0 RUINS_11 0 0 0 0 0 ruins
  3351  1740  3431    16    18  -127   127            0 RUINS_11 0 0 0 0 0 ruins
  3365  1602  3525    15    14  -127   127            0 PIRATESMALL_1 0 0 0 0 0 a pirate camp
- 3375  1791  3314   239   209  -127   127            0 JUNGLE_4 29 0 0 0 0
+ 3375  1791  3308   111   177  -127   127            0 JUNGLE_4 29 0 0 0 0
  3385  1919  3412    17    17  -127   127            0 RUINS_12 0 0 0 0 0 ruins
  3386  2012  3374    14    14  -127   127            0 RUINS_12 0 0 0 0 0 ruins
- 3400  1791  2928   404   228  -127   127            0 PLAINS_3 31 0 0 0 0 Plains south of Trinsic
+ 3400  1791  2948   423   186  -127   127            0 FORESTNEARTOWN 31 0 0 0 0 Plains south of Trinsic
  3410  1823  2943    11    11  -127   127            0 JUSTICE_TRINSIC 0 0 0 0 0 Trinsic Moongate
  3430  1582  2139    16    28  -127   127            0 BRIGANDSMALL 0 0 0 0 0 a small brigand camp
- 3440  1791  2050   214   189  -127   127            0 PLAINS_1 31 0 0 0 0
+ 3440  1832  2058   151    96  -127   127            0 PLAINS_1 31 0 0 0 0
  3450  1832  2058   151    96  -127   127            0 NONE_MARBLE 0 0 0 0 0 Marble Island
- 3470  1805  2239   145   202  -127   127            0 SWAMP_1 33 0 0 0 0 Fens of the Dead
+ 3470  1799  2239   151   223  -127   127            0 SWAMP_1 33 0 0 0 0 Fens of the Dead
  3471  1950  2239   215   176  -127   127            0 SWAMP_1 33 0 0 0 0 Fens of the Dead
- 3485  1772  2441   145   190  -127   127            0 PLAINS_2 31 0 0 0 0 Plains north of Trinsic
- 3495  1542  2631   249   234  -127   127            0 FORESTNEARTOWN_TRINSIC 27 0 0 0 0 forest west of Trinsic
+ 3485  1799  2462   118   169  -127   127            0 PLAINS_2 31 0 0 0 0 Plains north of Trinsic
+ 3495  1542  2631   249   256  -127   127            0 FORESTNEARTOWN_TRINSIC 27 0 0 0 0 forest west of Trinsic
  3505  1677  2672    14    10  -127   127            0 GUARD_11 0 0 0 0 0 a guard post west of Trinsic
- 3515  1791  2631   373   297  -127   127            0 NONE_TRINSIC 0 0 0 0 0
  3525  2099  2655    62   183  -127   127            0 PLAINS_BARRIER 31 0 0 0 0
  3535  2099  2782    18    25  -127   127            0 JUSTICE_TRINSIC 0 0 0 0 0 Trinsic
  3545  1856  2636    75    28  -127   127            0 JUSTICE_TRINSIC 0 0 0 0 0 Trinsic
@@ -453,8 +451,8 @@ version 64207
  3870  1588  2484    15    13  -127   127            0 NONE_SPIRITUALITY 0 0 0 0 0 Spirituality Shrine
  3880  1685  2445    10    54  -127   127            0 GUARD_10 0 0 0 0 0 a guard post northeast of Trinsic
  3881  1652  2468    33     7  -127    40            0 GUARD_10 0 0 0 0 0 a guard post northeast of Trinsic
- 3895  1542  2033   249   598  -127   127            0 FORESTNOTNEARTOWN_2 27 0 0 0 0 forest north of Trinsic
- 3905  2030  3314   206   346  -127   127            0 JUNGLE_5 29 0 0 0 0 Cape of Heroes
+ 3895  1542  2032   257   599  -127   127            0 FORESTNOTNEARTOWN_2 27 0 0 0 0 forest north of Trinsic
+ 3905  2032  3231   181   254  -127   127            0 JUNGLE_5 29 0 0 0 0 Cape of Heroes
  3915  2171  3362    17    16  -127   127            0 RUINS_13 0 0 0 0 0 ruins
  3935  1078  3588   124   121  -127   127            0 HOUSING_NO_JHELOM 0 0 0 0 0 Jhelom Islands
  3936  1224  3592   309   473  -127   127            0 HOUSING_NO_JHELOM 0 0 0 0 0 Jhelom Islands
@@ -540,11 +538,9 @@ version 64207
  4542  2576  2032   112   314  -127   127            0 OCEAN 32 0 0 0 0
  4543  1031  3084   102   142  -127   127            0 DARKESTFOREST 27 0 0 0 0 Dragon Isle
  4550  1178  3224    24    20  -127   127            0 RUINS_20 0 0 0 0 0
- 4560  2098  3876   118   148  -127   127            0 JUNGLE_AMOEBA 29 0 0 0 0 Amoeba Island
- 4570  2382  3866   172   192  -127   127            0 JUNGLE_VALOR 29 0 0 0 0 Valor Island
+ 4570  2105  3866   449   181  -127   127            0 JUNGLE 29 0 0 0 0
  4580  2487  3926    10    10  -127   127            0 NONE_VALOR 0 0 0 0 0 Valor Shrine
- 4590  2302  3372   110   172  -127   127            0 JUNGLE_BALD 29 0 0 0 0 Bald Isle
- 4600  2436  3534   121   131  -127   127            0 JUNGLE_MARBLE 29 0 0 0 0 Marble Island
+ 4590  2304  3424   253   242  -127   127            0 JUNGLE 29 0 0 0 0
  4630  2816   648   249   365  -127   127            0 JUSTICE_VESPER 0 0 0 0 0 Vesper
  4631  2893   598   121    50  -127   127            0 JUSTICE_VESPER 0 0 0 0 0 Vesper
  4632  2728   944    88    57  -127   127            0 JUSTICE_VESPER 0 0 0 0 0 Vesper
@@ -610,12 +606,11 @@ version 64207
  5098  2688  3640  1160   434  -127   127            0 OCEAN 32 0 0 0 0
  5099  3083  3318   765   322  -127   127            0 OCEAN 32 0 0 0 0
  5105  2882  1930   642   418  -127   127            0 OCEAN_2 32 0 0 0 0
- 5115  2918  2120    70   136  -127   127            0 FORESTNEARTOWN_SKULL 27 0 0 0 0 Skull Island
- 5125  2688    25   376   573  -127   127            0 FORESTNEARTOWN_VESPER 27 0 0 0 0 forest near Vesper
+ 5125  2688   393   376   205  -127   127            0 FORESTNEARTOWN_VESPER 27 0 0 0 0 forest near Vesper
  5126  2688   598   128   542  -127   127            0 FORESTNEARTOWN_VESPER 27 0 0 0 0 forest near Vesper
  5145  2728   840    56    56  -127   127            0 CEMETERY_VESPER 0 0 0 0 0 Vesper graveyard
  5155  2694   685    15    16  -127   127            0 JUSTICE_VESPER 0 0 0 0 0 Minoc Moongate
- 5190  3344   278    23    24  -127   127            0 NONE_SACRIFICE 0 0 0 0 0 Sacrifice Shrine
+ 5190  3344   278    23    24  -127   127            0 NOSPAWN_SACRIFICE 0 0 0 0 0 Shrine of Sacrifice
  5210  3064    13   466   483  -127   127            0 DARKERFOREST_WINDMERE 27 0 0 0 0 Windmere Woods
  5245  3333   547    19    52  -127   127            0 RANGER_WINDMERE 0 0 0 0 0 ranger huts in Windmere Woods
  5256  3064   496   426   326  -127   127            0 FORESTNEARTOWN_WINDMERE 27 0 0 0 0 Windmere Woods
@@ -662,7 +657,6 @@ version 64207
  5595  3724  1392     8     8  -127    29            0 NONE_NUJELM_6 0 0 0 0 0 Nujel'm Court
  5605  3724  1400    16    12     0    29            0 CELL_NUJELM_2 0 0 0 0 0 Nujel'm Court
  5610  3704  1224    16     8  -127   127            0 CUSTOMS_NUJELM 0 0 0 0 0 Customs in Nujel'm
- 5615  2688  1930   194   430  -127   127            0 NONE_BUCS_DEN 0 0 0 0 0 Buccaneer's Den
  5625  2688  2057    88   210  -127   127            0 OUTLAW_BUCDEN 11 0 0 0 0 Buccaneer's Den
  5635  2712  2080    16    16  -127   127            0 INN_BUCDEN 0 0 0 0 0 The Peg Leg Inn in Buccaneer's Den
  5636  2712  2096     8     8  -127   127            0 INN_BUCDEN 0 0 0 0 0 The Peg Leg Inn in Buccaneer's Den
@@ -672,9 +666,8 @@ version 64207
  5680  2728  2184     8     8  -127   127            0 BANK_BUCDEN 0 0 0 0 0 Buccaneer's Den Bank
  5690  2728  2248    16     8  -127   127            0 PROVISIONER_BUCDEN 0 0 0 0 0 Pirates Provisioner in Buccaneer's Den
  5700  2728  2256     8     8  -127   127            0 THIEFGUILD_BUCDEN 0 0 0 0 0
- 5710  2691  1935   111   125     0   127            0 JUNGLE_BUCDEN_2 29 0 0 0 0
- 5711  2784  2095    65    52     0   127            0 JUNGLE_BUCDEN_2 29 0 0 0 0
- 5712  2766  2212   114   133     0   127            0 JUNGLE_BUCDEN_2 29 0 0 0 0
+ 5710  2688  1935   122   144     0   127            0 JUNGLE_BUCDEN_2 29 0 0 0 0
+ 5711  2776  2094   220   173     0   127            0 JUNGLE_BUCDEN_2 29 0 0 0 0
  5730  3524  2018   291   288  -127   127            0 NONE_MAGINCIA 0 0 0 0 0 Isle of Magincia
  5740  3653  2045   151    49  -127   127            0 JUSTICE_MAGINCIA 0 0 0 0 0 Magincia
  5741  3652  2094   160   180  -127   127            0 JUSTICE_MAGINCIA 0 0 0 0 0 Magincia
@@ -705,9 +698,8 @@ version 64207
  5945  3680  2248    16     8  -127   127            0 PROVISIONER_MAGINCIA 0 0 0 0 0 Fishermen's Guild & Supplies in Maginci
  5955  3696  2240    16    12     0    39            0 MERCHANTGUILD_MAGINCIA 0 0 0 0 0 Merchants' Guild in Magincia
  5965  3652  2261    44    40  -127   127            0 DOCKS_MAGINCIA 0 0 0 0 0 docks in Magincia
- 5975  3528  2098    97    96  -127   127            0 JUNGLE_MAGINCIA 29 0 0 0 0
+ 5975  3528  2038   124   213  -127   127            0 JUNGLE_MAGINCIA 29 0 0 0 0
  5985  3554  2132    18    18  -127   127            0 JUSTICE_MAGINCIA 0 0 0 0 0 Magincia Moongate
- 5995  2760  3318   322   322  -127   127            0 NONE_ISLE_OF_DEEDS 0 0 0 0 0 Isle of Deeds
  6005  2868  3324   205   195  -127   127            0 JUSTICE_SERPHOLD 0 0 0 0 0 Serpents Hold
  6006  2868  3324   205   195  -127   127            0 CITY_SERPHOLD 19 0 0 0 0 Serpents Hold
  6015  2896  3512    16     7  -127   127            0 STABLES_SERPHOLD_1 0 0 0 0 0 Serpents Hold Stablery
@@ -733,10 +725,9 @@ version 64207
  6220  3048  3384    16    24    28   127            0 RANGERGUILD_SERPHOLD 0 0 0 0 0 Serpent Warrior's in Serpents Hold
  6230  2896  3520    15    13  -127   127            0 STABLES_SERPHOLD_2 0 0 0 0 0 Serpents Hold Stablery
  6240  3024  3464    15    15  -127   127            0 STABLES_SERPHOLD_2 0 0 0 0 0 Serpents Hold Stablery
- 6250  2765  3434   103   128  -127   127            0 JUNGLE_ISLE_OF_DEEDS 29 0 0 0 0
- 6251  2967  3566    79    62  -127   127            0 JUNGLE_ISLE_OF_DEEDS 29 0 0 0 0
+ 6251  2763  3549  1488   255  -127   127            0 JUNGLE_ISLE_OF_DEEDS 29 0 0 0 0
  6265  3330  2348   480   582  -127   127            0 NONE_OCLLO_ISLAND 0 0 0 0 0 Ocllo Island
- 6275  3338  2364   247   552  -127   127            0 FORESTNEARTOWN_OCLLO 27 0 0 0 0
+ 6275  3346  2364   244   355  -127   127            0 FORESTNEARTOWN_OCLLO 27 0 0 0 0
  6295  3590  2460   117   225    -5   100            0 JUSTICE_OCLLO 0 0 0 0 0 Ocllo
  6305  3613  2648    26    12    -3    17            0 DOCKS_OCLLO_1 0 0 0 0 0 docks in Ocllo
  6315  3663  2607    17    17     0    20            0 INN_OCLLO 0 0 0 0 0 The Bountiful Harvest in Ocllo
@@ -799,7 +790,7 @@ version 64207
  6810  3864   174   167   469  -127   127            0 ARCTIC_DAGGER 0 0 0 0 0
  6815  4135   335   158   421  -127   127            0 ARCTIC_DAGGER 0 0 0 0 0
  6816  4031   197   104   453  -127   127            0 ARCTIC_DAGGER 0 0 0 0 0
- 6830  4198   540    38    58  -127   127            0 SHRINE_HONESTY 0 0 0 0 0 Honesty Shrine
+ 6830  4198   540    38    58  -127   127            0 SHRINE_HONESTY 0 0 0 0 0 Shrine of Honesty
  6840  4066   428    58    56  -127   127            0 HOUSING_NO_DAGGER_1 0 0 0 0 0 Deceit Entrance
  6841  4041   469    40    25  -127   127            0 HOUSING_NO_DAGGER_1 0 0 0 0 0 Deceit Entrance
  6855  4212   517    15    34  -127   127            0 HOUSING_NO_DAGGER_2 0 0 0 0 0 Honesty Pass
@@ -885,23 +876,19 @@ version 64207
  7396  4680  1415     8     8  -127   127            0 MAGEGUILD_MOONGLOW_3 0 0 0 0 0 Sorcerer's Guild in Moonglow
  7410  4459  1276    16    16  -127   127            0 JUSTICE_MOONGLOW_1 0 0 0 0 0 Moonglow Moongate
  7420  4535  1296    23    40  -127   127            0 CEMETERY_MOONGLOW 0 0 0 0 0 Moonglow Cemetery
- 7421  4527  1313     8    23  -127   127            0 CEMETERY_MOONGLOW 0 0 0 0 0 Moonglow Cemetery
- 7435  4277  1021    89   193  -127   127            0 NEWBIE_VERITY 0 0 0 0 0
- 7436  4429  1250    96   100  -127   127            0 NEWBIE_VERITY 0 0 0 0 0
- 7437  4432  1407   207    64  -127   127            0 NEWBIE_VERITY 0 0 0 0 0
- 7438  4559  1282    57   124  -127   127            0 NEWBIE_VERITY 0 0 0 0 0
- 7439  4450   966   125    71  -127   127            0 NEWBIE_VERITY 0 0 0 0 0
- 7440  4503  1080   147   109  -127   127            0 NEWBIE_VERITY 0 0 0 0 0
- 7450  4366  3077   215   135  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
- 7451  4374  3414   180   118  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
- 7452  4123  3649   328   146  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
+ 7435  4277  1021    89   193  -127   127            0 LIVESTK 0 0 0 0 0
+ 7437  4430  1409   208    57  -127   127            0 LIVESTK 0 0 0 0 0
+ 7439  4447   967   133    69  -127   127            0 LIVESTK 0 0 0 0 0
+ 7440  4558  1290    56   119  -127   127            0 LIVESTK 0 0 0 0 0
+ 7450  4366  3077   178   254  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
+ 7451  4362  3412   275   134  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
+ 7452  4251  3635   201   149  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
  7453  4452  3546   103   238  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
- 7454  4402  3212   244   112  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
- 7455  4555  3349   175   196  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
- 7456  4638  3546   119   216  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
- 7457  4556  3635    82   133  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
- 7458  4757  3487    80   374  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
- 7459  4436  3806   247   137  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
+ 7455  4544  3075   180   337  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
+ 7456  4637  3412    87   225  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
+ 7457  4555  3637   170   147  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
+ 7458  4724  3380   131   481  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
+ 7459  4430  3784   294   159  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
  7465  4266  3693    12     9  -127   127            0 NONE_HUMILITY 0 0 0 0 0 Humility Shrine
  7475  4577  3549    38    76     0   127            0 DRAGON_1 0 0 0 0 0 Fire Temple
  7485  4582  3562    26    20    75   127            0 DAEMON_1 0 0 0 0 0 Fire Temple
@@ -1109,12 +1096,11 @@ version 64207
  8500  4562  3549    36    33  -127   127            0 DRAGON_FIREISLAND_1 0 0 0 0 0
  8501  4598  3549    38    33  -127   127            0 DRAGON_FIREISLAND_2 0 0 0 0 0
  8502  1125  2211    40    40  -127   127            0 DAEMON_1 0 0 0 0 0
- 8503  4577  3582    38    43  -127   127            0 DAEMON_2 0 0 0 0 0
- 8504  4570  3549    50    50  -127   127            0 DAEMON_3 0 0 0 0 0
+ 8503  4582  3562    26    20  -127   127            0 DAEMON_2 0 0 0 0 0
  8505   736  1381    44    42  -127   127            0 LICHLARGE_1 0 0 0 0 0
  8506  1014   819     4     4  -127    19            0 LICH_2 0 0 0 0 0
  8507  2431  1081    22    39  -127   127            0 LICH_3 0 0 0 0 0
- 8508  4535  1296    23    40  -127   127            0 LICH_4 0 0 0 0 0
+ 8508  4528  1314     7    21  -127   127            0 LICH_4 0 0 0 0 0
  8510  3590  2460   117   225    -5   100            0 CITY_OCLLO 17 0 0 0 0 Ocllo
  8511  3695  2558    65   153    -5   100            0 CITY_OCLLO 17 0 0 0 0 Ocllo
  8600  5383  1794   244   247  -127   127            0 DUNGN_COVETOUS 26 0 0 0 0 Covetous
@@ -1171,9 +1157,9 @@ version 64207
  8991  2662  2097    25   151  -127   127            0 PIRATELARGE_BUCS 0 0 0 0 0
  8992  5124   524   234   244  -127   127            0 SUBSERVER_DECEIT 0 0 0 0 0
  8993  2018   893    13    12  -127   127            0 NOSPAWN 0 0 0 0 0
- 8994  1851   865    12    16  -127   127            0 NOSPAWN 0 0 0 0 0
+ 8994  1851   865    12    16  -127   127            0 NOSPAWN 0 0 0 0 0 Shrine of Compassion
  8995  1812   762   219    49  -127   127            0 PLAINS 0 0 0 0 0
- 8997  4198   540    38    58  -127   127            0 NOSPAWN 0 0 0 0 0
+ 8997  4198   540    38    58  -127   127            0 NOSPAWN 0 0 0 0 0 Shrine of Honesty
  8998  4013   419   120    76  -127   127            0 NOSPAWN 0 0 0 0 0
  8999  1975   957   113    68  -127   127            0 LIZARDMANLARGE 0 0 0 0 0
  9000  1977  1030    24    24  -127   127            0 LIZARDMANCAMP 0 0 0 0 0
@@ -1183,5 +1169,43 @@ version 64207
  9004   311  1413   151    81  -127   127            0 NOSPAWN 0 0 0 0 0
  9005  1099  1866    51    66  -127   127            0 NOSPAWN 0 0 0 0 0
  9006  1021  1397    45    46  -127   127            0 RATMENCAMP 0 0 0 0 0
- 9007  2006  2052   213   173  -127   127            0 DARKESTFOREST 0 0 0 0 0
+ 9007  2005  2056   214   152  -127   127            0 DARKESTFOREST 0 0 0 0 0
  9008   987  1571    26    31  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9009   657   864   238   416  -127   127            0 FORESTNEARTOWN_YEW_2 0 0 0 0 0 a forest near Yew
+ 9010  2403   162    25    22  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9011  2395   197    13    23  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9012  2407   184    14     5  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9013  2418    80    25    34  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9014  2447    37    44    31  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9015  2314   812    25    19  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9016  2345   799    15    13  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9017  2358   806     7    24  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9018  2365   814     9    16  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9019  2372   900    36    19  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9020  2428   869    28    42  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9021  2536   873    13    13  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9022  2558   882    14    15  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9023  2287  1013   401   267  -127   127            0 FORESTNOTNEARTOWN 0 0 0 0 0
+ 9024  2688    29   376   364  -127   127            0 DARKFOREST 0 0 0 0 0
+ 9025  3344   278    23    24  -127   127            0 SHRINE_SACRIFICE 0 0 0 0 0 Shrine of Sacrifice
+ 9026  4007   301    29    48  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9027  4036   310     9    31  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9028  4439  1253    87    97  -127   127            0 LIVESTK 0 0 0 0 0
+ 9029  4510  1075   103   169  -127   127            0 LIVESTK 0 0 0 0 0
+ 9030   762  1669    24    25  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9031   703  1280   385   436  -127   127            0 FORESTNOTNEARTOWN 0 0 0 0 0
+ 9032  1682  1498   539   534  -127   127            0 NEWBIE 0 0 0 0 0
+ 9033   727  2304   261   401  -127   127            0 FORESTNEARTOWN 0 0 0 0 0
+ 9034  1258  2433   284   383  -127   127            0 DARKERFOREST 0 0 0 0 0
+ 9035  1799  2154   219    85  -127   127            0 PLAINS 0 0 0 0 0
+ 9036  1791  2900   179    48  -127   127            0 PLAINS 0 0 0 0 0
+ 9037  1317  3017   225   103  -127   127            0 JUNGLE 0 0 0 0 0
+ 9038  1298  3120   244   133  -127   127            0 JUNGLE 0 0 0 0 0
+ 9039  1542  2999   249    96  -127   127            0 JUNGLE 0 0 0 0 0
+ 9040  1542  3095   249    78  -127   127            0 JUNGLE 0 0 0 0 0
+ 9041  1542  3173   249    84  -127   127            0 JUNGLE 0 0 0 0 0
+ 9042  1575  3351   216   134  -127   127            0 JUNGLE 0 0 0 0 0
+ 9043  1654  3485   519   179  -127   127            0 JUNGLE 0 0 0 0 0
+ 9044  1902  3231   130   175  -127   127            0 JUNGLE 0 0 0 0 0
+ 9045  1791  3134    42   174  -127   127            0 PLAINS 0 0 0 0 0
+ 9046  3363  2719   442   202  -127   127            0 FORESTNEARTOWN 0 0 0 0 0
