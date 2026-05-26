@@ -19012,11 +19012,11 @@
 <region       { SWAMP 0 LIZARDMANCAMP 0  } >
 <regionlimit  { SWAMP 5 LIZARDMANCAMP 1  } >
 <script       poi_cleanup>
-<eq           100535 0 0 -1 AT  0  0 0>
-<eq           100535 0 0 -1 AT  4  4 0>
-<eq           100535 0 0 -1 AT  4 -4 0>
-<eq           100535 0 0 -1 AT -4  4 0>
-<eq           100535 0 0 -1 AT -4 -4 0>
+<eq           100535 0 0 -1 AT  0  0 0 poi_cleanup>
+<eq           100535 0 0 -1 AT  4  4 0 poi_cleanup>
+<eq           100535 0 0 -1 AT  4 -4 0 poi_cleanup>
+<eq           100535 0 0 -1 AT -4  4 0 poi_cleanup>
+<eq           100535 0 0 -1 AT -4 -4 0 poi_cleanup>
 <resource     food       1 1 HUMANS>
 <resource     production 1 0 INTEREST>
 <@@@ END @@@>
@@ -19028,11 +19028,11 @@
 <region       { RATMENCAMP 0  } >
 <regionlimit  { RATMENCAMP 1  } >
 <script       poi_cleanup>
-<eq           100561 0 0 -1 AT  0  0 0>
-<eq           100561 0 0 -1 AT  4  4 0>
-<eq           100561 0 0 -1 AT  4 -4 0>
-<eq           100561 0 0 -1 AT -4  4 0>
-<eq           100561 0 0 -1 AT -4 -4 0>
+<eq           100561 0 0 -1 AT  0  0 0 poi_cleanup>
+<eq           100561 0 0 -1 AT  4  4 0 poi_cleanup>
+<eq           100561 0 0 -1 AT  4 -4 0 poi_cleanup>
+<eq           100561 0 0 -1 AT -4  4 0 poi_cleanup>
+<eq           100561 0 0 -1 AT -4 -4 0 poi_cleanup>
 <resource     food       1 1 HUMANS>
 <resource     production 1 0 INTEREST>
 <@@@ END @@@>
