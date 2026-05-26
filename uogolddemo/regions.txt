@@ -666,8 +666,8 @@ version 64207
  5680  2728  2184     8     8  -127   127            0 BANK_BUCDEN 0 0 0 0 0 Buccaneer's Den Bank
  5690  2728  2248    16     8  -127   127            0 PROVISIONER_BUCDEN 0 0 0 0 0 Pirates Provisioner in Buccaneer's Den
  5700  2728  2256     8     8  -127   127            0 THIEFGUILD_BUCDEN 0 0 0 0 0
- 5710  2688  1935   122   144     0   127            0 JUNGLE_BUCDEN_2 29 0 0 0 0
- 5711  2776  2094   220   173     0   127            0 JUNGLE_BUCDEN_2 29 0 0 0 0
+ 5710  2688  1935   989   144     0   127            0 JUNGLE_BUCDEN_2 29 0 0 0 0
+ 5711  2776  2094   873   173     0   127            0 JUNGLE_BUCDEN_2 29 0 0 0 0
  5730  3524  2018   291   288  -127   127            0 NONE_MAGINCIA 0 0 0 0 0 Isle of Magincia
  5740  3653  2045   151    49  -127   127            0 JUSTICE_MAGINCIA 0 0 0 0 0 Magincia
  5741  3652  2094   160   180  -127   127            0 JUSTICE_MAGINCIA 0 0 0 0 0 Magincia
@@ -698,7 +698,6 @@ version 64207
  5945  3680  2248    16     8  -127   127            0 PROVISIONER_MAGINCIA 0 0 0 0 0 Fishermen's Guild & Supplies in Maginci
  5955  3696  2240    16    12     0    39            0 MERCHANTGUILD_MAGINCIA 0 0 0 0 0 Merchants' Guild in Magincia
  5965  3652  2261    44    40  -127   127            0 DOCKS_MAGINCIA 0 0 0 0 0 docks in Magincia
- 5975  3528  2038   124   213  -127   127            0 JUNGLE_MAGINCIA 29 0 0 0 0
  5985  3554  2132    18    18  -127   127            0 JUSTICE_MAGINCIA 0 0 0 0 0 Magincia Moongate
  6005  2868  3324   205   195  -127   127            0 JUSTICE_SERPHOLD 0 0 0 0 0 Serpents Hold
  6006  2868  3324   205   195  -127   127            0 CITY_SERPHOLD 19 0 0 0 0 Serpents Hold
@@ -890,7 +889,6 @@ version 64207
  7458  4724  3380   131   481  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
  7459  4430  3784   294   159  -127   127            0 JUNGLE_AVATAR 29 0 0 0 0 Isle of the Avatar
  7465  4266  3693    12     9  -127   127            0 NONE_HUMILITY 0 0 0 0 0 Humility Shrine
- 7475  4577  3549    38    76     0   127            0 DRAGON_1 0 0 0 0 0 Fire Temple
  7485  4582  3562    26    20    75   127            0 DAEMON_1 0 0 0 0 0 Fire Temple
  7495  4562  3549    15    36     0    74            0 FIRELEMENTALSMALL_1 0 0 0 0 0 Fire Temple
  7496  4615  3549    21    31  -127   127            0 FIRELEMENTALSMALL_1 0 0 0 0 0 Fire Temple
@@ -1093,10 +1091,9 @@ version 64207
  8324  6048   152    15    15  -127   127            0 DAEMON_DUNGN_HYTHLOTH_5 0 0 0 0 0
  8325  6055    87    18    18  -127   127            0 DAEMON_DUNGN_HYTHLOTH_6 0 0 0 0 0
  8400  5645   549    27    28  -127   127            0 BRIGANDMEDIUM_DUNGN_WRONG 0 0 0 0 0
- 8500  4562  3549    36    33  -127   127            0 DRAGON_FIREISLAND_1 0 0 0 0 0
- 8501  4598  3549    38    33  -127   127            0 DRAGON_FIREISLAND_2 0 0 0 0 0
+ 8500  4562  3549    36    33  -127    74            0 DRAGON_FIREISLAND_1 0 0 0 0 0
+ 8501  4598  3549    38    33  -127    74            0 DRAGON_FIREISLAND_2 0 0 0 0 0
  8502  1125  2211    40    40  -127   127            0 DAEMON_1 0 0 0 0 0
- 8503  4582  3562    26    20  -127   127            0 DAEMON_2 0 0 0 0 0
  8505   736  1381    44    42  -127   127            0 LICHLARGE_1 0 0 0 0 0
  8506  1014   819     4     4  -127    19            0 LICH_2 0 0 0 0 0
  8507  2431  1081    22    39  -127   127            0 LICH_3 0 0 0 0 0
