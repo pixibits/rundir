@@ -371,7 +371,7 @@ version 64207
  3190  1034  2032   508   127  -127   127            0 FORESTNOTNEARTOWN 27 0 0 0 0 forest south of Britain
  3200  1409  2098    19    14  -127   127            0 GUARD_9 0 0 0 0 0 a guard tower south of Britain
  3230  1464  2500    16    16  -127   127            0 RUINS_14 0 0 0 0 0
- 3240  1258  2159   284   274  -127   127            0 DARKERFOREST_2 27 0 0 0 0
+ 3240  1258  2159   284   274  -127   127            0 DARKFOREST_2 27 0 0 0 0
  3250   988  2304   270   428  -127   127            0 FORESTNOTNEARTOWN_5 27 0 0 0 0 forest east of Skara Brae
  3270  1291  2816   251   201  -127   127            0 JUNGLE_0 29 0 0 0 0
  3280  1542  2887   249   112  -127   127            0 JUNGLE_1 29 0 0 0 0 Trinsic jungles
@@ -1189,7 +1189,7 @@ version 64207
  9031   703  1280   385   436  -127   127            0 FORESTNOTNEARTOWN 0 0 0 0 0 a forest west of Britain
  9032  1682  1498   539   534  -127   127            0 NEWBIE 0 0 0 0 0
  9033   727  2304   261   401  -127   127            0 FORESTNEARTOWN 0 0 0 0 0
- 9034  1258  2433   284   383  -127   127            0 DARKERFOREST 0 0 0 0 0
+ 9034  1258  2433   284   383  -127   127            0 DARKFOREST 0 0 0 0 0
  9035  1799  2154   219    85  -127   127            0 PLAINS 0 0 0 0 0
  9036  1791  2900   179    48  -127   127            0 PLAINS 0 0 0 0 0
  9037  1317  3017   225   103  -127   127            0 JUNGLE 0 0 0 0 0
@@ -1207,3 +1207,4 @@ version 64207
  9049  1672  2982     8     8  -127   127            0 MAGE 0 0 0 0 0 Hidden Valley
  9050  1670  2979    12    13  -127   127            0 OUTLAW 0 0 0 0 0 Hidden Valley
  9051  1643  2887    21    51  -127   127            0 NOSPAWN 0 0 0 0 0
+ 9052  1608   427   166    70  -127   127            0 AIRELEMENTALLARGE 0 0 0 0 0
