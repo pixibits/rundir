@@ -10834,8 +10834,8 @@
 # orc War Party   Difficulty 10
 <type           NORMAL ORC_CAP>
 <frequency      45>
-<region         { HYTHLOTH 0 DESERT 0} >
-<regionlimit    { HYTHLOTH 3 DESERT 1} >
+<region         { HYTHLOTH 0 DESERT 0 } >
+<regionlimit    { HYTHLOTH 3 DESERT 1 } >
 <sex            OTHER>
 <name           603>
 <corpsename     Orcish>
@@ -18969,7 +18969,7 @@
 <1560>
 # UNDEAD Backpack Template "Rich" quality
 <type         ITEM BACKPACK>
-<eq           { 101503 1 101513 1} 0 0 -1 SELFCONTAINED>
+<eq           { 101503 1 101513 1 } 0 0 -1 SELFCONTAINED>
 <eq           { 7389 1 7397 1 6931 1 6932 1 7407 1 7393 1 6929 1 6930 1 7408 1 7405 1 6921 1 7406 1 3786 1 3787 1 3788 1 3789 1 3790 1 3791 1 3792 1 3793 1 3794 1 } 0 0 1 SELFCONTAINED>
 <eq           random_scroll 0 0 1 SELFCONTAINED>
 <eq           { random_potion 1 0 3 } 0 0 1 SELFCONTAINED>
