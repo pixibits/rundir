@@ -932,10 +932,10 @@ version 64207
  7770  5346    52     6    11    15    34            0 BUTCHER_WIND 0 0 0 0 0 Mage's Appetite in Wind
  7780  5185   146    12    12  -127   127            0 DAEMON_WIND 0 0 0 0 0
  7790  5134   138     8     8  -127   127            0 WATERELEMENTAL_WIND 0 0 0 0 0
- 7800  5376   516   256   128  -127   127            0 DUNGN_DESPISE 26 0 0 0 0 Despise
- 7801  5376   644   256   128  -127   127            0 DUNGN_DESPISE 26 0 0 0 0 Despise
+ 7800  5376   516   256   128  -127   127            0 DUNGN_DESPISE 26 0 0 0 30 Despise
+ 7801  5376   644   256   128  -127   127            0 DUNGN_DESPISE 26 0 0 0 30 Despise
  7802  5376   772   128   256  -127   127            0 DUNGN_DESPISE 26 0 0 0 0 Despise
- 7803  5504   772   128   256  -127   127            0 DUNGN_DESPISE 26 0 0 0 0 Despise
+ 7803  5504   772   128   256  -127   127            0 DUNGN_DESPISE 26 0 0 0 30 Despise
  7805  5430   670    24    24  -127   127            0 LIZARDMANSMALL_DUNGN_DESPISE_2 0 0 0 0 0
  7815  5448   520    16     8  -127   127            0 GIANTSPIDER_DUNGN_DESPISE_1 0 0 0 0 0
  7825  5382   656    32    16  -127   127            0 RATMAN_DUNGN_DESPISE_2 0 0 0 0 0
@@ -950,15 +950,15 @@ version 64207
  7900  5432   839    24    22  -127   127            0 BRIGAND_DUNGN_DESPISE_2 0 0 0 0 0
  7901  5382   887    21    21  -127   127            0 BRIGAND_DUNGN_DESPISE_2 0 0 0 0 0
  7915  5546   813    25    24  -127   127            0 EVIL_MAGE_DUNGN_DESPISE_3 0 0 0 0 0
- 7925  5125   525   232   243  -127   127            0 DUNGN_DECEIT 26 0 0 0 0 Deceit
- 7935  5121   770   246   248  -127   127            0 DUNGN_DESTARD 26 0 0 0 0 Destard
- 7945  5376     8   256   256  -127   127            0 DUNGN_SHAME 26 0 0 0 0 Shame
- 7946  5632     8   256   128  -127   127            0 DUNGN_SHAME 26 0 0 0 0 Shame
- 7960  5888     8   256   256  -127   127            0 DUNGN_HYTHLOTH 26 0 0 0 0 Hythloth
- 7970  5632   512   256   160  -127   127            0 DUNGN_WRONG 26 0 0 0 0 Wrong
+ 7925  5125   525   232   243  -127   127            0 DUNGN_DECEIT 26 0 0 0 30 Deceit
+ 7935  5121   770   246   248  -127   127            0 DUNGN_DESTARD 26 0 0 0 30 Destard
+ 7945  5376     8   256   256  -127   127            0 DUNGN_SHAME 26 0 0 0 30 Shame
+ 7946  5632     8   256   128  -127   127            0 DUNGN_SHAME 26 0 0 0 30 Shame
+ 7960  5888     8   256   256  -127   127            0 DUNGN_HYTHLOTH 26 0 0 0 30 Hythloth
+ 7970  5632   512   256   160  -127   127            0 DUNGN_WRONG 26 0 0 0 30 Wrong
  7980  5376   516   256   128  -127   127            0 DESPISE 26 0 0 0 0 Despise
  7981  5376   644   256   128  -127   127            0 DESPISE 26 0 0 0 0 Despise
- 7982  5376   772   128   256  -127   127            0 DESPISE 26 0 0 0 0 Despise
+ 7982  5376   772   128   256  -127   127            0 DESPISE 26 0 0 0 30 Despise
  7983  5504   772   128   256  -127   127            0 DESPISE 26 0 0 0 0 Despise
  7984  5376     8   256   256  -127   127            0 SHAME 26 0 0 0 0 Shame
  7985  5632     8   256   128  -127   127            0 SHAME 26 0 0 0 0 Shame
@@ -1100,7 +1100,7 @@ version 64207
  8508  4528  1314     7    21  -127   127            0 LICH_4 0 0 0 0 0
  8510  3590  2460   117   225    -5   100            0 CITY_OCLLO 17 0 0 0 0 Ocllo
  8511  3695  2558    65   153    -5   100            0 CITY_OCLLO 17 0 0 0 0 Ocllo
- 8600  5383  1794   244   247  -127   127            0 DUNGN_COVETOUS 26 0 0 0 0 Covetous
+ 8600  5383  1794   244   247  -127   127            0 DUNGN_COVETOUS 26 0 0 0 30 Covetous
  8601  5447  1852    50    50  -127   127            0 HARPYMEDIUM_DUNGN_COVETOUS 0 0 0 0 0
  8602  5428  1880    50    50  -127   127            0 HEADLESSSMALL_DUNGN_COVETOUS 0 0 0 0 0
  8603  5413  1888    60    60  -127   127            0 HARPYSMALL_DUNGN_COVETOUS 0 0 0 0 0
