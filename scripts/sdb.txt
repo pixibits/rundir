@@ -9006,3 +9006,12 @@ any
 "You harvest some wool"
 "You harvest some fish"
 "There is nothing useful here to harvest."
+petAllCmd
+"all"
+"Britannia_Actor"
+"Britannia_Beggar"
+"Britannia_Gypsy"
+"Britannia_Artist"
+"Britannia_Laborer"
+fillbookshelves
+"This doesn't belong to me, I'll have to steal it."
