@@ -9006,6 +9006,7 @@ any
 "You harvest some wool"
 "You harvest some fish"
 "There is nothing useful here to harvest."
+<<<<<<< Updated upstream
 petAllCmd
 "all"
 "Britannia_Actor"
@@ -9013,3 +9014,8 @@ petAllCmd
 "Britannia_Gypsy"
 "Britannia_Artist"
 "Britannia_Laborer"
+=======
+"This doesn't belong to you."
+fillbookshelves
+"This doesn't belong to me, I'll have to steal it."
+>>>>>>> Stashed changes
