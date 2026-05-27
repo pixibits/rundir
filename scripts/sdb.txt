@@ -9013,5 +9013,10 @@ petAllCmd
 "Britannia_Gypsy"
 "Britannia_Artist"
 "Britannia_Laborer"
+"[none]"
+dz
+"them and arrange terms.           ---"
+"*destination*"
+"You can't practice on this while mounted."
 fillbookshelves
 "This doesn't belong to me, I'll have to steal it."

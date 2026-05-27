@@ -168,6 +168,10 @@ trigger targetobj {
 		systemMessage(user, "That is too far away.");
 		return(0x00);
 	}
+	if (!canSeeObj(user, usedon)) {
+		systemMessage(user, "You can't see that.");
+		return(0x00);
+	}
 	int Q4Q1;
 	int Q4QI;
 	Q4QI = 0x00;

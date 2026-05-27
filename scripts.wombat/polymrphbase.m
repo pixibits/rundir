@@ -20,7 +20,9 @@ function int Q43R(obj user, int newType) {
 				setObjVar(Q62D, "oldHue", getHue(Q62D));
 			}
 			setType(user, newType);
-			setHue(user, 0x00);
+			if ((newType != 0x0190) && (newType != 0x0191)) {
+				setHue(user, 0x00);
+			}
 			int Q4NC = (getSkillLevel(user, 0x19) / 0x05) * 0x05;
 			if (isScroll()) {
 				Q4NC = 0x3C;

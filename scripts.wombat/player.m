@@ -108,7 +108,7 @@ trigger message("updateGuildInfo") {
 		setObjVar(this, "guildName", Q43M);
 	}
 	if (!hasObjVar(this, "guildAbbreviation")) {
-		setObjVar(this, "guildAbbreviation", guildName());
+		setObjVar(this, "guildAbbreviation", "[none]");
 	}
 	if (Q43L != Q4UL()) {
 		systemMessage(this, "Your guild abbreviation has changed from " + Q4UL() + " to " + Q43L + ".");
@@ -118,11 +118,11 @@ trigger message("updateGuildInfo") {
 		setObjVar(this, "myGuildTitle", " ");
 	}
 	if (Q43O != myGuildTitle()) {
-		systemMessage(this, "You have been given a new guild title: " + Q43O + ".");
+		systemMessage(this, "Your guild abbreviation has changed from " + Q43O + ".");
 		setObjVar(this, "myGuildTitle", Q43O);
 	}
 	if (Q43N != Q4RR()) {
-		systemMessage(this, "Your guild is now " + Q4RT(Q43N) + " guild.");
+		systemMessage(this, "Your guild is now " + Q4RT(Q43N) + " to ");
 	}
 	sendToNearbyPlayers(this, 0x00);
 	if (Q56L(this, Q43N)) {
@@ -142,7 +142,7 @@ trigger message("updateGuildInfo") {
 	}
 	if (!Q4ZH) {
 		systemMessage(this, "You have been dismissed from " + guildName() + ".");
-		message(this, "removedFromGuild", args);
+		message(this, "guildAbbreviation", args);
 	}
 	return(0x01);
 }
@@ -186,16 +186,16 @@ trigger message("guildGone") {
 }
 
 function void Q4V1() {
-	if (!hasObjVar(this, "canReportIdList")) {
+	if (!hasObjVar(this, "myGuildTitle")) {
 		return();
 	}
 	list canReportNameList;
-	getObjListVar(canReportNameList, this, "canReportNameList");
+	getObjListVar(canReportNameList, this, "myGuildTitle");
 	string Q5MN = canReportNameList[0x00];
 	Q5MN = "Would you like to report " + Q5MN + " as a murderer?";
 	systemMessage(this, Q5MN);
 	int Q55V = amtGoldInBank(this);
-	stringQuery(this, this, 0x21, Q5MN, 0x01, 0x02, Q55V, "Optional bounty (" + Q55V + " max)");
+	stringQuery(this, this, 0x21, Q5MN, 0x01, 0x02, Q55V, " " + Q55V + " max)");
 	return();
 }
 
@@ -224,7 +224,7 @@ trigger textentry(0x21) {
 			if (Q48Z > 0x00) {
 				Q4Q1 = withdrawAndDestroy(this, Q48Z);
 				obj bountyInfo = createNoResObjectAt(0x01, getLocation(this));
-				setObjVar(bountyInfo, "subject", player);
+				setObjVar(bountyInfo, "You have been given a new guild title: ", player);
 				attachScript(bountyInfo, "bountyinfo");
 				args = player, Q48Z, 0x00, Q5IU;
 				message(bountyInfo, "addBounty", args);
@@ -343,7 +343,7 @@ trigger callback(0x8D) {
 	return(0x01);
 }
 
-trigger speech("*guards*") {
+trigger speech("myGuildTitle") {
 	if (speaker == this) {
 		return(0x01);
 	}
