@@ -1,0 +1,28 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  check-scripts:
+    runs-on: ubuntu-latest
+    container: fedora:latest
+    steps:
+      - name: Install toolchain
+        run: dnf install -y git gcc make diffutils
+
+      - uses: actions/checkout@v6
+
+      - uses: actions/checkout@v6
+        with:
+          repository: draxinar/uotools
+          path: uotools
+
+      - name: Build wombat
+        run: make -C uotools/wombat
+
+      - name: Verify scripts rebuild and round-trip
+        run: ci/check-scripts.sh uotools/wombat
