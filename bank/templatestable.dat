@@ -3472,67 +3472,6 @@
 <resource     desire     10  2    GOLD>
 <resource     desire      1  1    GAMBLING>
 <@@@ END @@@>
-<40>
-#  Brigand
-<type         NORMAL 400>
-<frequency    100>
-<region       { BRIGANDSMALL 0 BRIGANDMEDIUM 0 BRIGANDLARGE 0 BRIGAND 0 } >
-<regionlimit  { BRIGANDSMALL 2 BRIGANDMEDIUM 4 BRIGANDLARGE 6 BRIGAND 1 } >
-<job          brigand>
-<sex          MALE>
-<name         000>
-<partialhue   all_skin_colors>
-<objvar       int hirelingWages 6>
-<script       human>
-<script       pet>
-<convfrag     BRITANNIA_GENERAL>
-<convfrag     BRITANNIA_NEEDS>
-<convfrag     BRITANNIA_INIT>
-<convfrag     BRITANNIA_BRIGAND>
-<sfxwashit    human_moomph01>
-<sfxdie       human_m_die_01>
-<alignment    NEUTRAL>
-<attitude     1d41-21>
-<notoriety    2d15-77>
-<strength     1d15+65>
-<dexterity    1d15+80>
-<intelligence 1d15+60>
-<hp           STR>
-<mana         INT>
-<stamina      DEX>
-<sk           skill_melee           25d10+525>
-<sk           skill_magic_defense   25d10+525>
-<sk           skill_battle_defense  25d10+525>
-<sk           skill_weapon_slashing 25d10+325>
-<sk           skill_weapon_bashing  25d10+225>
-<sk           skill_weapon_piercing 25d10+425>
-<sk           skill_weapon_hand     25d10+325>
-<sk           skill_poisoning       25d10+325>
-<sk           skill_locksmith       25d10+325>
-<sk           skill_hide            25d10+425>
-<sk           skill_peek            25d10+325>
-<sk           skill_steal           25d10+425>
-<sk           skill_remove_trap     25d10+325>
-<sk           skill_camping         25d10+425>
-<resistances  piercing>
-<eq           hair all_hair_colors 1>
-<eq           facial_hair match_hair 1>
-<eq           poor_shirt all_colors 1>
-<eq           poor_pants all_colors 1>
-<eq           random_footwear 0 0 1>
-<eq           random_weapon 0 0 1>
-<eq           random_coin_purse 0 0 1>
-<resource     food        5  1    FOOD>
-<resource     food        5  1    EGGS>
-<resource     food        5  1    FRUIT>
-<resource     food        5  1    FISH>
-<resource     shelter      1   1    HOME>
-<resource     shelter     16   0    HOUSES>
-<resource     production  8  0    MEAT>
-<resource     desire      1 -3    DANGER>
-<resource     desire      1 -3    SPOOKINESS>
-<resource     desire     10  2    GOLD>
-<@@@ END @@@>
 <41>
 # Architecht
 <type         SHOPKEEPER 400>
@@ -6372,9 +6311,9 @@
 <convfrag     BRITANNIA_BRIGAND>
 <sfxwashit    human_moomph01>
 <sfxdie       human_m_die_01>
-<alignment    NEUTRAL>
+<alignment    EVIL>
 <attitude     1d41-21>
-<notoriety    2d15-77>
+<notoriety    -77>
 <strength     1d15+65>
 <dexterity    1d15+80>
 <intelligence 1d15+60>
@@ -14937,66 +14876,6 @@
 <resource     desire     10  2    GOLD>
 <resource     desire      1  1    GAMBLING>
 <@@@ END @@@>
-<1040>
-#  Brigand
-<type         NORMAL 401>
-<frequency    100>
-<region       { BRIGANDSMALL 0 BRIGANDMEDIUM 0 BRIGANDLARGE 0 BRIGAND 0 } >
-<regionlimit  { BRIGANDSMALL 2 BRIGANDMEDIUM 4 BRIGANDLARGE 6 BRIGAND 1 } >
-<job          brigand>
-<sex          FEMALE>
-<name         000>
-<partialhue   all_skin_colors>
-<objvar       int hirelingWages 6>
-<script       human>
-<script       pet>
-<convfrag     BRITANNIA_GENERAL>
-<convfrag     BRITANNIA_NEEDS>
-<convfrag     BRITANNIA_INIT>
-<convfrag     BRITANNIA_BRIGAND>
-<sfxwashit    human_foomph01>
-<sfxdie       human_f_die_01>
-<alignment    NEUTRAL>
-<attitude     1d41-21>
-<notoriety    2d15-77>
-<strength     1d15+65>
-<dexterity    1d15+80>
-<intelligence 1d15+60>
-<hp           STR>
-<mana         INT>
-<stamina      DEX>
-<sk           skill_melee           25d10+525>
-<sk           skill_magic_defense   25d10+525>
-<sk           skill_battle_defense  25d10+525>
-<sk           skill_weapon_slashing 25d10+325>
-<sk           skill_weapon_bashing  25d10+225>
-<sk           skill_weapon_piercing 25d10+425>
-<sk           skill_weapon_hand     25d10+325>
-<sk           skill_poisoning       25d10+325>
-<sk           skill_locksmith       25d10+325>
-<sk           skill_hide            25d10+425>
-<sk           skill_peek            25d10+325>
-<sk           skill_steal           25d10+425>
-<sk           skill_remove_trap     25d10+325>
-<sk           skill_camping         25d10+425>
-<resistances  piercing>
-<eq           female_hair all_hair_colors 1>
-<eq           poor_shirt all_colors 1>
-<eq           skirt all_colors 1>
-<eq           random_footwear 0 0 1>
-<eq           random_weapon 0 0 1>
-<eq           random_coin_purse 0 0 1>
-<resource     food        5  1    FOOD>
-<resource     food        5  1    EGGS>
-<resource     food        5  1    FRUIT>
-<resource     food        5  1    FISH>
-<resource     shelter      1   1    HOME>
-<resource     shelter     16   0    HOUSES>
-<resource     production  8  0    MEAT>
-<resource     desire      1 -3    DANGER>
-<resource     desire      1 -3    SPOOKINESS>
-<resource     desire     10  2    GOLD>
-<@@@ END @@@>
 <1041>
 # Architecht
 <type         SHOPKEEPER 401>
@@ -17793,9 +17672,9 @@
 <convfrag     BRITANNIA_BRIGAND>
 <sfxwashit    human_foomph01>
 <sfxdie       human_f_die_01>
-<alignment    NEUTRAL>
+<alignment    EVIL>
 <attitude     1d41-21>
-<notoriety    2d15-77>
+<notoriety    -77>
 <strength     1d15+65>
 <dexterity    1d15+80>
 <intelligence 1d15+60>
