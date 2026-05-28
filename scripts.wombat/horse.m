@@ -1,4 +1,4 @@
-inherits pet;
+inherits globals;
 
 trigger use {
 	if (isDead(user)) {
