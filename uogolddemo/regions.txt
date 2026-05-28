@@ -301,7 +301,7 @@ version 64207
  2530  1088  1837   594   195  -127   127            0 NEWBIE_BRITAIN_2 0 0 0 0 0 Forest near Britain
  2545  1088  1280   412   259  -127   127            0 NEWBIE_BRITAIN_1 0 0 0 0 0 Forest near Britain
  2547  1546  1280   561   218  -127   127            0 NEWBIE_BRITAIN_1 0 0 0 0 0 Forest near Britain
- 2550  1337  1444    52    66    10    30            0 CEMETERY_BRITAIN 0 0 0 0 0 Britain Cemetery
+ 2550  1337  1444    53    66    10    30            0 CEMETERY_BRITAIN 0 0 0 0 0 Britain Cemetery
  2570  2138  1306    89    94  -127   127            0 ORCCAMP_COVE 0 0 0 0 0 Cove orc fort
  2625  2612  2057    76   210  -127   127            0 OUTLAW_BUCDEN 11 0 0 0 0 Buccaneer's Den
  2635  2664  2232    24     8  -127   127            0 TAVERN_BUCDEN 34 0 0 0 0 The Pirate's Plunder in Buccaneer's Den
@@ -1208,3 +1208,5 @@ version 64207
  9050  1670  2979    12    13  -127   127            0 OUTLAW 0 0 0 0 0 Hidden Valley
  9051  1643  2887    21    51  -127   127            0 NOSPAWN 0 0 0 0 0
  9052  1608   427   166    70  -127   127            0 AIRELEMENTALLARGE 0 0 0 0 0
+ 9053  1484  1544    15    15  -127   127            0 MAGE 0 0 0 0 0
+ 9054  1484  1544    15    15  -127   127            0 MAGE 0 0 0 0 0
